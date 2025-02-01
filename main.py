@@ -20,11 +20,12 @@ with open("DailyPapers.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keyword_groups = ["Hubbard", "t-J", "LaNiO"]
+keyword_groups = ["Superconductivity", "Hubbard", "t-J", "LaNiO"]
 keywords = {
+    "Superconductivity": ["superconductivity", "superconductor", "superconduction"],
     "Hubbard": ["Hubbard", "hubbard"],
     "t-J": ["t-J",],
-    "LaNiO": ["LaNiO", "La3Ni2O7", "La4Ni3O10", "LNO327", "LNO4310", "La$_3$Ni$_2$O$_7$", "La$_4$Ni$_3$O$_\{10\}$", "La$_\{3\}$Ni$\{_2\}$O$\{_7\}$", "La$\{_4\}$Ni$\{_3\}$O$_\{10\}$"]
+    "LaNiO": ["LaNiO", "La3Ni2O7", "La4Ni3O10", "LNO327", "LNO4310", "La$_3$Ni$_2$O$_7$", "La$_4$Ni$_3$O$_\{10\}$", "La$_\{3\}$Ni$\{_2\}$O$\{_7\}$", "La$\{_4\}$Ni$\{_3\}$O$_\{10\}$"],
 }
 
 for group in keyword_groups:
@@ -62,7 +63,7 @@ for keyword_group in keyword_groups:
         if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
         else: link = "OR"
         papers += get_daily_papers_by_keyword(keyword, column_names, max_result, link)
-        time.sleep(3) # avoid being blocked by arXiv API
+        time.sleep(5) # avoid being blocked by arXiv API
 
     unique_papers = {}
     for paper in papers:
@@ -78,7 +79,7 @@ for keyword_group in keyword_groups:
     f_dp.write("\n\n")
     f_is.write(is_table)
     f_is.write("\n\n")
-    time.sleep(1) # avoid being blocked by arXiv API
+    time.sleep(5) # avoid being blocked by arXiv API
 
 f_dp.close()
 f_is.close()

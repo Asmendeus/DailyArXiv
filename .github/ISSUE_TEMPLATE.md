@@ -4,6 +4,25 @@ labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
 
+## Superconductivity
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Symmetries of Weyl Superconductors with Different Pairings](http://arxiv.org/abs/2501.18573v1)** | 2025-01-30 |  |
+| **[Direct Implementation of High-Fidelity Three-Qubit Gates for Superconducting Processor with Tunable Couplers](http://arxiv.org/abs/2501.18319v1)** | 2025-01-30 | <details><summary>main ...</summary><p>main text: 8 pages, 4 figures; supp: 11 pages, 11 figures, 2 tables</p></details> |
+| **[Space-Time-Coupled Qubits for Enhanced Superconducting Quantum Computing](http://arxiv.org/abs/2501.16872v3)** | 2025-01-30 |  |
+| **[Information dynamics of our brains in dynamically driven disordered superconducting loop networks](http://arxiv.org/abs/2310.19279v4)** | 2025-01-29 | 6 figures, 26 pages |
+| **[Conditions for orbital-selective altermagnetism in Sr2RuO4: tight-binding model, similarities with cuprates, and implications for superconductivity](http://arxiv.org/abs/2501.14378v2)** | 2025-01-29 | 18 pages, 16 figures |
+| **[Chiral cavity control of superconducting diode-like nonlinearities](http://arxiv.org/abs/2501.17924v1)** | 2025-01-29 |  |
+| **[A strong-driving toolkit for topological Floquet energy pumps with superconducting circuits](http://arxiv.org/abs/2501.17915v1)** | 2025-01-29 | 19 pages, 14 figures |
+| **[Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration](http://arxiv.org/abs/2501.17825v1)** | 2025-01-29 | <details><summary>17 pa...</summary><p>17 pages, 18 fugures, 6 tables</p></details> |
+| **[Bulk superconductivity in pressurized trilayer nickelate Pr4Ni3O10 single crystals](http://arxiv.org/abs/2501.17709v1)** | 2025-01-29 | 16 pages, 4 figures |
+| **[Supercurrent Diode Effect in Josephson Interferometers with Multiband Superconductors](http://arxiv.org/abs/2501.17641v1)** | 2025-01-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Comments, suggestions, missed citations are very welcome</p></details> |
+| **[Quantum transport theory for unconventional magnets; interplay of altermagnetism and p-wave magnetism with superconductivity](http://arxiv.org/abs/2412.10236v2)** | 2025-01-29 | 16 pages, 3 figures |
+| **[Keldysh field theory approach to direct electric and thermoelectric currents in quantum dots coupled to superconducting leads](http://arxiv.org/abs/2501.17623v1)** | 2025-01-29 | 16 pages, 14 figures |
+| **[Direct Observation of Vortices and Antivortices Generation in Phase-Separated Superconductor Sn-Pb Solder](http://arxiv.org/abs/2501.17465v1)** | 2025-01-29 | 27 pages, 15 figures |
+| **[Enhancement of superconductivity on thin film of Sn under high pressure](http://arxiv.org/abs/2501.17451v1)** | 2025-01-29 |  |
+| **[Anomalous proximity effect of a spin-singlet superconductor with a spin-orbit interaction](http://arxiv.org/abs/2501.17369v1)** | 2025-01-29 | 8 pages, 6 figures |
+
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
