@@ -7,7 +7,6 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Symmetries of Weyl Superconductors with Different Pairings](http://arxiv.org/abs/2501.18573v1)** | 2025-01-30 |  |
 | **[Direct Implementation of High-Fidelity Three-Qubit Gates for Superconducting Processor with Tunable Couplers](http://arxiv.org/abs/2501.18319v1)** | 2025-01-30 | <details><summary>main ...</summary><p>main text: 8 pages, 4 figures; supp: 11 pages, 11 figures, 2 tables</p></details> |
 | **[Space-Time-Coupled Qubits for Enhanced Superconducting Quantum Computing](http://arxiv.org/abs/2501.16872v3)** | 2025-01-30 |  |
 | **[Information dynamics of our brains in dynamically driven disordered superconducting loop networks](http://arxiv.org/abs/2310.19279v4)** | 2025-01-29 | 6 figures, 26 pages |
@@ -16,12 +15,13 @@ labels: documentation
 | **[A strong-driving toolkit for topological Floquet energy pumps with superconducting circuits](http://arxiv.org/abs/2501.17915v1)** | 2025-01-29 | 19 pages, 14 figures |
 | **[Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration](http://arxiv.org/abs/2501.17825v1)** | 2025-01-29 | <details><summary>17 pa...</summary><p>17 pages, 18 fugures, 6 tables</p></details> |
 | **[Bulk superconductivity in pressurized trilayer nickelate Pr4Ni3O10 single crystals](http://arxiv.org/abs/2501.17709v1)** | 2025-01-29 | 16 pages, 4 figures |
-| **[Supercurrent Diode Effect in Josephson Interferometers with Multiband Superconductors](http://arxiv.org/abs/2501.17641v1)** | 2025-01-29 | <details><summary>11 pa...</summary><p>11 pages, 4 figures. Comments, suggestions, missed citations are very welcome</p></details> |
 | **[Quantum transport theory for unconventional magnets; interplay of altermagnetism and p-wave magnetism with superconductivity](http://arxiv.org/abs/2412.10236v2)** | 2025-01-29 | 16 pages, 3 figures |
 | **[Keldysh field theory approach to direct electric and thermoelectric currents in quantum dots coupled to superconducting leads](http://arxiv.org/abs/2501.17623v1)** | 2025-01-29 | 16 pages, 14 figures |
-| **[Direct Observation of Vortices and Antivortices Generation in Phase-Separated Superconductor Sn-Pb Solder](http://arxiv.org/abs/2501.17465v1)** | 2025-01-29 | 27 pages, 15 figures |
 | **[Enhancement of superconductivity on thin film of Sn under high pressure](http://arxiv.org/abs/2501.17451v1)** | 2025-01-29 |  |
-| **[Anomalous proximity effect of a spin-singlet superconductor with a spin-orbit interaction](http://arxiv.org/abs/2501.17369v1)** | 2025-01-29 | 8 pages, 6 figures |
+| **[Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory](http://arxiv.org/abs/2404.00719v3)** | 2025-01-28 |  |
+| **[Enhancement of the superconducting transition temperature due to multiband effect in the topological nodal-line semimetal Pb$_{1-x}$Sn$_{x}$TaSe$_{2}$](http://arxiv.org/abs/2411.19932v2)** | 2025-01-28 | 7 pages, 4 figures |
+| **[Dephasing-induced leakage in multi-level superconducting quantum circuits](http://arxiv.org/abs/2501.17008v1)** | 2025-01-28 | 10 pages, 3 figures |
+| **[Origin of the Diagonal Double-Stripe Spin-Density-Wave and Potential Superconductivity in Bulk La$_3$Ni$_2$O$_{7}$ at Ambient Pressure](http://arxiv.org/abs/2501.14752v2)** | 2025-01-28 | <details><summary>The c...</summary><p>The calculation details are improved and the format is modified</p></details> |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -85,19 +85,19 @@ labels: documentation
 | --- | --- | --- |
 | **[Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](http://arxiv.org/abs/2501.18301v1)** | 2025-01-30 | <details><summary>Contr...</summary><p>Contribution to Proceedings of the 41st International Symposium on Lattice Field Theory (LATTICE2024)</p></details> |
 | **[Tensor network state methods and quantum information theory for strongly correlated molecular systems](http://arxiv.org/abs/2501.18263v1)** | 2025-01-30 | 17 pages, 21 figures |
-| **[Quantum algorithm for partial differential equations of non-conservative systems with spatially varying parameters](http://arxiv.org/abs/2407.05019v2)** | 2025-01-30 | 21 pages, 5 figures |
-| **[Realization of Two-dimensional Discrete Time Crystals with Anisotropic Heisenberg Coupling](http://arxiv.org/abs/2501.18036v1)** | 2025-01-29 |  |
-| **[Refined Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase](http://arxiv.org/abs/2406.19372v3)** | 2025-01-29 | <details><summary>Paper...</summary><p>Paper (7 pages 10 figures) + Appendix (4 pages 4 figures)</p></details> |
 | **[Tensor networks enable the calculation of turbulence probability distributions](http://arxiv.org/abs/2407.09169v2)** | 2025-01-29 | <details><summary>Post ...</summary><p>Post peer-review version accepted for publication; link to data & code added</p></details> |
-| **[Almost Strong Zero Modes at Finite Temperature](http://arxiv.org/abs/2501.11121v2)** | 2025-01-29 | 22 pages |
-| **[Linear-time classical approximate optimization of cubic-lattice classical spin glasses](http://arxiv.org/abs/2501.17267v1)** | 2025-01-28 | 9 pages, 10 figures |
 | **[Variational Neural and Tensor Network Approximations of Thermal States](http://arxiv.org/abs/2401.14243v2)** | 2025-01-28 | <details><summary>5+10 ...</summary><p>5+10 pages, 3+5 figures, accepted by Physical Review B</p></details> |
-| **[Entanglement Negativity and Replica Symmetry Breaking in General Holographic States](http://arxiv.org/abs/2409.13009v4)** | 2025-01-27 | 29 pages, 10 figures |
-| **[Twisted gauging and topological sectors in (2+1)d abelian lattice gauge theories](http://arxiv.org/abs/2501.16301v1)** | 2025-01-27 |  |
 | **[Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits](http://arxiv.org/abs/2501.15939v1)** | 2025-01-27 | <details><summary>To be...</summary><p>To be published in 2025 33rd Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP 2025)</p></details> |
 | **[Improving accuracy of tree-tensor network approach by optimization of network structure](http://arxiv.org/abs/2501.15514v1)** | 2025-01-26 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 2 tables</p></details> |
 | **[Tensor network Monte Carlo simulations for the two-dimensional random-bond Ising model](http://arxiv.org/abs/2409.06538v2)** | 2025-01-26 | 14 pages, 11 figures |
-| **[Many-body computing on Field Programmable Gate Arrays](http://arxiv.org/abs/2402.06415v2)** | 2025-01-25 | <details><summary>10+8 ...</summary><p>10+8 pages, 5+7 figures. Round 4</p></details> |
+| **[Exploiting the Hermitian symmetry in tensor network algorithms](http://arxiv.org/abs/2410.11596v2)** | 2025-01-24 | 7 pages, 4 figures |
+| **[Cons-training tensor networks](http://arxiv.org/abs/2405.09005v3)** | 2025-01-23 | <details><summary>v3: m...</summary><p>v3: mostly cosmetic changes and further expanded section on complexity</p></details> |
+| **[Non-zero noise extrapolation: accurately simulating noisy quantum circuits with tensor networks](http://arxiv.org/abs/2501.13237v1)** | 2025-01-22 |  |
+| **[Efficient Simulation of Leakage Errors in Quantum Error Correcting Codes Using Tensor Network Methods](http://arxiv.org/abs/2308.08186v2)** | 2025-01-21 | 15 pages, 12 figures |
+| **[The Cytnx Library for Tensor Networks](http://arxiv.org/abs/2401.01921v2)** | 2025-01-20 |  |
+| **[Hamiltonian Lattice Gauge Theories: emergent properties from Tensor Network methods](http://arxiv.org/abs/2501.11115v1)** | 2025-01-19 | <details><summary>PhD T...</summary><p>PhD Thesis: 150 pages, 54 figures</p></details> |
+| **[Sign problem in tensor network contraction](http://arxiv.org/abs/2404.19023v2)** | 2025-01-18 | accepted version |
+| **[Partonic distribution functions and amplitudes using tensor network methods](http://arxiv.org/abs/2501.09738v1)** | 2025-01-16 | 19 pages, 4 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |

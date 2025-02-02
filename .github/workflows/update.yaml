@@ -5,7 +5,7 @@ on:
     types:
       - created # for test
   schedule:
-      - cron: '35 16 * * 0-4' # 00:35 Beijing time every Monday to Friday
+      - cron: '10 03 * * 0-4' # 11:10 Beijing time every Monday to Friday
 
 permissions:
   contents: write
