@@ -22,8 +22,8 @@ with open("DailyPapers.md", "r") as f:
 
 keyword_groups = ["Superconductivity", "Hubbard", "t-J", "LaNiO", "Tensor Network", "QMC"]
 keywords = {
-    "Superconductivity": ["superconductivity", "superconductor", "superconduction"],
-    "Hubbard": ["Hubbard", "hubbard"],
+    "Superconductivity": ["superconductivity", "superconductor", "superconduction", "superconducting"],
+    "Hubbard": ["Hubbard",],
     "t-J": ["t-J",],
     "LaNiO": ["LaNiO", "La3Ni2O7", "La4Ni3O10", "La_3Ni_2O_7", "La_4Ni_3O_\{10\}", "La$_3$Ni$_2$O$_7$", "La$_4$Ni$_3$O$_\{10\}$"],
     "Tensor Network": ["tensor network", "tensor-network", "dmrg"],

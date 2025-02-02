@@ -17,4 +17,4 @@ You can click the 'Watch' button to receive daily email notifications.
 ## Revised
 
 - **Changes to article information storage files**: Store updated article information in file `DailyPapers.md` instead of `README.md`. Now `README.md` will no longer be automatically updated daily.
-- **Improvement of "Keyword" function**: Support for keyword grouping, `DailyPapers.md` and `ISSUE_TEMPLATE.md` will put the same group of keywords in the same table, to accommodate the existence of similar keywords.
+- **Improvement of Keyword system**: Support for keyword grouping, `DailyPapers.md` and `ISSUE_TEMPLATE.md` will put the same group of keywords in the same table, to accommodate the existence of similar keywords.
