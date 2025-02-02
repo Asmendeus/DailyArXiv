@@ -80,3 +80,41 @@ labels: documentation
 | **[Unveiling the multiband metallic nature of the normal state in nickelate La3Ni2O7](http://arxiv.org/abs/2412.09375v1)** | 2024-12-12 |  |
 | **[DFT+DMFT study of correlated electronic structure in the monolayer-trilayer phase of La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2407.08601v2)** | 2024-12-11 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables</p></details> |
 
+## Tensor Network
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](http://arxiv.org/abs/2501.18301v1)** | 2025-01-30 | <details><summary>Contr...</summary><p>Contribution to Proceedings of the 41st International Symposium on Lattice Field Theory (LATTICE2024)</p></details> |
+| **[Tensor network state methods and quantum information theory for strongly correlated molecular systems](http://arxiv.org/abs/2501.18263v1)** | 2025-01-30 | 17 pages, 21 figures |
+| **[Quantum algorithm for partial differential equations of non-conservative systems with spatially varying parameters](http://arxiv.org/abs/2407.05019v2)** | 2025-01-30 | 21 pages, 5 figures |
+| **[Realization of Two-dimensional Discrete Time Crystals with Anisotropic Heisenberg Coupling](http://arxiv.org/abs/2501.18036v1)** | 2025-01-29 |  |
+| **[Refined Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase](http://arxiv.org/abs/2406.19372v3)** | 2025-01-29 | <details><summary>Paper...</summary><p>Paper (7 pages 10 figures) + Appendix (4 pages 4 figures)</p></details> |
+| **[Tensor networks enable the calculation of turbulence probability distributions](http://arxiv.org/abs/2407.09169v2)** | 2025-01-29 | <details><summary>Post ...</summary><p>Post peer-review version accepted for publication; link to data & code added</p></details> |
+| **[Almost Strong Zero Modes at Finite Temperature](http://arxiv.org/abs/2501.11121v2)** | 2025-01-29 | 22 pages |
+| **[Linear-time classical approximate optimization of cubic-lattice classical spin glasses](http://arxiv.org/abs/2501.17267v1)** | 2025-01-28 | 9 pages, 10 figures |
+| **[Variational Neural and Tensor Network Approximations of Thermal States](http://arxiv.org/abs/2401.14243v2)** | 2025-01-28 | <details><summary>5+10 ...</summary><p>5+10 pages, 3+5 figures, accepted by Physical Review B</p></details> |
+| **[Entanglement Negativity and Replica Symmetry Breaking in General Holographic States](http://arxiv.org/abs/2409.13009v4)** | 2025-01-27 | 29 pages, 10 figures |
+| **[Twisted gauging and topological sectors in (2+1)d abelian lattice gauge theories](http://arxiv.org/abs/2501.16301v1)** | 2025-01-27 |  |
+| **[Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits](http://arxiv.org/abs/2501.15939v1)** | 2025-01-27 | <details><summary>To be...</summary><p>To be published in 2025 33rd Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP 2025)</p></details> |
+| **[Improving accuracy of tree-tensor network approach by optimization of network structure](http://arxiv.org/abs/2501.15514v1)** | 2025-01-26 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 2 tables</p></details> |
+| **[Tensor network Monte Carlo simulations for the two-dimensional random-bond Ising model](http://arxiv.org/abs/2409.06538v2)** | 2025-01-26 | 14 pages, 11 figures |
+| **[Many-body computing on Field Programmable Gate Arrays](http://arxiv.org/abs/2402.06415v2)** | 2025-01-25 | <details><summary>10+8 ...</summary><p>10+8 pages, 5+7 figures. Round 4</p></details> |
+
+## QMC
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Efficient calculation of trion energies in monolayer transition metal dichalcogenides](http://arxiv.org/abs/2411.09376v2)** | 2025-01-30 | <details><summary>12 pa...</summary><p>12 pages, 8 figures. Accepted version</p></details> |
+| **[Local Basis Transformation to Mitigate Negative Sign Problems](http://arxiv.org/abs/2501.18069v1)** | 2025-01-30 | <details><summary>13 pa...</summary><p>13 pages, 13 figures. This paper proposes a systematic local basis transformation approach to mitigate the negative sign problem in Quantum Monte Carlo simulations. We introduce the concept of negativity and an L1 adaptive loss function to optimize basis representations</p></details> |
+| **[Beyond CCSD(T) accuracy at lower scaling with auxiliary field quantum Monte Carlo](http://arxiv.org/abs/2410.02885v2)** | 2025-01-28 | 19 pages, 13 figures |
+| **[Optimizing the Critical Temperature and Superfluid Density of a Metal-Superconductor Bilayer](http://arxiv.org/abs/2501.15428v2)** | 2025-01-28 |  |
+| **[Quantum dynamics at finite temperature: Time-dependent quantum Monte Carlo study](http://arxiv.org/abs/2501.16782v1)** | 2025-01-28 |  |
+| **[Correlated electron dynamics with time-dependent quantum Monte Carlo: three-dimensional helium](http://arxiv.org/abs/2501.16774v1)** | 2025-01-28 |  |
+| **[Adhesion and Reconstruction of Graphene/Hexagonal Boron Nitride Heterostructures: A Quantum Monte Carlo Study](http://arxiv.org/abs/2501.16567v1)** | 2025-01-27 |  |
+| **[Critical gate distance for Wigner crystallization in the two-dimensional electron gas](http://arxiv.org/abs/2501.16430v1)** | 2025-01-27 | 4+4 pages |
+| **[Polynomial-time-scaling quantum dynamics with time-dependent quantum Monte Carlo](http://arxiv.org/abs/2501.16137v1)** | 2025-01-27 |  |
+| **[Molecular dynamics with time dependent quantum Monte Carlo](http://arxiv.org/abs/2501.16132v1)** | 2025-01-27 |  |
+| **[Dynamic correlations with time dependent quantum Monte Carlo](http://arxiv.org/abs/2501.16072v1)** | 2025-01-27 |  |
+| **[Comparison of superconducting pairing in doped cuprates and nickelates within an extended Hubbard model](http://arxiv.org/abs/2406.08717v2)** | 2025-01-27 | <details><summary>8 pag...</summary><p>8 pages and 12 figures. Published version</p></details> |
+| **[A Monte Carlo examination for the numerical values of universal quantities in spatial dimension two](http://arxiv.org/abs/2501.15234v1)** | 2025-01-25 | 7 pages, 9 figures |
+| **[Is fixed-node diffusion quantum Monte Carlo reproducible?](http://arxiv.org/abs/2501.12950v1)** | 2025-01-22 |  |
+| **[A Denser Hydrogen Inferred from First-Principles Simulations Challenges Jupiter's Interior Models](http://arxiv.org/abs/2501.12925v1)** | 2025-01-22 |  |
+
