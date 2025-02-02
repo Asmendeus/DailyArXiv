@@ -1,11 +1,7 @@
-name: Update
+name: Update Manually
 
 on:
-  label:
-    types:
-      - created # for test
-  schedule:
-      - cron: '10 03 * * 0-4' # 11:10 Beijing time every Monday to Friday
+  workflow_dispatch: # manual trigger
 
 permissions:
   contents: write
@@ -35,7 +31,7 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         push-branch: 'master'
-        commit-message: '✏️ Update papers automatically.'
+        commit-message: '✏️ Update papers manually.'
         force-add: 'true'
         files: DailyPapers.md .github/ISSUE_TEMPLATE.md
         name: Jiaheng Ji

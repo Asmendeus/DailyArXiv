@@ -80,24 +80,62 @@ labels: documentation
 | **[Unveiling the multiband metallic nature of the normal state in nickelate La3Ni2O7](http://arxiv.org/abs/2412.09375v1)** | 2024-12-12 |  |
 | **[DFT+DMFT study of correlated electronic structure in the monolayer-trilayer phase of La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2407.08601v2)** | 2024-12-11 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 3 tables</p></details> |
 
+## TMD
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Theory of Correlated Insulator(s) and Superconductor at $¦Í=1$ in Twisted WSe$_2$](http://arxiv.org/abs/2406.03525v2)** | 2025-01-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Supplementary material: 5 pages, 4 figures</p></details> |
+| **[Effect of spin-dependent tunneling in a MoSe$_2$/Cr$_2$Ge$_2$Te$_6$ van der Waals heterostructure on exciton and trion emission](http://arxiv.org/abs/2407.11603v2)** | 2025-01-28 |  |
+| **[Valley-mediated singlet- and triplet-polaron interactions and quantum dynamics in a doped WSe$_2$ monolayer](http://arxiv.org/abs/2501.02372v1)** | 2025-01-04 | 4 pages, 4 figures |
+| **[Effect of arsenic doping on structural and electronic properties of MoSe$_2$ monolayer: an ab initio study](http://arxiv.org/abs/2412.17664v2)** | 2024-12-30 | <details><summary>10 pa...</summary><p>10 pages, 7 figures (Published version)</p></details> |
+| **[Engineering whispering gallery modes in MoSe$_2$/WS$_2$ double heterostructure nanocavities: Towards developing all-TMDC light sources](http://arxiv.org/abs/2412.18953v1)** | 2024-12-25 |  |
+| **[Electrically tunable MoSe$_2$/WSe$_2$ heterostructure-based quantum dot](http://arxiv.org/abs/2412.15599v1)** | 2024-12-20 |  |
+| **[Interplay between topology and electron-electron interactions in the moir¨¦ MoTe$_{\mathrm{2}}$/WSe$_{\mathrm{2}}$ heterobilayer](http://arxiv.org/abs/2412.09170v1)** | 2024-12-12 |  |
+| **[Two-gap superconductivity in a Janus MoSeLi monolayer](http://arxiv.org/abs/2412.08119v1)** | 2024-12-11 | 7 pages, 8 figures |
+| **[Evolution of flat bands in MoSe$_2$/WSe$_2$ moir¨¦ lattices: A study combining machine learning and band unfolding methods](http://arxiv.org/abs/2409.07987v2)** | 2024-12-11 | 14 pages, 13 figures |
+| **[Measurements of absolute bandgap deformation-potentials of optically-bright bilayer WSe$_2$](http://arxiv.org/abs/2412.00453v1)** | 2024-11-30 |  |
+| **[Laterally Extended States of Interlayer Excitons in Reconstructed MoSe$_2$/WSe$_2$ Heterostructures](http://arxiv.org/abs/2411.19616v1)** | 2024-11-29 |  |
+| **[Optical response of WSe$_2$-based vertical tunneling junction](http://arxiv.org/abs/2411.16576v1)** | 2024-11-25 | 8 pages, 4 figures |
+| **[Unveiling Ultrafast Spin-Valley Dynamics and Phonon-Mediated Charge Transfer in MoSe$_{2}$/WSe$_{2}$ Heterostructures](http://arxiv.org/abs/2411.14180v1)** | 2024-11-21 |  |
+| **[Ultrafast light-driven optical rotation and hidden orders in bulk WSe$_2$](http://arxiv.org/abs/2411.06561v2)** | 2024-11-17 | <details><summary>14+3 ...</summary><p>14+3 pages, 3+3 figures; fixed typo in the first author's name</p></details> |
+| **[Scattering of CO from Vacant-MoSe$_2$ with O Adsorbates: Is CO$_2$ Formed?](http://arxiv.org/abs/2409.14362v2)** | 2024-11-14 |  |
+
+## Graphene
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Magnetism and hidden quantum geometry in charge neutral twisted trilayer graphene](http://arxiv.org/abs/2501.18491v1)** | 2025-01-30 |  |
+| **[Electron trapping via magnetic and laser fields in gapped graphene quantum dots](http://arxiv.org/abs/2501.17494v1)** | 2025-01-29 | 12 pages, 9 figures |
+| **[Topological Mixed Valence Model for Twisted Bilayer Graphene](http://arxiv.org/abs/2303.02670v3)** | 2025-01-28 | <details><summary>Minor...</summary><p>Minor changes to a substantially updated version that emphasizes: discrepancy between theoretical and experimental onsite U; emergent f-electron potential phenomenologically introduced to model the chemical potential resets; auxiliary rotor mean-field method to capture the normal state physics; and two temperature scales in the system due to two competing fixed points. 18+7 pages, 23+3 figures</p></details> |
+| **[Adhesion and Reconstruction of Graphene/Hexagonal Boron Nitride Heterostructures: A Quantum Monte Carlo Study](http://arxiv.org/abs/2501.16567v1)** | 2025-01-27 |  |
+| **[Graphene-Assisted Chemical Stabilization of Liquid Metal Nano Droplets for Liquid Metal Based Energy Storage](http://arxiv.org/abs/2501.16128v1)** | 2025-01-27 |  |
+| **[Thermoelectric properties of magic angle twisted bilayer graphene-superconductor hetero-junction: effect of valley polarization and trigonal warping](http://arxiv.org/abs/2501.15882v1)** | 2025-01-27 | <details><summary>12 Pa...</summary><p>12 Pages, 7 PDF Figures, Comments are welcome</p></details> |
+| **[Fractional Quantum Hall phases of graphene beyond ultra-short range intervalley-anisotropic interaction](http://arxiv.org/abs/2408.11789v2)** | 2025-01-26 | <details><summary>17 pa...</summary><p>17 pages and 6 figures 1 table</p></details> |
+| **[Atomic collapse in gapped graphene: lattice and valley effects](http://arxiv.org/abs/2501.15049v1)** | 2025-01-25 |  |
+| **[Nonlocal Moments in the Chern Bands of Twisted Bilayer Graphene](http://arxiv.org/abs/2408.16761v2)** | 2025-01-24 | 23 pages |
+| **[Electrically-tunable graphene nanomechanical resonators](http://arxiv.org/abs/2501.14468v1)** | 2025-01-24 | Invited review |
+| **[Electric-field switchable chirality in rhombohedral graphene Chern insulators stabilized by tungsten diselenide](http://arxiv.org/abs/2406.14289v2)** | 2025-01-24 | <details><summary>Inclu...</summary><p>Include the data from 10L graphene devices. To appear in Physical Review X</p></details> |
+| **[Topological Influence of Sextets on Graphene Oxide Nanostructure](http://arxiv.org/abs/2501.14141v1)** | 2025-01-23 | 14 pages, 7 figures |
+| **[Enhanced and Efficient Extraction of Uranyl Ions from Aqueous Waste through Graphene/CNT-PAMAM Nanocomposites](http://arxiv.org/abs/2501.13496v1)** | 2025-01-23 |  |
+| **[Wafer-scale robust graphene electronics under industrial processing conditions](http://arxiv.org/abs/2501.12963v1)** | 2025-01-22 |  |
+| **[Phonon-limited valley life times in single-particle bilayer graphene quantum dots](http://arxiv.org/abs/2402.16691v2)** | 2025-01-22 | <details><summary>Manus...</summary><p>Manuscript: 7 pages, 4 figures; Supplementary Information: 2 pages, 1 figure</p></details> |
+
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](http://arxiv.org/abs/2501.18301v1)** | 2025-01-30 | <details><summary>Contr...</summary><p>Contribution to Proceedings of the 41st International Symposium on Lattice Field Theory (LATTICE2024)</p></details> |
 | **[Tensor network state methods and quantum information theory for strongly correlated molecular systems](http://arxiv.org/abs/2501.18263v1)** | 2025-01-30 | 17 pages, 21 figures |
+| **[Quantum algorithm for partial differential equations of non-conservative systems with spatially varying parameters](http://arxiv.org/abs/2407.05019v2)** | 2025-01-30 | 21 pages, 5 figures |
+| **[Realization of Two-dimensional Discrete Time Crystals with Anisotropic Heisenberg Coupling](http://arxiv.org/abs/2501.18036v1)** | 2025-01-29 |  |
+| **[Refined Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase](http://arxiv.org/abs/2406.19372v3)** | 2025-01-29 | <details><summary>Paper...</summary><p>Paper (7 pages 10 figures) + Appendix (4 pages 4 figures)</p></details> |
 | **[Tensor networks enable the calculation of turbulence probability distributions](http://arxiv.org/abs/2407.09169v2)** | 2025-01-29 | <details><summary>Post ...</summary><p>Post peer-review version accepted for publication; link to data & code added</p></details> |
+| **[Almost Strong Zero Modes at Finite Temperature](http://arxiv.org/abs/2501.11121v2)** | 2025-01-29 | 22 pages |
+| **[Linear-time classical approximate optimization of cubic-lattice classical spin glasses](http://arxiv.org/abs/2501.17267v1)** | 2025-01-28 | 9 pages, 10 figures |
 | **[Variational Neural and Tensor Network Approximations of Thermal States](http://arxiv.org/abs/2401.14243v2)** | 2025-01-28 | <details><summary>5+10 ...</summary><p>5+10 pages, 3+5 figures, accepted by Physical Review B</p></details> |
+| **[Entanglement Negativity and Replica Symmetry Breaking in General Holographic States](http://arxiv.org/abs/2409.13009v4)** | 2025-01-27 | 29 pages, 10 figures |
+| **[Twisted gauging and topological sectors in (2+1)d abelian lattice gauge theories](http://arxiv.org/abs/2501.16301v1)** | 2025-01-27 |  |
 | **[Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits](http://arxiv.org/abs/2501.15939v1)** | 2025-01-27 | <details><summary>To be...</summary><p>To be published in 2025 33rd Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP 2025)</p></details> |
 | **[Improving accuracy of tree-tensor network approach by optimization of network structure](http://arxiv.org/abs/2501.15514v1)** | 2025-01-26 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 2 tables</p></details> |
 | **[Tensor network Monte Carlo simulations for the two-dimensional random-bond Ising model](http://arxiv.org/abs/2409.06538v2)** | 2025-01-26 | 14 pages, 11 figures |
-| **[Exploiting the Hermitian symmetry in tensor network algorithms](http://arxiv.org/abs/2410.11596v2)** | 2025-01-24 | 7 pages, 4 figures |
-| **[Cons-training tensor networks](http://arxiv.org/abs/2405.09005v3)** | 2025-01-23 | <details><summary>v3: m...</summary><p>v3: mostly cosmetic changes and further expanded section on complexity</p></details> |
-| **[Non-zero noise extrapolation: accurately simulating noisy quantum circuits with tensor networks](http://arxiv.org/abs/2501.13237v1)** | 2025-01-22 |  |
-| **[Efficient Simulation of Leakage Errors in Quantum Error Correcting Codes Using Tensor Network Methods](http://arxiv.org/abs/2308.08186v2)** | 2025-01-21 | 15 pages, 12 figures |
-| **[The Cytnx Library for Tensor Networks](http://arxiv.org/abs/2401.01921v2)** | 2025-01-20 |  |
-| **[Hamiltonian Lattice Gauge Theories: emergent properties from Tensor Network methods](http://arxiv.org/abs/2501.11115v1)** | 2025-01-19 | <details><summary>PhD T...</summary><p>PhD Thesis: 150 pages, 54 figures</p></details> |
-| **[Sign problem in tensor network contraction](http://arxiv.org/abs/2404.19023v2)** | 2025-01-18 | accepted version |
-| **[Partonic distribution functions and amplitudes using tensor network methods](http://arxiv.org/abs/2501.09738v1)** | 2025-01-16 | 19 pages, 4 figures |
+| **[Many-body computing on Field Programmable Gate Arrays](http://arxiv.org/abs/2402.06415v2)** | 2025-01-25 | <details><summary>10+8 ...</summary><p>10+8 pages, 5+7 figures. Round 4</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
