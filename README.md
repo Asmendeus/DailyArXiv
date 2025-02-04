@@ -45,6 +45,6 @@ keywords = {
 ## How to use
 
 - If your area of interest and keywords are included in this project, you can watch the project and GitHub will alert you via email with each update
-- If you need to customize some of the field tags and keywords, please download the full code for this project. (**NOT FORK!** Some errors in the FORK cause ACTION to be unable to be triggered normally.)
+- If you need to customize some of the field tags and keywords, please download the full code for this project. (**NOT FORK!** Some errors in FORK cause ACTION to be unable to be triggered normally.)
   Then change tags (i.e. the parameter `target_fileds` of `filter_tags` in `utils.py`) and keywords (i.e. `keyword_groups` and `keywords` in `main.py`) according to your needs.
-  Finally, push the project into your repository, and make sure that the ACTION is available.
+  Finally, push the project into your repository, and make sure that the ACTION is available. (Note if the files pushed to GitHub are consistent with local files, `.txt` files seem to be ignored in some cases and need to be uploaded manually.)
