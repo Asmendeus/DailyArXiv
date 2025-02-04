@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2025
+title: Latest 15 Papers - February 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -45,25 +45,26 @@ labels: documentation
 ## t-J
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tuning competition between charge order and superconductivity in the square-lattice $t$-$t'$-$J$ model](http://arxiv.org/abs/2409.15270v4)** | 2025-01-31 | 12 pages, 10 figures |
 | **[Quantum many-body dynamics for fermionic t-J model simulated with atom arrays](http://arxiv.org/abs/2501.00552v2)** | 2025-01-07 | <details><summary>23 pa...</summary><p>23 pages, 11 figures, a new version with the supplemental material added</p></details> |
+| **[Spin density wave and superconductivity in the bilayer $t$-$J$ model of $\rm{La}_{3}Ni_{2}O_{7}$ under renormalized mean-field theory](http://arxiv.org/abs/2412.17453v1)** | 2024-12-23 | 9 pages,5 figures |
+| **[Phase Diagram, $d$-Wave Superconductivity, and Pseudogap of the $t$-$t'$-$J$ Model at Finite Temperature](http://arxiv.org/abs/2211.06322v4)** | 2024-11-30 | <details><summary>8+8 p...</summary><p>8+8 pages, 4+12 figures</p></details> |
+| **[Competing pair density wave orders in the square lattice $t$-$J$ model](http://arxiv.org/abs/2411.19218v1)** | 2024-11-28 | 10 pages, 17 figures |
 | **[Simulating the two-dimensional $t-J$ model at finite doping with neural quantum states](http://arxiv.org/abs/2411.10430v2)** | 2024-11-21 |  |
+| **[Quench dynamics of stripes and phase separation in the two-dimensional $t$-$J$ model](http://arxiv.org/abs/2410.16387v1)** | 2024-10-21 | 10 pages, 8 figures |
+| **[Tuning topological superconductivity within the $t$-$J$-$U$ model of twisted bilayer cuprates](http://arxiv.org/abs/2310.04379v2)** | 2024-10-10 |  |
 | **[Robust stripes in the mixed-dimensional $t-J$ model](http://arxiv.org/abs/2208.07366v2)** | 2024-10-01 | 5 + 6 pages |
 | **[Kinetic-to-magnetic frustration crossover and linear confinement in the doped triangular $t-J$ model](http://arxiv.org/abs/2305.02342v2)** | 2024-10-01 | 5 + 5 pages |
+| **[Sub-dimensional magnetic polarons in the one-hole doped SU(3) $t$-$J$ model](http://arxiv.org/abs/2312.14137v2)** | 2024-10-01 | 5 + 5 pages |
+| **[Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models](http://arxiv.org/abs/2409.18131v1)** | 2024-09-26 | <details><summary>6+3 p...</summary><p>6+3 pages, 5+3 figures</p></details> |
+| **[Quantum-interference-induced pairing in antiferromagnetic bosonic $t$-$J$ model](http://arxiv.org/abs/2409.15424v1)** | 2024-09-23 | <details><summary>28 pa...</summary><p>28 pages, 4+11 figures</p></details> |
+| **[Ground State Phase Diagram of $\text{SU}(3)$ $t$-$J$ Chain](http://arxiv.org/abs/2409.09344v1)** | 2024-09-14 | 8 pages, 8 figures |
 | **[High-T$_C$ superconductivity in $\mathrm{La_3Ni_2O_7}$ based on the bilayer two-orbital t-J model](http://arxiv.org/abs/2308.16564v4)** | 2024-08-15 | 9 pages, 6 figures |
-| **[Observation of Generalized t-J Spin Dynamics with Tunable Dipolar Interactions](http://arxiv.org/abs/2404.18916v2)** | 2024-04-30 |  |
-| **[Type II t-J model in charge transfer regime in bilayer La$_3$Ni$_2$O$_7$ and trilayer La$_4$Ni$_3$O$_{10}$](http://arxiv.org/abs/2405.00092v1)** | 2024-04-30 | <details><summary>7+10 ...</summary><p>7+10 pages, 3+9 figures, 0+1 table</p></details> |
-| **[Magnetism and superconductivity in the $t-J$ model of $La_3Ni_2O_7$ under multiband Gutzwiller approximation](http://arxiv.org/abs/2402.07449v2)** | 2024-02-20 | 11 pages, 4 figures |
-| **[The optical conductivity of the 2D $t-J$ model and the origin of electron incoherence in the high-T$_{c}$ cuprate superconductors: a variational study](http://arxiv.org/abs/2401.00118v1)** | 2023-12-30 | 11 pages,8 figures |
-| **[D-Wave and Pair-Density-Wave Superconductivity in the Square-Lattice t-J Model](http://arxiv.org/abs/2311.15092v2)** | 2023-11-28 |  |
-| **[Type II t-J model and shared antiferromagnetic spin coupling from Hund's rule in superconducting La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2307.15706v3)** | 2023-11-26 | <details><summary>5+4 p...</summary><p>5+4 pages, 4+2 figures</p></details> |
-| **[S-wave pairing in a two-orbital t-J model on triangular lattice: possible application to Pb$_{10-x}$Cu$_x$(PO$_4$)$_6$O](http://arxiv.org/abs/2308.02469v1)** | 2023-08-04 | 6 pages, 2 figures |
-| **[Chiral and nodal superconductors in t-J model with valley contrasting flux on triangular moiré lattice](http://arxiv.org/abs/2209.10023v2)** | 2022-09-30 |  |
-| **[Local properties of the t-J model in a two-pole approximation within COM](http://arxiv.org/abs/2112.10649v1)** | 2021-12-20 |  |
-| **[Surface energy of the one-dimensional supersymmetric $t-J$ model with general integrable boundary terms in the antiferromagnetic sector](http://arxiv.org/abs/2111.05195v1)** | 2021-11-09 | 11 pages, 9 figures |
 
 ## LaNiO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identification of the superconductivity in bilayer nickelate La$_3$Ni$_2$O$_7$ upon 100 GPa](http://arxiv.org/abs/2404.11369v3)** | 2025-02-02 | <details><summary>This ...</summary><p>This is a renewed version with Meissner effect measurements</p></details> |
 | **[Direct Visualization of an Incommensurate Unidirectional Charge Density Wave in La$_4$Ni$_3$O$_{10}$](http://arxiv.org/abs/2501.18885v1)** | 2025-01-31 | 11 pages, 4 figures |
 | **[Band Structure and Pairing Nature of La$_3$Ni$_2$O$_7$ Thin Film at Ambient Pressure](http://arxiv.org/abs/2501.10409v2)** | 2025-01-29 | <details><summary>4.1 p...</summary><p>4.1 pages, 5 figures with Appendix</p></details> |
 | **[Sensitive dependence of pairing symmetry on Ni-$e_g$ crystal field splitting in the nickelate superconductor La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2311.07316v2)** | 2025-01-28 | <details><summary>29 pa...</summary><p>29 pages and 5 figures</p></details> |
@@ -78,7 +79,6 @@ labels: documentation
 | **[Low-temperature mean valence of nickel ions in pressurized La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2412.18343v1)** | 2024-12-24 | <details><summary>10 pa...</summary><p>10 pages and 4 figures</p></details> |
 | **[Intertwined charge and spin density wave state of La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2410.15649v3)** | 2024-12-17 | <details><summary>There...</summary><p>There are some mistakes in the results</p></details> |
 | **[Theoretical investigation of the superconducting pairing symmetry in a bilayer two-orbital model of pressurized La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2412.11429v1)** | 2024-12-16 |  |
-| **[Unveiling the multiband metallic nature of the normal state in nickelate La3Ni2O7](http://arxiv.org/abs/2412.09375v1)** | 2024-12-12 |  |
 
 ## TMD
 | **Title** | **Date** | **Comment** |
@@ -121,6 +121,7 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum-Inspired Solver for Simulating Material Deformations](http://arxiv.org/abs/2501.12151v2)** | 2025-02-02 | 12 pages, 7 figures |
 | **[Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](http://arxiv.org/abs/2501.18301v2)** | 2025-01-31 | <details><summary>A mor...</summary><p>A more clear data analysis is required, and this version needs to be withdrawn at the moment</p></details> |
 | **[VeloxQ: A Fast and Efficient QUBO Solver](http://arxiv.org/abs/2501.19221v1)** | 2025-01-31 |  |
 | **[Grassmann tensor approach for two-dimensional QCD in the strong-coupling expansion](http://arxiv.org/abs/2501.19192v1)** | 2025-01-31 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, proceedings of the 41st International Symposium on Lattice Field Theory, LATTICE2024, Liverpool, 28th July - 3rd August 2024</p></details> |
@@ -135,7 +136,6 @@ labels: documentation
 | **[Tensor networks enable the calculation of turbulence probability distributions](http://arxiv.org/abs/2407.09169v2)** | 2025-01-29 | <details><summary>Post ...</summary><p>Post peer-review version accepted for publication; link to data & code added</p></details> |
 | **[Almost Strong Zero Modes at Finite Temperature](http://arxiv.org/abs/2501.11121v2)** | 2025-01-29 | 22 pages |
 | **[Linear-time classical approximate optimization of cubic-lattice classical spin glasses](http://arxiv.org/abs/2501.17267v1)** | 2025-01-28 | 9 pages, 10 figures |
-| **[Variational Neural and Tensor Network Approximations of Thermal States](http://arxiv.org/abs/2401.14243v2)** | 2025-01-28 | <details><summary>5+10 ...</summary><p>5+10 pages, 3+5 figures, accepted by Physical Review B</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
