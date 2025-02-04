@@ -31,6 +31,8 @@ keywords = {
     "Hubbard": ["Hubbard",],
     "t-J": ["t-J", "$t$-$J$", "t-t'-J", "$t$-$t'$-$J$"],
     "LaNiO": ["LaNiO", "La3Ni2O7", "La4Ni3O10", "La_3Ni_2O_7", "La_4Ni_3O_\{10\}", "La$_3$Ni$_2$O$_7$", "La$_4$Ni$_3$O$_\{10\}$"],
+    "TMD": ["WSe", "MoSe"],
+    "Graphene": ["Graphene"],
     "Tensor Network": ["tensor network", "tensor-network", "dmrg"],
     "QMC": ["quantum monte carlo", "AFQMC", "CPQMC", "CPMC"],
 }
