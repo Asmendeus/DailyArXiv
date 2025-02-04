@@ -7,6 +7,14 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Methods to achieve near-millisecond energy relaxation and dephasing times for a superconducting transmon qubit](http://arxiv.org/abs/2407.18778v3)** | 2025-02-03 | 16 pages, 12 figures |
+| **[Observation of superconducting pair density modulation within lattice unit cell](http://arxiv.org/abs/2404.16683v2)** | 2025-02-02 |  |
+| **[Ternary superhydrides under pressure of Anderson's theorem: Near-record superconductivity in (La,Sc)H$_{12}$](http://arxiv.org/abs/2408.07477v2)** | 2025-02-02 | <details><summary>In th...</summary><p>In the new version we have added radio-frequency measurements (Figure 5), as well as a number of additional figures in the Supp. Info</p></details> |
+| **[Identification of the superconductivity in bilayer nickelate La$_3$Ni$_2$O$_7$ upon 100 GPa](http://arxiv.org/abs/2404.11369v3)** | 2025-02-02 | <details><summary>This ...</summary><p>This is a renewed version with Meissner effect measurements</p></details> |
+| **[Self-consistent study of topological superconductivity in two-dimensional quasicrystals](http://arxiv.org/abs/2401.06355v2)** | 2025-02-01 | 13 pages, 14 figures |
+| **[Flat-band ratio and quantum metric in the superconductivity of modified Lieb lattices](http://arxiv.org/abs/2404.12993v3)** | 2025-02-01 | Journal version |
+| **[Detecting a Fifth-Force Gauge Boson via Superconducting Josephson Junctions](http://arxiv.org/abs/2402.14514v3)** | 2025-02-01 | <details><summary>6 pag...</summary><p>6 pages, 3 figures. Published in Physics Letters B</p></details> |
+| **[Impact of Spin-Orbit Coupling on Superconductivity in Rhombohedral Graphene](http://arxiv.org/abs/2408.09906v2)** | 2025-02-01 | <details><summary>32 pa...</summary><p>32 pages; 4 figures, 1 table, 9 extended data figures; Nature Materials (2025, in press)</p></details> |
 | **[Tuning competition between charge order and superconductivity in the square-lattice $t$-$t'$-$J$ model](http://arxiv.org/abs/2409.15270v4)** | 2025-01-31 | 12 pages, 10 figures |
 | **[Bulk superconductivity in pressurized trilayer nickelate Pr4Ni3O10 single crystals](http://arxiv.org/abs/2501.17709v2)** | 2025-01-31 | 16 pages, 4 figures |
 | **[Direct Implementation of High-Fidelity Three-Qubit Gates for Superconducting Processor with Tunable Couplers](http://arxiv.org/abs/2501.18319v1)** | 2025-01-30 | <details><summary>main ...</summary><p>main text: 8 pages, 4 figures; supp: 11 pages, 11 figures, 2 tables</p></details> |
@@ -14,14 +22,6 @@ labels: documentation
 | **[Information dynamics of our brains in dynamically driven disordered superconducting loop networks](http://arxiv.org/abs/2310.19279v4)** | 2025-01-29 | 6 figures, 26 pages |
 | **[Conditions for orbital-selective altermagnetism in Sr2RuO4: tight-binding model, similarities with cuprates, and implications for superconductivity](http://arxiv.org/abs/2501.14378v2)** | 2025-01-29 | 18 pages, 16 figures |
 | **[Chiral cavity control of superconducting diode-like nonlinearities](http://arxiv.org/abs/2501.17924v1)** | 2025-01-29 |  |
-| **[A strong-driving toolkit for topological Floquet energy pumps with superconducting circuits](http://arxiv.org/abs/2501.17915v1)** | 2025-01-29 | 19 pages, 14 figures |
-| **[Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration](http://arxiv.org/abs/2501.17825v1)** | 2025-01-29 | <details><summary>17 pa...</summary><p>17 pages, 18 fugures, 6 tables</p></details> |
-| **[Quantum transport theory for unconventional magnets; interplay of altermagnetism and p-wave magnetism with superconductivity](http://arxiv.org/abs/2412.10236v2)** | 2025-01-29 | 16 pages, 3 figures |
-| **[Keldysh field theory approach to direct electric and thermoelectric currents in quantum dots coupled to superconducting leads](http://arxiv.org/abs/2501.17623v1)** | 2025-01-29 | 16 pages, 14 figures |
-| **[Enhancement of superconductivity on thin film of Sn under high pressure](http://arxiv.org/abs/2501.17451v1)** | 2025-01-29 |  |
-| **[Revealing Symmetry-Broken Superconducting Configurations by Density Functional Theory](http://arxiv.org/abs/2404.00719v3)** | 2025-01-28 |  |
-| **[Enhancement of the superconducting transition temperature due to multiband effect in the topological nodal-line semimetal Pb$_{1-x}$Sn$_{x}$TaSe$_{2}$](http://arxiv.org/abs/2411.19932v2)** | 2025-01-28 | 7 pages, 4 figures |
-| **[Dephasing-induced leakage in multi-level superconducting quantum circuits](http://arxiv.org/abs/2501.17008v1)** | 2025-01-28 | 10 pages, 3 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -102,6 +102,7 @@ labels: documentation
 ## Graphene
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Impact of Spin-Orbit Coupling on Superconductivity in Rhombohedral Graphene](http://arxiv.org/abs/2408.09906v2)** | 2025-02-01 | <details><summary>32 pa...</summary><p>32 pages; 4 figures, 1 table, 9 extended data figures; Nature Materials (2025, in press)</p></details> |
 | **[Elastic Screening of Pseudogauge Fields in Graphene](http://arxiv.org/abs/2409.02250v2)** | 2025-01-31 | <details><summary>7 + 1...</summary><p>7 + 15 pages, 4 + 12 figures</p></details> |
 | **[Direct observation of the vanishing EELS cross section in graphene](http://arxiv.org/abs/2406.02998v2)** | 2025-01-31 |  |
 | **[Tunable Fractional Chern Insulators in Rhombohedral Graphene Superlattices](http://arxiv.org/abs/2405.16944v2)** | 2025-01-31 |  |
@@ -116,12 +117,13 @@ labels: documentation
 | **[Atomic collapse in gapped graphene: lattice and valley effects](http://arxiv.org/abs/2501.15049v1)** | 2025-01-25 |  |
 | **[Nonlocal Moments in the Chern Bands of Twisted Bilayer Graphene](http://arxiv.org/abs/2408.16761v2)** | 2025-01-24 | 23 pages |
 | **[Electrically-tunable graphene nanomechanical resonators](http://arxiv.org/abs/2501.14468v1)** | 2025-01-24 | Invited review |
-| **[Electric-field switchable chirality in rhombohedral graphene Chern insulators stabilized by tungsten diselenide](http://arxiv.org/abs/2406.14289v2)** | 2025-01-24 | <details><summary>Inclu...</summary><p>Include the data from 10L graphene devices. To appear in Physical Review X</p></details> |
 
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[State of practice: evaluating GPU performance of state vector and tensor network methods](http://arxiv.org/abs/2401.06188v2)** | 2025-02-03 | <details><summary>13 pa...</summary><p>13 pages, 10 figures, 1 table</p></details> |
 | **[Quantum-Inspired Solver for Simulating Material Deformations](http://arxiv.org/abs/2501.12151v2)** | 2025-02-02 | 12 pages, 7 figures |
+| **[Tensor Network Finite-Size Scaling for Two-Dimensional 3-state Clock Model](http://arxiv.org/abs/2312.14002v2)** | 2025-02-02 |  |
 | **[Tensor-network Toolbox for probing dynamics of non-Abelian Gauge Theories](http://arxiv.org/abs/2501.18301v2)** | 2025-01-31 | <details><summary>A mor...</summary><p>A more clear data analysis is required, and this version needs to be withdrawn at the moment</p></details> |
 | **[VeloxQ: A Fast and Efficient QUBO Solver](http://arxiv.org/abs/2501.19221v1)** | 2025-01-31 |  |
 | **[Grassmann tensor approach for two-dimensional QCD in the strong-coupling expansion](http://arxiv.org/abs/2501.19192v1)** | 2025-01-31 | <details><summary>9 pag...</summary><p>9 pages, 6 figures, proceedings of the 41st International Symposium on Lattice Field Theory, LATTICE2024, Liverpool, 28th July - 3rd August 2024</p></details> |
@@ -134,12 +136,11 @@ labels: documentation
 | **[Realization of Two-dimensional Discrete Time Crystals with Anisotropic Heisenberg Coupling](http://arxiv.org/abs/2501.18036v1)** | 2025-01-29 |  |
 | **[Refined Phase Diagram for a Spin-1 System Exhibiting a Haldane Phase](http://arxiv.org/abs/2406.19372v3)** | 2025-01-29 | <details><summary>Paper...</summary><p>Paper (7 pages 10 figures) + Appendix (4 pages 4 figures)</p></details> |
 | **[Tensor networks enable the calculation of turbulence probability distributions](http://arxiv.org/abs/2407.09169v2)** | 2025-01-29 | <details><summary>Post ...</summary><p>Post peer-review version accepted for publication; link to data & code added</p></details> |
-| **[Almost Strong Zero Modes at Finite Temperature](http://arxiv.org/abs/2501.11121v2)** | 2025-01-29 | 22 pages |
-| **[Linear-time classical approximate optimization of cubic-lattice classical spin glasses](http://arxiv.org/abs/2501.17267v1)** | 2025-01-28 | 9 pages, 10 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Quantum State Study of Fracton Models](http://arxiv.org/abs/2406.11677v2)** | 2025-02-02 | <details><summary>39 pa...</summary><p>39 pages, 21 figures, (Re-)Submission to SciPost Added X-cube simulations, extended Figure 9 (and additional Figure 20), added references</p></details> |
 | **[Charge fluctuations, hydrodynamics and transport in the square-lattice Hubbard model](http://arxiv.org/abs/2208.04047v4)** | 2025-01-31 | 27 pages, 23 figures |
 | **[Auxiliary-field quantum Monte Carlo method with seniority-zero trial wave function](http://arxiv.org/abs/2501.18937v1)** | 2025-01-31 | 10 pages, 12 figures |
 | **[Efficient calculation of trion energies in monolayer transition metal dichalcogenides](http://arxiv.org/abs/2411.09376v2)** | 2025-01-30 | <details><summary>12 pa...</summary><p>12 pages, 8 figures. Accepted version</p></details> |
@@ -154,5 +155,4 @@ labels: documentation
 | **[Molecular dynamics with time dependent quantum Monte Carlo](http://arxiv.org/abs/2501.16132v1)** | 2025-01-27 |  |
 | **[Dynamic correlations with time dependent quantum Monte Carlo](http://arxiv.org/abs/2501.16072v1)** | 2025-01-27 |  |
 | **[Comparison of superconducting pairing in doped cuprates and nickelates within an extended Hubbard model](http://arxiv.org/abs/2406.08717v2)** | 2025-01-27 | <details><summary>8 pag...</summary><p>8 pages and 12 figures. Published version</p></details> |
-| **[A Monte Carlo examination for the numerical values of universal quantities in spatial dimension two](http://arxiv.org/abs/2501.15234v1)** | 2025-01-25 | 7 pages, 9 figures |
 
