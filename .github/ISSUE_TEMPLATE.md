@@ -67,31 +67,31 @@ labels: documentation
 | **[Identification of the superconductivity in bilayer nickelate La$_3$Ni$_2$O$_7$ upon 100 GPa](http://arxiv.org/abs/2404.11369v3)** | 2025-02-02 | <details><summary>This ...</summary><p>This is a renewed version with Meissner effect measurements</p></details> |
 | **[Direct Visualization of an Incommensurate Unidirectional Charge Density Wave in La$_4$Ni$_3$O$_{10}$](http://arxiv.org/abs/2501.18885v1)** | 2025-01-31 | 11 pages, 4 figures |
 | **[Band Structure and Pairing Nature of La$_3$Ni$_2$O$_7$ Thin Film at Ambient Pressure](http://arxiv.org/abs/2501.10409v2)** | 2025-01-29 | <details><summary>4.1 p...</summary><p>4.1 pages, 5 figures with Appendix</p></details> |
+| **[Origin of the Diagonal Double-Stripe Spin-Density-Wave and Potential Superconductivity in Bulk La$_3$Ni$_2$O$_{7}$ at Ambient Pressure](http://arxiv.org/abs/2501.14752v2)** | 2025-01-28 | <details><summary>The c...</summary><p>The calculation details are improved and the format is modified</p></details> |
 | **[Sensitive dependence of pairing symmetry on Ni-$e_g$ crystal field splitting in the nickelate superconductor La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2311.07316v2)** | 2025-01-28 | <details><summary>29 pa...</summary><p>29 pages and 5 figures</p></details> |
 | **[Low volume fraction of high-Tc superconductivity in La3Ni2O7 at 80 K and ambient pressure](http://arxiv.org/abs/2501.15929v1)** | 2025-01-27 | 4 figures, 11 pages |
 | **[Orbital-Selective Spin-Triplet Superconductivity in Infinite-Layer LaNiO$_{2}$](http://arxiv.org/abs/2403.19617v2)** | 2025-01-24 |  |
 | **[Absence of superconductivity and density-wave transition in ambient-pressure tetragonal La$_4$Ni$_3$O$_{10}$](http://arxiv.org/abs/2501.12647v1)** | 2025-01-22 | submitted |
 | **[Optical control of the crystal structure in the bilayer nickelate superconductor La$_3$Ni$_2$O$_7$ via nonlinear phononics](http://arxiv.org/abs/2501.11377v1)** | 2025-01-20 | 12 pages, 10 figures |
+| **[Microscopic evidence of charge- and spin-density waves in La$_3$Ni$_2$O$_{7-¦Ä}$ revealed by $^{139}$La-NQR](http://arxiv.org/abs/2501.11248v1)** | 2025-01-20 | 13 pages, 4 figures |
+| **[Interplay of orbital-selective Mott criticality and flat-band physics in La$_3$Ni$_2$O$_6$](http://arxiv.org/abs/2412.19617v2)** | 2025-01-17 | <details><summary>7 pag...</summary><p>7 pages, 4 figures, supplemental material</p></details> |
+| **[Photoemission evidence for multi-orbital hole-doping in superconducting La$_{2.85}$Pr$_{0.15}$Ni$_2$O$_7$/SrLaAlO$_4$ interfaces](http://arxiv.org/abs/2501.09255v1)** | 2025-01-16 | under review |
+| **[The Mottness and the Anderson localization in bilayer nickelate La$_3$Ni$_2$O$_{7-¦Ä}$](http://arxiv.org/abs/2501.08536v1)** | 2025-01-15 | <details><summary>6 pag...</summary><p>6 pages, 4 figures and Supplemental Materials</p></details> |
 | **[Resolving Structural Origins for Superconductivity in Strain-Engineered La$_3$Ni$_2$O$_7$ Thin Films](http://arxiv.org/abs/2501.08204v1)** | 2025-01-14 | <details><summary>4 fig...</summary><p>4 figures, 3 tables, 15 supplemental figures</p></details> |
 | **[Competition of superconducting pairing symmetries in La3Ni2O7](http://arxiv.org/abs/2501.05254v1)** | 2025-01-09 |  |
-| **[Pressure-tunable structural instabilities in single-layer-trilayer La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2412.21150v1)** | 2024-12-30 |  |
-| **[Doping evolution of the normal state magnetic excitations in pressurized La3Ni2O7](http://arxiv.org/abs/2408.03763v2)** | 2024-12-27 | 9 pages, 9 figures |
-| **[Low-temperature mean valence of nickel ions in pressurized La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2412.18343v1)** | 2024-12-24 | <details><summary>10 pa...</summary><p>10 pages and 4 figures</p></details> |
-| **[Intertwined charge and spin density wave state of La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2410.15649v3)** | 2024-12-17 | <details><summary>There...</summary><p>There are some mistakes in the results</p></details> |
-| **[Theoretical investigation of the superconducting pairing symmetry in a bilayer two-orbital model of pressurized La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2412.11429v1)** | 2024-12-16 |  |
 
 ## TMD
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Theory of Correlated Insulator(s) and Superconductor at $Î½=1$ in Twisted WSe$_2$](http://arxiv.org/abs/2406.03525v2)** | 2025-01-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Supplementary material: 5 pages, 4 figures</p></details> |
+| **[Theory of Correlated Insulator(s) and Superconductor at $¦Í=1$ in Twisted WSe$_2$](http://arxiv.org/abs/2406.03525v2)** | 2025-01-28 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Supplementary material: 5 pages, 4 figures</p></details> |
 | **[Effect of spin-dependent tunneling in a MoSe$_2$/Cr$_2$Ge$_2$Te$_6$ van der Waals heterostructure on exciton and trion emission](http://arxiv.org/abs/2407.11603v2)** | 2025-01-28 |  |
 | **[Valley-mediated singlet- and triplet-polaron interactions and quantum dynamics in a doped WSe$_2$ monolayer](http://arxiv.org/abs/2501.02372v1)** | 2025-01-04 | 4 pages, 4 figures |
 | **[Effect of arsenic doping on structural and electronic properties of MoSe$_2$ monolayer: an ab initio study](http://arxiv.org/abs/2412.17664v2)** | 2024-12-30 | <details><summary>10 pa...</summary><p>10 pages, 7 figures (Published version)</p></details> |
 | **[Engineering whispering gallery modes in MoSe$_2$/WS$_2$ double heterostructure nanocavities: Towards developing all-TMDC light sources](http://arxiv.org/abs/2412.18953v1)** | 2024-12-25 |  |
 | **[Electrically tunable MoSe$_2$/WSe$_2$ heterostructure-based quantum dot](http://arxiv.org/abs/2412.15599v1)** | 2024-12-20 |  |
-| **[Interplay between topology and electron-electron interactions in the moirÃ© MoTe$_{\mathrm{2}}$/WSe$_{\mathrm{2}}$ heterobilayer](http://arxiv.org/abs/2412.09170v1)** | 2024-12-12 |  |
+| **[Interplay between topology and electron-electron interactions in the moir¨¦ MoTe$_{\mathrm{2}}$/WSe$_{\mathrm{2}}$ heterobilayer](http://arxiv.org/abs/2412.09170v1)** | 2024-12-12 |  |
 | **[Two-gap superconductivity in a Janus MoSeLi monolayer](http://arxiv.org/abs/2412.08119v1)** | 2024-12-11 | 7 pages, 8 figures |
-| **[Evolution of flat bands in MoSe$_2$/WSe$_2$ moirÃ© lattices: A study combining machine learning and band unfolding methods](http://arxiv.org/abs/2409.07987v2)** | 2024-12-11 | 14 pages, 13 figures |
+| **[Evolution of flat bands in MoSe$_2$/WSe$_2$ moir¨¦ lattices: A study combining machine learning and band unfolding methods](http://arxiv.org/abs/2409.07987v2)** | 2024-12-11 | 14 pages, 13 figures |
 | **[Measurements of absolute bandgap deformation-potentials of optically-bright bilayer WSe$_2$](http://arxiv.org/abs/2412.00453v1)** | 2024-11-30 |  |
 | **[Laterally Extended States of Interlayer Excitons in Reconstructed MoSe$_2$/WSe$_2$ Heterostructures](http://arxiv.org/abs/2411.19616v1)** | 2024-11-29 |  |
 | **[Optical response of WSe$_2$-based vertical tunneling junction](http://arxiv.org/abs/2411.16576v1)** | 2024-11-25 | 8 pages, 4 figures |
