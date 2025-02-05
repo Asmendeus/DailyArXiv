@@ -37,7 +37,7 @@ for group in keyword_groups:
     assert group in keywords, f"'{group}' is not a key in keywords"
 
 max_result = 100 # maximum query results from arXiv API for each keyword
-issues_result = 15 # maximum papers to be included in the issue
+issues_result = 20 # maximum papers to be included in the issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 # fixed_columns = ["Title", "Link", "Date"]
