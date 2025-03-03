@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 02, 2025
+title: Latest 20 Papers - March 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Superconductivity and pair density waves from nearest-neighbor interactions in frustrated lattice geometries](http://arxiv.org/abs/2502.20911v1)** | 2025-02-28 |  |
+| **[Spatially anisotropic Kondo resonance intertwined with superconducting gap in kagome metal CsV3-xCrxSb5](http://arxiv.org/abs/2502.20735v1)** | 2025-02-28 |  |
+| **[Global Phase Diagram of D-wave Superconductivity in the Square-Lattice $t\text{-}J$ Model](http://arxiv.org/abs/2311.15092v3)** | 2025-02-28 |  |
+| **[Quantum noise spectroscopy of superconducting dynamics in thin film Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$](http://arxiv.org/abs/2502.04439v2)** | 2025-02-27 | <details><summary>[Vers...</summary><p>[Version 2] revised with Methods and Supplementary Information. 9 pages, 4 figures in main. 4 pages, 2 figures in methods. 7 pages, 5 figures in supplementary information. [Original Version] 9 pages, 4 figures in main text</p></details> |
 | **[Superconductivity in doped planar Dirac insulators: A renormalization group study](http://arxiv.org/abs/2502.20394v1)** | 2025-02-27 | <details><summary>21 Pa...</summary><p>21 Pages, 9 Figures, and 4 Tables</p></details> |
 | **[Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits](http://arxiv.org/abs/2502.20254v1)** | 2025-02-27 | <details><summary>13 pa...</summary><p>13 pages and 5 figures</p></details> |
 | **[Friedel oscillations and chiral superconductivity in monolayer NbSe$_2$](http://arxiv.org/abs/2412.00273v2)** | 2025-02-27 | 12 pages, 4 figures |
@@ -23,10 +27,6 @@ labels: documentation
 | **[Scalable Low-overhead Superconducting Non-local Coupler with Exponentially Enhanced Connectivity](http://arxiv.org/abs/2502.18902v1)** | 2025-02-26 |  |
 | **[Ab initio modeling of single-photon detection in superconducting nanowires](http://arxiv.org/abs/2501.13791v2)** | 2025-02-26 | 10 pages, 4 figures |
 | **[Remote Entangling Gates for Spin Qubits in Quantum Dots using a Charge-Sensitive Superconducting Coupler](http://arxiv.org/abs/2409.08915v2)** | 2025-02-25 | 25 pages, 9 figures |
-| **[Revisiting the spin-orbit scattering in small-sized superconducting particles in the magnetic field](http://arxiv.org/abs/2502.17998v1)** | 2025-02-25 | 6 pages, 3 figures |
-| **[Multimode operation of a superconducting nanowire switch in the nanosecond regime](http://arxiv.org/abs/2502.17980v1)** | 2025-02-25 | 10 pages, 6 figures |
-| **[Microwave dynamics of gated Al/InAs superconducting nanowires](http://arxiv.org/abs/2502.17970v1)** | 2025-02-25 |  |
-| **[Enhancing Intrinsic Quality Factors Approaching 10 Million in Superconducting Planar Resonators via Spiral Geometry](http://arxiv.org/abs/2502.17901v1)** | 2025-02-25 |  |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## LaNiO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The $s\pm$ pairing symmetry in the pressured La$_3$Ni$_2$O$_7$ from electron-phonon coupling](http://arxiv.org/abs/2502.21016v1)** | 2025-02-28 | 7 pages, 7 figures |
 | **[Robust $s_\pm$-wave pairing in a bilayer two-orbital model of pressurized La$_3$Ni$_2$O$_7$ without the $γ$ Fermi surface](http://arxiv.org/abs/2502.19840v1)** | 2025-02-27 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2412.11429</p></details> |
 | **[First-principles study on Pr-doped Bilayer Nickelate La3Ni2O7](http://arxiv.org/abs/2502.19664v1)** | 2025-02-27 |  |
 | **[Evidence for strongly correlated superconductivity in La$_3$Ni$_2$O$_7$ from first principles](http://arxiv.org/abs/2502.19501v1)** | 2025-02-26 |  |
@@ -98,11 +99,11 @@ labels: documentation
 | **[Hardening of Ni-O bond-stretching phonons in LaNiO$_2$](http://arxiv.org/abs/2502.00668v1)** | 2025-02-02 | <details><summary>Has b...</summary><p>Has been accepted for a publication in PRB</p></details> |
 | **[Identification of the superconductivity in bilayer nickelate La$_3$Ni$_2$O$_7$ upon 100 GPa](http://arxiv.org/abs/2404.11369v3)** | 2025-02-02 | <details><summary>This ...</summary><p>This is a renewed version with Meissner effect measurements</p></details> |
 | **[Direct Visualization of an Incommensurate Unidirectional Charge Density Wave in La$_4$Ni$_3$O$_{10}$](http://arxiv.org/abs/2501.18885v1)** | 2025-01-31 | 11 pages, 4 figures |
-| **[Band Structure and Pairing Nature of La$_3$Ni$_2$O$_7$ Thin Film at Ambient Pressure](http://arxiv.org/abs/2501.10409v2)** | 2025-01-29 | <details><summary>4.1 p...</summary><p>4.1 pages, 5 figures with Appendix</p></details> |
 
 ## TMD
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Large Twist Angle Dependent Ultrafast Transient Dynamics of MoSe$_2$/WSe$_2$ van der Waals Heterostructures beyond the Mott Transition](http://arxiv.org/abs/2411.17005v2)** | 2025-02-28 | 21 pages, 6 figures |
 | **[Phonon dynamics of a bulk WSe$_2$ crystal excited by ultrashort near-infrared pulses](http://arxiv.org/abs/2502.18799v1)** | 2025-02-26 | 4 pages, 4 figures |
 | **[Photoluminescence efficiency of MBE-grown MoSe$_2$ monolayers featuring sharp excitonic lines and diverse grain structures](http://arxiv.org/abs/2502.17314v1)** | 2025-02-24 | 9 pages, 9 figures |
 | **[State- and momentum-dependent nonlinear Stark effect of interlayer excitons in bilayer WSe$_2$](http://arxiv.org/abs/2502.13861v1)** | 2025-02-19 |  |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Two-gap superconductivity in a Janus MoSeLi monolayer](http://arxiv.org/abs/2412.08119v1)** | 2024-12-11 | 7 pages, 8 figures |
 | **[Evolution of flat bands in MoSe$_2$/WSe$_2$ moiré lattices: A study combining machine learning and band unfolding methods](http://arxiv.org/abs/2409.07987v2)** | 2024-12-11 | 14 pages, 13 figures |
 | **[Measurements of absolute bandgap deformation-potentials of optically-bright bilayer WSe$_2$](http://arxiv.org/abs/2412.00453v1)** | 2024-11-30 |  |
-| **[Laterally Extended States of Interlayer Excitons in Reconstructed MoSe$_2$/WSe$_2$ Heterostructures](http://arxiv.org/abs/2411.19616v1)** | 2024-11-29 |  |
 
 ## Graphene
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,10 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantum information elements in Quantum Gravity states and processes](http://arxiv.org/abs/2502.21234v1)** | 2025-02-28 | <details><summary>21 pa...</summary><p>21 pages. To appear in D. Rickles, X. Arsiwalla, and H. Elshatlawy (eds.), Quantum Gravity and Computation (Routledge)</p></details> |
+| **[Gauging tensor networks with belief propagation](http://arxiv.org/abs/2306.17837v5)** | 2025-02-28 | 45 Pages. 11 Figures |
+| **[Spectroscopy and complex-time correlations using minimally entangled typical thermal states](http://arxiv.org/abs/2405.18484v2)** | 2025-02-28 | 20 pages, 17 figures |
+| **[Anticoncentration in Clifford Circuits and Beyond: From Random Tensor Networks to Pseudo-Magic States](http://arxiv.org/abs/2502.20455v1)** | 2025-02-27 | 14 pages |
 | **[Benchmarking Quantum Red TEA on CPUs, GPUs, and TPUs](http://arxiv.org/abs/2409.03818v2)** | 2025-02-27 | <details><summary>15 pa...</summary><p>15 pages, 6 figures/tables, submitted to the 10th bwHPC Symposium. Minor revisions in text in v2</p></details> |
 | **[Spatio-temporal tensor-network approaches to out-of-equilibrium dynamics bridging open and closed systems](http://arxiv.org/abs/2502.20214v1)** | 2025-02-27 | <details><summary>17 pa...</summary><p>17 pages, 10 figures. Invited mini-review, comments welcome</p></details> |
 | **[Highly Entangled 2D Ground State: Tensor Network, Order Parameter and Correlation](http://arxiv.org/abs/2502.20192v1)** | 2025-02-27 |  |
@@ -160,21 +164,18 @@ labels: documentation
 | **[Schwinger-Keldysh nonperturbative field theory of open quantum systems beyond the Markovian regime: Application to spin-boson and spin-chain-boson models](http://arxiv.org/abs/2405.00765v3)** | 2025-02-26 | <details><summary>21 pa...</summary><p>21 pages, 10 figures, 153 references</p></details> |
 | **[Optimal Symbolic Construction of Matrix Product Operators and Tree Tensor Network Operators](http://arxiv.org/abs/2502.18630v1)** | 2025-02-25 |  |
 | **[Grassmann tensor approach for two-dimensional QCD in the strong-coupling expansion](http://arxiv.org/abs/2501.19192v2)** | 2025-02-25 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, proceedings of the 41st International Symposium on Lattice Field Theory (LATTICE2024), 28 July - 3 August 2024, Liverpool, UK</p></details> |
-| **[Chemical master equation parameter exploration using DMRG](http://arxiv.org/abs/2501.09692v1)** | 2025-01-16 |  |
-| **[DMRG study of the theta-dependent mass spectrum in the 2-flavor Schwinger model](http://arxiv.org/abs/2407.11391v1)** | 2024-07-16 | 43 pages, 23 figures |
-| **[Probing universal critical scaling with scan-DMRG](http://arxiv.org/abs/2406.16594v1)** | 2024-06-24 | 11 pages, 12 figures |
-| **[Quantum phase transitions in one-dimensional nanostructures: a comparison between DFT and DMRG methodologies](http://arxiv.org/abs/2402.12463v1)** | 2024-02-19 |  |
-| **[Roles of non-local electron-phonon coupling on the electrical conductivity and Seebeck coefficient: a TD-DMRG study](http://arxiv.org/abs/2312.11159v1)** | 2023-12-18 |  |
-| **[On the Magnetization of the $120^\circ$ order of the Spin-1/2 Triangular Lattice Heisenberg Model: a DMRG revisit](http://arxiv.org/abs/2310.11774v1)** | 2023-10-18 | 6 pages, 6 figures |
-| **[Controlled bond expansion for DMRG ground state search at single-site costs](http://arxiv.org/abs/2207.14712v2)** | 2023-05-31 | 12 pages, 10 figures |
-| **[Schwinger model on an interval: analytic results and DMRG](http://arxiv.org/abs/2210.00297v2)** | 2023-03-22 | <details><summary>31 pa...</summary><p>31 pages, 8 figures; v2 major revision, published version essentially</p></details> |
-| **[DMRG study of the higher-charge Schwinger model and its 't Hooft anomaly](http://arxiv.org/abs/2210.04237v1)** | 2022-10-09 | 33 pages, 12 figures |
-| **[Skyrmion Superconductivity: DMRG evidence for a topological route to superconductivity](http://arxiv.org/abs/2010.01144v2)** | 2022-07-26 | <details><summary>7 + 1...</summary><p>7 + 14 pages, 5 + 12 figures: (v2) Added clarifications and discussion of pair wavefunction</p></details> |
-| **[Nature of quantum spin liquids of the S=1/2 Heisenberg antiferromagnet on the triangular lattice: A parallel DMRG study](http://arxiv.org/abs/2203.10216v1)** | 2022-03-19 | <details><summary>4 pag...</summary><p>4 pages, 5 figures + supplemental material</p></details> |
+| **[Multi-impurity method for the bond-weighted tensor renormalization group](http://arxiv.org/abs/2411.13998v2)** | 2025-02-25 | <details><summary>10 pa...</summary><p>10 pages, 10 figures, The data are available at https://datarepo.mdcl.issp.u-tokyo.ac.jp/repo/49</p></details> |
+| **[Real-time simulation of jet energy loss and entropy production in high-energy scattering with matter](http://arxiv.org/abs/2502.17558v1)** | 2025-02-24 | 12 pages, 8 figures |
+| **[Qubit Regularization of Quantum Field Theories](http://arxiv.org/abs/2502.05716v2)** | 2025-02-24 | <details><summary>16 pa...</summary><p>16 pages, 9 figures, plenary talk presented at the 41st International Symposium on Lattice Field theory (LATTICE2024), July 28th - August 3rd, 2024, Liverpool, UK (corrected typo in the title, updated references to proceedings format, removed PoS logo)</p></details> |
+| **[Phase coherence of charge-$6e$ superconductors via a frustrated Kagome XY antiferromagnet](http://arxiv.org/abs/2502.17005v1)** | 2025-02-24 | 6 pages, 4 figures |
+| **[Ground state energy and magnetization curve of a frustrated magnetic system from real-time evolution on a digital quantum processor](http://arxiv.org/abs/2401.03015v2)** | 2025-02-24 | <details><summary>v2: 3...</summary><p>v2: 31 pages, 23 figures. Small corrections to eqs (16) and (28), and to cost-scaling with system size on pg 12; v1: 29 pages, 22 figures</p></details> |
+| **[Quantum Encoding of Structured Data with Matrix Product States](http://arxiv.org/abs/2502.16464v1)** | 2025-02-23 |  |
+| **[Non-equilibrium quantum Monte Carlo algorithm for stabilizer Renyi entropy in spin systems](http://arxiv.org/abs/2405.19577v4)** | 2025-02-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures + 7 pages, 5 figures</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction](http://arxiv.org/abs/2502.21081v1)** | 2025-02-28 | 10 pages, 8 figures |
 | **[Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography](http://arxiv.org/abs/2502.20066v1)** | 2025-02-27 |  |
 | **[Real-time Sign-Problem-Suppressed Quantum Monte Carlo Algorithm For Noisy Quantum Circuit Simulations](http://arxiv.org/abs/2502.18929v1)** | 2025-02-26 |  |
 | **[ByteQC: GPU-Accelerated Quantum Chemistry Package for Large-Scale Systems](http://arxiv.org/abs/2502.17963v2)** | 2025-02-26 |  |
@@ -194,5 +195,4 @@ labels: documentation
 | **[Boosting Determinant Quantum Monte Carlo with Submatrix Updates: Unveiling the Phase Diagram of the 3D Hubbard Model](http://arxiv.org/abs/2404.09989v3)** | 2025-02-18 | <details><summary>19 pa...</summary><p>19 pages, 15 figures, 3 tables</p></details> |
 | **[Nonequilibrium dynamics in Dirac quantum criticality](http://arxiv.org/abs/2310.10601v2)** | 2025-02-15 | <details><summary>7+10 ...</summary><p>7+10 pages, 5+8 figures</p></details> |
 | **[Transient dynamical phase diagram of the spin-boson model](http://arxiv.org/abs/2402.18561v2)** | 2025-02-11 |  |
-| **[Finite temperature fermion Monte Carlo simulations of frustrated spin-Peierls systems](http://arxiv.org/abs/2502.06565v1)** | 2025-02-10 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, article</p></details> |
 
