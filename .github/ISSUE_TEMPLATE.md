@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 04, 2025
+title: Latest 20 Papers - March 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
