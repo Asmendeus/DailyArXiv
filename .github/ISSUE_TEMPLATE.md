@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - March 31, 2025
+title: Latest 20 Papers - April 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unveiling superconducting properties of an equiatomic hexagonal high entropy alloy via muon spin relaxation and rotation measurement](http://arxiv.org/abs/2503.24287v1)** | 2025-03-31 | 9 pages, 6 figures |
+| **[Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor](http://arxiv.org/abs/2503.24274v1)** | 2025-03-31 | 15 pages, 11 figures |
+| **[Superconducting Spin-Singlet QuBit in a Triangulene Spin Chain](http://arxiv.org/abs/2503.23928v1)** | 2025-03-31 | <details><summary>16 pa...</summary><p>16 pages, 7 pages, 1 table</p></details> |
+| **[Superconductivity in High-Entropy Antimonide M$_{1-x}$Pt$_x$Sb (M = equimolar Ru, Rh, Pd, and Ir)](http://arxiv.org/abs/2503.23692v1)** | 2025-03-31 | <details><summary>13 pa...</summary><p>13 pages, 6+2 figures, 1+2 tables</p></details> |
+| **[First-Principles Study of High-Temperature Superconductivity in X2MH6 Compounds under 20 GPa](http://arxiv.org/abs/2411.15683v3)** | 2025-03-29 |  |
+| **[Time dependent Ginzburg-Landau theory for design of superconducting wire](http://arxiv.org/abs/2503.23066v1)** | 2025-03-29 | 5 pages, 4 figures |
 | **[Toward single-photon detection with superconducting niobium diselenide nanowires](http://arxiv.org/abs/2503.22670v1)** | 2025-03-28 |  |
 | **[Revealing the loss mechanisms of a 3D superconducting microwave cavity for use in a dark matter search](http://arxiv.org/abs/2503.22637v1)** | 2025-03-28 |  |
 | **[Enhanced superconductivity in LaRu3Si2 by chemical pressure tuning of kagome flat bands](http://arxiv.org/abs/2503.22477v1)** | 2025-03-28 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 3 supplemental figures</p></details> |
@@ -21,12 +27,6 @@ labels: documentation
 | **[Theory of Superconductivity in LaRu$_3$Si$_2$ and Predictions of New Kagome Flat Band Superconductors](http://arxiv.org/abs/2503.20867v1)** | 2025-03-26 | <details><summary>8+60 ...</summary><p>8+60 pages, 3+32 figures, 2+9 tables</p></details> |
 | **[Performance of a Superconducting Quantum Battery](http://arxiv.org/abs/2411.19247v2)** | 2025-03-26 | 15 pages, 5 figures |
 | **[Hybridization of lattice and charge order excitations in a superconducting cuprate](http://arxiv.org/abs/2503.20503v1)** | 2025-03-26 |  |
-| **[Enhancement of superconducting pairing via quantum control](http://arxiv.org/abs/2503.20426v1)** | 2025-03-26 | 8 pages, 5 figures |
-| **[Loss tangent fluctuations due to two-level systems in superconducting microwave resonators](http://arxiv.org/abs/2412.05482v2)** | 2025-03-26 |  |
-| **[Dirac surface states, multiorbital dimerization and superconductivity in Nb- and Ta-based A15 compounds](http://arxiv.org/abs/2310.18245v3)** | 2025-03-25 | <details><summary>16 pa...</summary><p>16 pages, 12 figures in main text, 3 figures in appendix, Paper submitted to Physical Review B</p></details> |
-| **[Exact quantum critical states with a superconducting quantum processor](http://arxiv.org/abs/2502.19185v2)** | 2025-03-25 | <details><summary>6+29 ...</summary><p>6+29 pages, 4+14 figures. Discussions are updated</p></details> |
-| **[Highly efficient microwave memory using a superconducting artificial chiral atom](http://arxiv.org/abs/2503.19608v1)** | 2025-03-25 | 6 pages, 5 figures |
-| **[Periodic phase slips and frequency comb generation at tunable microwave frequencies in superconducting diabolo structures](http://arxiv.org/abs/2503.11925v2)** | 2025-03-25 |  |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## LaNiO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[$s_{\pm}$ pairing via interlayer interaction in La$_{2.85}$Pr$_{0.15}$Ni$_2$O$_7$ Thin Films under Ambient Pressure](http://arxiv.org/abs/2503.23861v1)** | 2025-03-31 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, including the supplemental material</p></details> |
 | **[Electronic structures and multi-orbital models of La$_3$Ni$_2$O$_7$ thin films](http://arxiv.org/abs/2503.17223v1)** | 2025-03-21 |  |
 | **[Intertwined charge and spin instability of La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2410.15649v4)** | 2025-03-21 | 13 pages, 9 figures |
 | **[Transition from $s_{\pm}$-wave to $d_{x^{2}-y^{2}}$-wave superconductivity driven by interlayer interaction in the bilayer two-orbital model of La$_3$Ni$_2$O$_7$](http://arxiv.org/abs/2503.15038v1)** | 2025-03-19 | 11 pages, 8 figures |
@@ -98,7 +99,6 @@ labels: documentation
 | **[Spin excitations in bilayer La$_3$Ni$_2$O$_7$ superconductors with the interlayer pairing](http://arxiv.org/abs/2408.10638v2)** | 2025-02-26 | 12 pages, 10 figures |
 | **[Fermi surface reconstruction and enhanced spin fluctuations in strained La$_3$Ni$_2$O$_{7}$ on LaAlO$_3$(001) and SrTiO$_3$(001)](http://arxiv.org/abs/2411.14600v2)** | 2025-02-25 | 7 pages, 4 figures |
 | **[Electronic Structures across the Superconductor-Insulator Transition at La$_{2.85}$Pr$_{0.15}$Ni$_2$O$_7$/SrLaAlO$_4$ Interfaces](http://arxiv.org/abs/2502.18068v1)** | 2025-02-25 | under review |
-| **[Anomalous energy gap in superconducting La$_{2.85}$Pr$_{0.15}$Ni$_2$O$_7$/SrLaAlO$_4$ heterostructures](http://arxiv.org/abs/2502.17831v1)** | 2025-02-25 |  |
 
 ## TMD
 | **Title** | **Date** | **Comment** |
@@ -127,6 +127,9 @@ labels: documentation
 ## Graphene
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Corrugation-dominated mechanical softening of defect-engineered graphene](http://arxiv.org/abs/2412.05194v3)** | 2025-03-31 | 16 pages, 10 figures |
+| **[First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage](http://arxiv.org/abs/2503.23902v1)** | 2025-03-31 | 10 pages, 5 figures |
+| **[Magneto transport of pressure induced flatbands in large angle twisted bilayer graphene](http://arxiv.org/abs/2503.22920v1)** | 2025-03-29 |  |
 | **[Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene](http://arxiv.org/abs/2503.21996v1)** | 2025-03-27 | <details><summary>29 pa...</summary><p>29 pages, 4 main figures, 11 supplementary figures</p></details> |
 | **[Optical control of orbital magnetism in magic angle twisted bilayer graphene](http://arxiv.org/abs/2503.21750v1)** | 2025-03-27 | 16 pages, 9 figures |
 | **[Electric conductivity in graphene: Kubo model versus a nonlocal quantum field theory model](http://arxiv.org/abs/2403.02279v3)** | 2025-03-27 | 33 pages, 3 figures |
@@ -144,13 +147,15 @@ labels: documentation
 | **[Klein Tunneling in Uniaxial Strained Graphene under Super-Periodic Potential](http://arxiv.org/abs/2503.17734v1)** | 2025-03-22 |  |
 | **[Graphene Straintronics by Molecular Trapping](http://arxiv.org/abs/2503.17240v1)** | 2025-03-21 |  |
 | **[Enhanced shot noise in graphene quantum point contacts with electrostatic reconstruction](http://arxiv.org/abs/2503.17209v1)** | 2025-03-21 | <details><summary>Inclu...</summary><p>Includes Supplemental Material</p></details> |
-| **[Gate and Carriers tunable Valley Imbalance in Topological Proximitized Rhombohedral Trilayer Graphene](http://arxiv.org/abs/2503.17098v1)** | 2025-03-21 |  |
-| **[Valley-dependent giant orbital moments and transport feature in rhombohedral graphene multilayers](http://arxiv.org/abs/2503.16761v1)** | 2025-03-21 | <details><summary>6 fig...</summary><p>6 figures, in press PRB</p></details> |
-| **[Simultaneous transport and tunneling spectroscopy of moiré graphene: Distinct observation of the superconducting gap and signatures of nodal superconductivity](http://arxiv.org/abs/2503.16410v1)** | 2025-03-20 | 18 pages, 5 figures |
 
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoherence-induced self-dual criticality in topological states of matter](http://arxiv.org/abs/2502.14034v3)** | 2025-03-31 | <details><summary>funda...</summary><p>fundamental connection between MIPT and mixed state is highlighted (20 + 10 pages, 6 + 6 figures)</p></details> |
+| **[Quantum phase diagram of the extended spin-3/2 Kitaev-Heisenberg model: A DMRG study](http://arxiv.org/abs/2503.24246v1)** | 2025-03-31 | <details><summary>4.5 p...</summary><p>4.5 pages, 4 figures plus Supplemental Material</p></details> |
+| **[Revealing quantum phase string effect in doped Mott-insulator: a tensor network state approach](http://arxiv.org/abs/2503.23851v1)** | 2025-03-31 | 12 pages, 11 figures |
+| **[Learning out-of-time-ordered correlators with classical kernel methods](http://arxiv.org/abs/2409.01592v2)** | 2025-03-31 | <details><summary>19+ 1...</summary><p>19+ 18 pages, 6 figures, 14 tables</p></details> |
+| **[Simulation of Fermionic circuits using Majorana Propagation](http://arxiv.org/abs/2503.18939v2)** | 2025-03-29 |  |
 | **[The moment polytope of matrix multiplication is not maximal](http://arxiv.org/abs/2503.22633v1)** | 2025-03-28 |  |
 | **[Charge creation via quantum tunneling in one-dimensional Mott insulators: A numerical study of the extended Hubbard model](http://arxiv.org/abs/2503.22481v1)** | 2025-03-28 | <details><summary>14 pa...</summary><p>14 pages including bibliography and the appendix (11 pages without them), 8 figures in the main text and 1 in the appendix for a total of 9 figures, and 2 tables in the main text</p></details> |
 | **[Dynamics of one-dimensional spin models via complex-time evolution of tensor networks](http://arxiv.org/abs/2503.19269v2)** | 2025-03-28 |  |
@@ -162,19 +167,16 @@ labels: documentation
 | **[Highly Entangled 2D Ground States: Tensor Network, Order Parameter and Correlation](http://arxiv.org/abs/2502.20192v2)** | 2025-03-25 |  |
 | **[Quantum many-body simulations with PauliStrings.jl](http://arxiv.org/abs/2410.09654v3)** | 2025-03-24 |  |
 | **[Tensor-Network Study of the Roughening Transition in (2 + 1)D lattice gauge theories](http://arxiv.org/abs/2503.19027v1)** | 2025-03-24 | <details><summary>4+9 p...</summary><p>4+9 pages, 4+8 figures</p></details> |
-| **[Simulation of Fermionic circuits using Majorana Propagation](http://arxiv.org/abs/2503.18939v1)** | 2025-03-24 |  |
 | **[Exploring the Finite-Temperature Behavior of Rydberg Atom Arrays: A Tensor Network Approach](http://arxiv.org/abs/2503.18413v1)** | 2025-03-24 |  |
 | **[Deriving the non-perturbative gravitational dual of quantum Liouville theory from BCFT operator algebra](http://arxiv.org/abs/2403.03179v3)** | 2025-03-22 | <details><summary>20 pa...</summary><p>20 pages, 12 figures; v2 typos corrected and references added; v3: references added; discussion of difficulties in earlier works and their connection to the present work included; expanded discussion on RG and wavefunction tensor networks added</p></details> |
 | **[Nonperturbative decay of bipartite discrete time crystals](http://arxiv.org/abs/2411.00651v2)** | 2025-03-21 | <details><summary>Accep...</summary><p>Accepted version, 10 pages including Supplemental Material</p></details> |
 | **[Absence of barren plateaus and scaling of gradients in the energy optimization of isometric tensor network states](http://arxiv.org/abs/2304.00161v4)** | 2025-03-21 | <details><summary>30 pa...</summary><p>30 pages main text, 14 pages appendix, 14 figures; added 6 figures concerning MERA and TTNS, an analysis for nonary 2D MERA and TTNS, and references; added appendices D.1 and D.2 explaining apparent discrepancies concerning ZX-MPS discussed in [Cervero Mart\'in et al., Quantum 7, 974 (2023)] and QMPS simulated in [Liu et al., PRR 1, 023025 (2019)], further minor improvements; published version</p></details> |
-| **[Adaptive variational quantum dynamics simulations with compressed circuits and fewer measurements](http://arxiv.org/abs/2408.06590v2)** | 2025-03-20 |  |
-| **[Reducing T Gates with Unitary Synthesis](http://arxiv.org/abs/2503.15843v1)** | 2025-03-20 |  |
-| **[Rapid quantum ground state preparation via dissipative dynamics](http://arxiv.org/abs/2503.15827v1)** | 2025-03-20 |  |
-| **[Most continuous-variable cluster states are too entangled to be useless](http://arxiv.org/abs/2503.15698v1)** | 2025-03-19 | 13 pages, 1 figure |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning phases with Quantum Monte Carlo simulation cell](http://arxiv.org/abs/2503.23098v1)** | 2025-03-29 | 10 pages, 10 figures |
+| **[Quantum many-body simulation of finite-temperature systems with sampling a series expansion of a quantum imaginary-time evolution](http://arxiv.org/abs/2409.07070v3)** | 2025-03-29 | 23 pages, 11 figures |
 | **[Sign changes of the thermoelectric transport coefficient across the metal-insulator crossover in the doped Fermi Hubbard model](http://arxiv.org/abs/2407.01680v2)** | 2025-03-28 | 7 pages, 7 figures |
 | **[Extracting Universal Corner Entanglement Entropy during the Quantum Monte Carlo Simulation](http://arxiv.org/abs/2404.13876v4)** | 2025-03-28 | 9 pages, 10 figures |
 | **[Most topological orders forbid sign-problem-free quantum Monte Carlo: Nonpositive Gauss sum as an indicator](http://arxiv.org/abs/2503.21925v1)** | 2025-03-27 | <details><summary>6 pag...</summary><p>6 pages, 1 figure, supplementary information available</p></details> |
@@ -193,6 +195,4 @@ labels: documentation
 | **[Quantum Monte Carlo and density functional theory study of strain and magnetism in 2D 1T-VSe$_2$ with charge density wave states](http://arxiv.org/abs/2409.19082v2)** | 2025-03-19 |  |
 | **[Graphene-hBN interlayer interactions from quantum Monte Carlo](http://arxiv.org/abs/2503.13672v1)** | 2025-03-17 |  |
 | **[Constraints from anti-unitary symmetries on phase diagrams of sign problem-free models](http://arxiv.org/abs/2503.07747v2)** | 2025-03-17 |  |
-| **[Tunable topological protection in Rydberg lattices via a novel quantum Monte Carlo approach](http://arxiv.org/abs/2503.12949v1)** | 2025-03-17 | 15 pages, 17 figures |
-| **[Nonpertubative Many-Body Theory for the Two-Dimensional Hubbard Model at Low Temperature: From Weak to Strong Coupling Regimes](http://arxiv.org/abs/2503.12468v1)** | 2025-03-16 | 42 pages, 7 figures |
 
