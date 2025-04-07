@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 06, 2025
+title: Latest 20 Papers - April 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -127,13 +127,13 @@ labels: documentation
 ## Graphene
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage](http://arxiv.org/abs/2503.23902v2)** | 2025-04-04 | 10 pages, 5 figures |
 | **[Valley and Spin Polarized States in Bernal Bilayer Graphene](http://arxiv.org/abs/2504.02678v1)** | 2025-04-03 | 27 pages, 15 figures |
 | **[A complimentary impedance spectroscopy biosensing method with graphene](http://arxiv.org/abs/2504.02510v1)** | 2025-04-03 | 21 pages, 6 figures |
 | **[Manifestations of $(2+1)d$ chiral anomaly in a graphene plate](http://arxiv.org/abs/2410.22843v4)** | 2025-04-03 | <details><summary>10 pa...</summary><p>10 pages; more clarifications, a footnote and new references added, version to appear in PLB</p></details> |
 | **[An all-electrical scheme for valley polarization in graphene](http://arxiv.org/abs/2504.02497v1)** | 2025-04-03 | <details><summary>7 pag...</summary><p>7 pages, 7 captioned figures</p></details> |
 | **[Nagaoka ferromagnetism in semiconductor artificial graphene](http://arxiv.org/abs/2504.01492v1)** | 2025-04-02 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, supplemental materials available</p></details> |
 | **[Corrugation-dominated mechanical softening of defect-engineered graphene](http://arxiv.org/abs/2412.05194v3)** | 2025-03-31 | 16 pages, 10 figures |
-| **[First-Principle Investigation On Chromium Decorated Graphene-based Systems for Hydrogen Storage](http://arxiv.org/abs/2503.23902v1)** | 2025-03-31 | 10 pages, 5 figures |
 | **[Magneto transport of pressure induced flatbands in large angle twisted bilayer graphene](http://arxiv.org/abs/2503.22920v1)** | 2025-03-29 |  |
 | **[Sub-nm Curvature Unlocks Exceptional Inherent Flexoelectricity in Graphene](http://arxiv.org/abs/2503.21996v1)** | 2025-03-27 | <details><summary>29 pa...</summary><p>29 pages, 4 main figures, 11 supplementary figures</p></details> |
 | **[Optical control of orbital magnetism in magic angle twisted bilayer graphene](http://arxiv.org/abs/2503.21750v1)** | 2025-03-27 | 16 pages, 9 figures |
@@ -151,6 +151,7 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rapid quantum ground state preparation via dissipative dynamics](http://arxiv.org/abs/2503.15827v2)** | 2025-04-04 |  |
 | **[Finite steady-state current defies non-Hermitian many-body localization](http://arxiv.org/abs/2504.02460v1)** | 2025-04-03 |  |
 | **[Multicriticality in stochastic dynamics protected by self-duality](http://arxiv.org/abs/2504.01258v1)** | 2025-04-02 | 8 pages, 3 figures |
 | **[Charge and Spin Sharpening Transitions on Dynamical Quantum Trees](http://arxiv.org/abs/2405.13894v2)** | 2025-04-01 |  |
@@ -170,11 +171,12 @@ labels: documentation
 | **[Accurate Gauge-Invariant Tensor Network Simulations for Abelian Lattice Gauge Theory in (2+1)D](http://arxiv.org/abs/2503.20566v1)** | 2025-03-26 |  |
 | **[Matrix product state fixed points of non-Hermitian transfer matrices](http://arxiv.org/abs/2311.18733v3)** | 2025-03-26 | <details><summary>publi...</summary><p>published version. 13 pages, 14 figures</p></details> |
 | **[Transmon qutrit-based simulation of spin-1 AKLT systems](http://arxiv.org/abs/2412.19786v2)** | 2025-03-25 | <details><summary>Exten...</summary><p>Extended discussion on Noisy simulation of Berry Phase estimation added</p></details> |
-| **[Highly Entangled 2D Ground States: Tensor Network, Order Parameter and Correlation](http://arxiv.org/abs/2502.20192v2)** | 2025-03-25 |  |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices](http://arxiv.org/abs/2504.03512v1)** | 2025-04-04 | 11 pages, 4 figures |
+| **[Supersolid phase in two-dimensional soft-core bosons at finite temperature](http://arxiv.org/abs/2504.03482v1)** | 2025-04-04 | 23 pages, 11 figures |
 | **[Self-bound monolayer crystals of ultracold polar molecules](http://arxiv.org/abs/2504.02682v1)** | 2025-04-03 | 11 pages, 9 figures |
 | **[Single-Particle Dispersion and Density of States of the Half-Filled 2D Hubbard Model](http://arxiv.org/abs/2504.02614v1)** | 2025-04-03 | 5 pages, 3 figures |
 | **[Learning by Confusion: The Phase Diagram of the Holstein Model](http://arxiv.org/abs/2501.04681v4)** | 2025-04-02 | 11 pages, 9 figures |
@@ -193,6 +195,4 @@ labels: documentation
 | **[First- and second-order quantum phase transitions in the long-range unfrustrated antiferromagnetic Ising chain](http://arxiv.org/abs/2409.02165v2)** | 2025-03-25 | 15 pages, 10 figures |
 | **[Addressing general measurements in quantum Monte Carlo](http://arxiv.org/abs/2412.01384v3)** | 2025-03-25 | 18 pages,18 figures |
 | **[Geometric Breaking of Quantum Strings in Kagome Rydberg Atom Array](http://arxiv.org/abs/2410.21135v2)** | 2025-03-23 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, new version focus more on the string breaking, comments are welcome, and more information at http://cqutp.org/users/xfzhang/</p></details> |
-| **[Solving the SU($N$) Orbital Hatsugai-Komoto Model](http://arxiv.org/abs/2503.10760v2)** | 2025-03-21 |  |
-| **[Entanglement Rényi Negativity of Interacting Fermions from Quantum Monte Carlo Simulations](http://arxiv.org/abs/2312.14155v4)** | 2025-03-20 | <details><summary>9+11 ...</summary><p>9+11 pages, 3+2 figures</p></details> |
 
