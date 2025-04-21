@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 20, 2025
+title: Latest 20 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A model of $d$-wave superconductivity, antiferromagnetism, and charge order on the square lattice](http://arxiv.org/abs/2302.07885v6)** | 2025-04-18 | <details><summary>10+9 ...</summary><p>10+9 pages, 10+5 figures; v4 Added Ya-Hui Zhang as co-author; v6 added grant acknowledgement to Moore Foundation</p></details> |
+| **[Lattice Quantum Geometry Controlling 118 K Multigap Superconductivity in Heavily Overdoped CuBa2Ca3Cu4O10+d](http://arxiv.org/abs/2504.13796v1)** | 2025-04-18 | 16 pages, 4 figures |
 | **[Topologically enabled superconductivity: possible implications for rhombohedral graphene](http://arxiv.org/abs/2504.13166v1)** | 2025-04-17 |  |
 | **[The effects of disorder in superconducting materials on qubit coherence](http://arxiv.org/abs/2310.06621v3)** | 2025-04-17 |  |
 | **[A scaling relation of vortex-induced rectification effects in a superconducting thin-film heterostructure](http://arxiv.org/abs/2504.12853v1)** | 2025-04-17 | 32 pages, 4 figures |
@@ -25,8 +27,6 @@ labels: documentation
 | **[Measuring Casimir Force Across a Superconducting Transition](http://arxiv.org/abs/2504.10579v1)** | 2025-04-14 |  |
 | **[Spin-Orbital Intertwined Topological Superconductivity in a Class of Correlated Noncentrosymmetric Materials](http://arxiv.org/abs/2504.10392v1)** | 2025-04-14 | 7 pages, 4 figures |
 | **[Band Renormalization, Quarter Metals, and Chiral Superconductivity in Rhombohedral Tetralayer Graphene](http://arxiv.org/abs/2502.19474v2)** | 2025-04-14 | <details><summary>5 pag...</summary><p>5 pages, 4 figures and supplementary material. Updated version. Comments are very welcome</p></details> |
-| **[Information dynamics of our brains in dynamically driven disordered superconducting loop networks](http://arxiv.org/abs/2310.19279v5)** | 2025-04-14 | 6 figures, 26 pages |
-| **[Cross-talk in superconducting qubit lattices with tunable couplers - comparing transmon and fluxonium architectures](http://arxiv.org/abs/2504.10298v1)** | 2025-04-14 | 11 pages, 8 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -127,6 +127,9 @@ labels: documentation
 ## Graphene
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Excitonic effects in phonons: reshaping the graphene Kohn anomalies and lifetimes](http://arxiv.org/abs/2504.13715v1)** | 2025-04-18 |  |
+| **[Quantum transport of Dirac fermions in selected graphene nanosystems away from the charge-neutrality point](http://arxiv.org/abs/2411.16032v8)** | 2025-04-18 | <details><summary>Minor...</summary><p>Minor revisions; typos corrected; Refs. added</p></details> |
+| **[The $β$-decay spectrum of Tritiated graphene: combining nuclear quantum mechanics with Density Functional Theory](http://arxiv.org/abs/2504.13259v1)** | 2025-04-17 | <details><summary>14 pa...</summary><p>14 pages, 6 figures. Supporting Information at the end of the draft</p></details> |
 | **[Topologically enabled superconductivity: possible implications for rhombohedral graphene](http://arxiv.org/abs/2504.13166v1)** | 2025-04-17 |  |
 | **[An all-electrical scheme for valley polarization in graphene](http://arxiv.org/abs/2504.02497v2)** | 2025-04-17 | <details><summary>7 pag...</summary><p>7 pages, 7 captioned figures</p></details> |
 | **[Electric field tunable spin-orbit gap in a bilayer graphene/WSe$_{2}$ quantum dot](http://arxiv.org/abs/2504.12252v1)** | 2025-04-16 | 7 pages, 5 figures |
@@ -144,13 +147,12 @@ labels: documentation
 | **[Gating monolayer and bilayer graphene with a two-dimensional semiconductor](http://arxiv.org/abs/2410.06432v2)** | 2025-04-11 | 33 pages, 14 figures |
 | **[Significant ballistic thermal transport across graphene layers: effect of nanoholes and lithium intercalation](http://arxiv.org/abs/2504.08244v1)** | 2025-04-11 |  |
 | **[Pb-intercalated epitaxial graphene on SiC: Full insight into band structure and orbital character of interlayer Pb, and charge transfer into graphene](http://arxiv.org/abs/2501.08172v2)** | 2025-04-10 | <details><summary>11 pa...</summary><p>11 pages and 6 figures (and 3 pages of supplementary information with 6 figures)</p></details> |
-| **[Stacking-induced ferroelectricity in tetralayer graphene](http://arxiv.org/abs/2504.07935v1)** | 2025-04-10 |  |
-| **[Elastic Screening of Pseudogauge Fields in Graphene](http://arxiv.org/abs/2409.02250v3)** | 2025-04-10 | <details><summary>7 + 1...</summary><p>7 + 15 pages, 4 + 12 figures (v3 has correct Fig. S8)</p></details> |
-| **[Superballistic conduction in hydrodynamic antidot graphene superlattices](http://arxiv.org/abs/2407.04527v2)** | 2025-04-10 |  |
 
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Realizing string breaking dynamics in a $Z_2$ lattice gauge theory on quantum hardware](http://arxiv.org/abs/2504.13760v1)** | 2025-04-18 | 17 pages, 19 figures |
+| **[Stabilizer Rényi Entropy and Conformal Field Theory](http://arxiv.org/abs/2503.13599v2)** | 2025-04-18 | 30 pages, 14 figures |
 | **[Statistical mechanics model for Clifford random tensor networks and monitored quantum circuits](http://arxiv.org/abs/2110.02988v2)** | 2025-04-16 | <details><summary>23 pa...</summary><p>23 pages, 5 figures. Abstract shortened to meet arxiv requirements, see pdf for full abstract. v2: Discussion on multifractality in Clifford circuits added. Published version</p></details> |
 | **[A tensor network approach to sensing quantum light-matter interactions](http://arxiv.org/abs/2504.12399v1)** | 2025-04-16 | <details><summary>21 pa...</summary><p>21 pages, 5 figures. See related work by D. Yang et al</p></details> |
 | **[Learning transitions in classical Ising models and deformed toric codes](http://arxiv.org/abs/2504.12385v1)** | 2025-04-16 | <details><summary>5 + 2...</summary><p>5 + 2 pages, 3 + 4 figures</p></details> |
@@ -169,8 +171,6 @@ labels: documentation
 | **[Observation of a non-Hermitian supersonic mode on a trapped-ion quantum computer](http://arxiv.org/abs/2406.15557v2)** | 2025-04-11 |  |
 | **[Fractional Chern Insulator and Quantum Anomalous Hall Crystal in Twisted MoTe$_2$](http://arxiv.org/abs/2504.07932v1)** | 2025-04-10 | <details><summary>12+11...</summary><p>12+11 pages, 6+10 figures</p></details> |
 | **[Exploring Tensor Network Algorithms as a Quantum-Inspired Method for Quantum Extreme Learning Machine](http://arxiv.org/abs/2503.05535v2)** | 2025-04-10 |  |
-| **[Parton Distribution Functions in the Schwinger model from Tensor Network States](http://arxiv.org/abs/2504.07508v1)** | 2025-04-10 | 14 pages, 9 figures |
-| **[An Efficient Classical Algorithm for Simulating Short Time 2D Quantum Dynamics](http://arxiv.org/abs/2409.04161v3)** | 2025-04-10 | <details><summary>Suppl...</summary><p>Supplement some proof details in the revised manuscript</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
