@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - May 18, 2025
+title: Latest 20 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,19 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Born-limit scattering and pair-breaking crossover in d-wave superconductivity of (TMTSF)2ClO4](http://arxiv.org/abs/2505.11333v1)** | 2025-05-16 | 9 pages, 5 figures |
+| **[Unconventional superconductivity of an altermagnetic metal: Polarized BCS and inhomogeneous Fulde-Ferrell-Larkin-Ovchinnikov states](http://arxiv.org/abs/2505.10196v2)** | 2025-05-16 | 10 pages, 8 figures |
+| **[CMOS-Compatible, Wafer-Scale Processed Superconducting Qubits Exceeding Energy Relaxation Times of 200us](http://arxiv.org/abs/2505.08424v2)** | 2025-05-16 | <details><summary>T. Ma...</summary><p>T. Mayer and J. Weber contributed equally to this work and are listed in alphabetical order. 6 pages, 2 figures</p></details> |
+| **[Low-energy perspective of interacting electrons in the normal state of superconducting bilayer nickelate](http://arxiv.org/abs/2503.12412v2)** | 2025-05-16 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, added supplementary with tight-binding Hamiltonian</p></details> |
+| **[Pressure induced evolution of anisotropic superconductivity and Fermi surface nesting in a ternary boride](http://arxiv.org/abs/2505.10905v1)** | 2025-05-16 | 19 pages, 14 figures |
+| **[Digital quantum simulation of squeezed states via enhanced bosonic encoding in a superconducting quantum processor](http://arxiv.org/abs/2505.10895v1)** | 2025-05-16 |  |
+| **[Information dynamics of our brains in dynamically driven disordered superconducting loop networks](http://arxiv.org/abs/2310.19279v7)** | 2025-05-15 | 6 figures, 26 pages |
 | **[Enhancing superconductivity via engineered polaronic environment](http://arxiv.org/abs/2408.03288v3)** | 2025-05-15 |  |
 | **[Light-Matter Interaction in dispersive Superconducting Circuit QED](http://arxiv.org/abs/2505.09322v2)** | 2025-05-15 | <details><summary>typos...</summary><p>typos corrected; no change in results</p></details> |
 | **[Magnetic correlations and superconducting pairing near higher-order Van Hove singularities](http://arxiv.org/abs/2505.10358v1)** | 2025-05-15 | 6 pages, 7 figures |
 | **[Spin-orbit physics stemming from mixed parity superconductivity: A relationship between mixed parity superconductivity and magnetism with spin-orbit coupling](http://arxiv.org/abs/2505.10336v1)** | 2025-05-15 | 6 pages |
 | **[Floquet engineering triplet superconductivity in superconductors with spin-orbit coupling or altermagnetism](http://arxiv.org/abs/2505.10332v1)** | 2025-05-15 | 11 pages, 2 figures |
 | **[Renormalization-group approach to the Kohn-Luttinger superconductivity: Amplification of the pairing gap from $\ell^4$ to $\ell$](http://arxiv.org/abs/2502.01169v2)** | 2025-05-15 | <details><summary>18 pa...</summary><p>18 pages, 4 figures; v2: published version. minor elaboration</p></details> |
-| **[Unconventional superconductivity of an altermagnetic metal: Polarized BCS and inhomogeneous Fulde-Ferrell-Larkin-Ovchinnikov states](http://arxiv.org/abs/2505.10196v1)** | 2025-05-15 | 10 pages, 8 figures |
 | **[Compact superconducting vacuum-gap capacitors with low microwave loss and high mechanical coherence for scalable quantum circuits](http://arxiv.org/abs/2501.03211v2)** | 2025-05-15 |  |
 | **[The possible frustrated superconductivity in the kagome superconductors](http://arxiv.org/abs/2504.18336v2)** | 2025-05-15 | 10 pages, 5 figures |
 | **[Evidence of surface $p$-wave superconductivity and higher-order topology in MoTe$_2$](http://arxiv.org/abs/2406.07260v2)** | 2025-05-14 |  |
@@ -21,12 +27,6 @@ labels: documentation
 | **[Praseodymium doping effect on the superconducting properties of FeSe$_{0.5}$Te$_{0.5}$ bulks under ambient and high-pressure growth conditions](http://arxiv.org/abs/2410.06159v2)** | 2025-05-14 | <details><summary>50 pa...</summary><p>50 pages, 1 table, 15 figures, Author's list updated</p></details> |
 | **[Field-induced electronic correlations and superconductivity in UTe$_2$ beyond 40~T](http://arxiv.org/abs/2505.09351v1)** | 2025-05-14 | <details><summary>6 pag...</summary><p>6 pages, 4 Figures + Supplemental Material with 18 pages, 16 Figures</p></details> |
 | **[Measuring superconducting arcs by ARPES](http://arxiv.org/abs/2505.09347v1)** | 2025-05-14 |  |
-| **[Optimizing photon-number resolution with superconducting nanowire multi-photon detectors](http://arxiv.org/abs/2505.09271v1)** | 2025-05-14 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, SPIE Proceedings Paper</p></details> |
-| **[Functional approach to superfluid stiffness: Role of quantum geometry in unconventional superconductivity](http://arxiv.org/abs/2505.09249v1)** | 2025-05-14 |  |
-| **[Disentanglement-induced superconductivity](http://arxiv.org/abs/2505.09207v1)** | 2025-05-14 |  |
-| **[High-temperature superconductivity in Li$_2$AuH$_6$ mediated by strong electron-phonon coupling under ambient pressure](http://arxiv.org/abs/2501.12222v2)** | 2025-05-14 | 6 pages; 4 figures |
-| **[Bending-strain effects in conventional superconductors and superconducting junctions](http://arxiv.org/abs/2412.07529v2)** | 2025-05-13 | 13 pages, 8 figures |
-| **[Interface-Bound States and Majorana Zero Modes in Lateral Heterostructures of Bi$_2$Se$_3$ and Sb$_2$Te$_3$ with Proximity-Induced Superconductivity](http://arxiv.org/abs/2505.06644v2)** | 2025-05-13 | 30 pages, 4 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -151,7 +151,9 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Dynamics of one-dimensional spin models via complex-time evolution of tensor networks](http://arxiv.org/abs/2503.19269v3)** | 2025-05-15 |  |
+| **[Learning transitions in classical Ising models and deformed toric codes](http://arxiv.org/abs/2504.12385v2)** | 2025-05-16 | <details><summary>all-t...</summary><p>all-to-all model and 2-replica model added</p></details> |
+| **[Dynamics of one-dimensional spin models via complex-time evolution of tensor networks](http://arxiv.org/abs/2503.19269v4)** | 2025-05-16 |  |
+| **[Distributed Realization of Color Codes for Quantum Error Correction](http://arxiv.org/abs/2505.10693v1)** | 2025-05-15 |  |
 | **[Overcoming the entanglement barrier with sampled tensor networks](http://arxiv.org/abs/2505.09714v1)** | 2025-05-14 | <details><summary>11 pa...</summary><p>11 pages, 9 figures. comments welcome</p></details> |
 | **[Unveiling Connections between Tensor Network and Stabilizer Formalism by Cutting in Time](http://arxiv.org/abs/2505.09512v1)** | 2025-05-14 | <details><summary>7+11 ...</summary><p>7+11 pages; 3+1 figures</p></details> |
 | **[Quantum complexity in gravity, quantum field theory, and quantum information science](http://arxiv.org/abs/2503.10753v2)** | 2025-05-14 | <details><summary>119 p...</summary><p>119 pages, including 14 figures. v1 of a review commissioned by Physics Reports. Suggestions and other comments are welcome. v2: references added, various sections extended. This version will be submitted to Physics Reports</p></details> |
@@ -169,12 +171,11 @@ labels: documentation
 | **[Tensor networks for quantum computing](http://arxiv.org/abs/2503.08626v3)** | 2025-05-11 |  |
 | **[2D Quon Language: Unifying Framework for Cliffords, Matchgates, and Beyond](http://arxiv.org/abs/2505.06336v1)** | 2025-05-09 | 40 pages, 9 figures |
 | **[Distributed Tensor Network Library for Quantum Computing Emulation](http://arxiv.org/abs/2505.06119v1)** | 2025-05-09 |  |
-| **[TTNOpt: Tree tensor network package for high-rank tensor compression](http://arxiv.org/abs/2505.05908v1)** | 2025-05-09 | 18pages, 11 figures |
-| **[Towards secondary structure prediction of longer mRNA sequences using a quantum-centric optimization scheme](http://arxiv.org/abs/2505.05782v1)** | 2025-05-09 | 12 pages, 5 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bipartite reweight-annealing algorithm of quantum Monte Carlo to extract large-scale data of entanglement entropy and its derivative](http://arxiv.org/abs/2406.05324v6)** | 2025-05-16 |  |
 | **[Magnetic correlations and superconducting pairing near higher-order Van Hove singularities](http://arxiv.org/abs/2505.10358v1)** | 2025-05-15 | 6 pages, 7 figures |
 | **[Yukawa-Lorentz Symmetry of Tilted Non-Hermitian Dirac Semimetals at Quantum Criticality](http://arxiv.org/abs/2411.18621v2)** | 2025-05-14 | <details><summary>20 pa...</summary><p>20 pages, 9 figures, published version</p></details> |
 | **[High-efficiency quantum Monte Carlo algorithm for extracting entanglement entropy in interacting fermion systems](http://arxiv.org/abs/2409.20009v3)** | 2025-05-14 | <details><summary>Main ...</summary><p>Main text: 7 pages, 4 figures. Supplementary Material: 7 pages, 7 figures</p></details> |
@@ -194,5 +195,4 @@ labels: documentation
 | **[Tensor cross interpolation approach for quantum impurity problems based on the weak-coupling expansion](http://arxiv.org/abs/2501.12643v2)** | 2025-05-01 | 16 pages, 6 figures |
 | **[Driven Critical Dynamics in Strongly Interacting Dirac Systems](http://arxiv.org/abs/2403.19258v3)** | 2025-04-29 | <details><summary>9+5 p...</summary><p>9+5 pages, 5+3 figures</p></details> |
 | **[Enhancing quantum computations with the synergy of auxiliary field quantum Monte Carlo and computational basis tomography](http://arxiv.org/abs/2502.20066v2)** | 2025-04-28 |  |
-| **[Scale-invariant phase transition of disordered bosons in one dimension](http://arxiv.org/abs/2310.17682v2)** | 2025-04-28 |  |
 
