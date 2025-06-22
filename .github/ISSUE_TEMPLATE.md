@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - June 19, 2025
+title: Latest 20 Papers - June 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -178,6 +178,7 @@ labels: documentation
 | **[Kinetic magnetism in the crossover between the square and triangular lattice Fermi-Hubbard models](http://arxiv.org/abs/2506.15669v1)** | 2025-06-18 | 16 pages, 9 figures |
 | **[The interplay of phase fluctuations and nodal quasiparticles: ubiquitous Fermi arcs in two-dimensional d-wave superconductors](http://arxiv.org/abs/2310.05376v2)** | 2025-06-18 | <details><summary>8 pag...</summary><p>8 pages, 5 figures for the main text; 9 pages, 5 figures for the supplementary material</p></details> |
 | **[Zigzag antiferromagnets in the SU(3) Hubbard model on the square lattice](http://arxiv.org/abs/2506.14703v1)** | 2025-06-17 | 10 pages, 7 figures |
+| **[Engineering many-body quantum Hamiltonians with non-ergodic properties using quantum Monte Carlo](http://arxiv.org/abs/2106.08587v4)** | 2025-06-16 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, including the appendix</p></details> |
 | **[Tracking the variation of entanglement Rényi negativity: a quantum Monte Carlo study](http://arxiv.org/abs/2409.10273v3)** | 2025-06-15 | 12 pages, 5 figures |
 | **[Trion formation and ordering in the attractive SU(3) Fermi-Hubbard model](http://arxiv.org/abs/2506.12300v1)** | 2025-06-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 5 pages of supplemental material (with 3 supplemental figures)</p></details> |
 | **[A Time-Symmetric Quantum Algorithm for Direct Eigenstate Determination](http://arxiv.org/abs/2506.10283v1)** | 2025-06-12 |  |
@@ -194,5 +195,4 @@ labels: documentation
 | **[Delay Update in determinant quantum Monte Carlo](http://arxiv.org/abs/2308.12005v4)** | 2025-06-05 | 12 pages, 7 figures |
 | **[Multiparty Entanglement Microscopy of Quantum Ising models in 1d, 2d and 3d](http://arxiv.org/abs/2412.12533v2)** | 2025-06-04 | <details><summary>12+8 ...</summary><p>12+8 pages, 7+7 figures</p></details> |
 | **[Dynamic structure factor of a spin-1/2 Heisenberg chain with long-range interactions](http://arxiv.org/abs/2412.15168v2)** | 2025-06-04 | 23 pages, 29 figures |
-| **[Kolmogorov-Arnold Wavefunctions](http://arxiv.org/abs/2506.02171v1)** | 2025-06-02 | 19 pages, 6 figures |
 
