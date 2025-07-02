@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 01, 2025
+title: Latest 20 Papers - July 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Local Limit Disorder Characteristics of Superconducting Radio Frequency Cavities](http://arxiv.org/abs/2409.04203v2)** | 2025-07-01 | <details><summary>21 pa...</summary><p>21 pages, 15 figures, 5 appendices</p></details> |
 | **[Spectroscopy of drive-induced unwanted state transitions in superconducting circuits](http://arxiv.org/abs/2506.24070v1)** | 2025-06-30 | 16 figures |
 | **[Superconducting gap and its Little-Parks like oscillations with high-order harmonics in lithium intercalated 1T-TiSe$_2$](http://arxiv.org/abs/2506.23871v1)** | 2025-06-30 | 25 pages,5 figures |
 | **[Superconducting Ring Resonators: Modelling, Simulation, and Experimental Characterisation](http://arxiv.org/abs/2506.23811v1)** | 2025-06-30 |  |
@@ -26,7 +27,6 @@ labels: documentation
 | **[Reflection-less filter for superconducting quantum circuits](http://arxiv.org/abs/2506.20645v1)** | 2025-06-25 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Superconductivity in doped planar Dirac insulators: A renormalization group study](http://arxiv.org/abs/2502.20394v2)** | 2025-06-25 | <details><summary>Publi...</summary><p>Published version in PRB (Regular Article): 23 Pages, 9 Figures, and 4 Tables</p></details> |
 | **[Superconducting bistability in floating Al islands of hybrid Al/InAs nanowires](http://arxiv.org/abs/2506.20408v1)** | 2025-06-25 |  |
-| **[Two-dimensional transition metal selenides family M2Se: A platform for superconductivity, band topology, and charge density waves](http://arxiv.org/abs/2506.20265v1)** | 2025-06-25 | 10 pages, 5 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,8 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Plastic tensor networks for interpretable generative modeling](http://arxiv.org/abs/2504.06722v2)** | 2025-07-01 | 18 pages, 17 figures |
+| **[Density matrix representation of hybrid tensor networks for noisy quantum devices](http://arxiv.org/abs/2309.15761v3)** | 2025-06-30 | <details><summary>Subst...</summary><p>Substantially updated version. 38 pages, 16 figures</p></details> |
 | **[Canonical partial ordering from min-cuts and quantum entanglement in random tensor networks](http://arxiv.org/abs/2506.23894v1)** | 2025-06-30 |  |
 | **[From quantum-enhanced to quantum-inspired Monte Carlo](http://arxiv.org/abs/2411.17821v2)** | 2025-06-30 | <details><summary>JC an...</summary><p>JC and PI contributed equally</p></details> |
 | **[Seeding neural network quantum states with tensor network states](http://arxiv.org/abs/2506.23550v1)** | 2025-06-30 | 13 pages, 13 figures |
@@ -169,12 +171,11 @@ labels: documentation
 | **[Area laws and tensor networks for maximally mixed ground states](http://arxiv.org/abs/2310.19028v2)** | 2025-06-23 | 38 pages, version 2 |
 | **[Qumode Tensor Networks for False Vacuum Decay in Quantum Field Theory](http://arxiv.org/abs/2506.17388v1)** | 2025-06-20 | 21 pages, 13 figures |
 | **[Tensor network calculation of boundary and corner magnetization](http://arxiv.org/abs/2506.17194v1)** | 2025-06-20 |  |
-| **[A minimal tensor network beyond free fermions](http://arxiv.org/abs/2412.04216v2)** | 2025-06-20 | 17 pages, 6 figures |
-| **[QMetro++ -- Python optimization package for large scale quantum metrology with customized strategy structures](http://arxiv.org/abs/2506.16524v1)** | 2025-06-19 | <details><summary>Packa...</summary><p>Package repository can be accessed here https://github.com/pdulian/qmetro</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Incipient quantum spin Hall insulator under strong correlations](http://arxiv.org/abs/2409.07557v2)** | 2025-07-01 |  |
 | **[Supersolid Phases in Ultracold Gases of Microwave Shielded Polar Molecules](http://arxiv.org/abs/2506.23820v1)** | 2025-06-30 |  |
 | **[The JARVIS Infrastructure is All You Need for Materials Design](http://arxiv.org/abs/2503.04133v2)** | 2025-06-28 |  |
 | **[Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers](http://arxiv.org/abs/2506.22408v1)** | 2025-06-27 |  |
@@ -192,5 +193,6 @@ labels: documentation
 | **[The interplay of phase fluctuations and nodal quasiparticles: ubiquitous Fermi arcs in two-dimensional d-wave superconductors](http://arxiv.org/abs/2310.05376v2)** | 2025-06-18 | <details><summary>8 pag...</summary><p>8 pages, 5 figures for the main text; 9 pages, 5 figures for the supplementary material</p></details> |
 | **[Zigzag antiferromagnets in the SU(3) Hubbard model on the square lattice](http://arxiv.org/abs/2506.14703v1)** | 2025-06-17 | 10 pages, 7 figures |
 | **[Engineering many-body quantum Hamiltonians with non-ergodic properties using quantum Monte Carlo](http://arxiv.org/abs/2106.08587v4)** | 2025-06-16 | <details><summary>14 pa...</summary><p>14 pages, 9 figures, including the appendix</p></details> |
-| **[Machine learning potentials from transfer learning of periodic correlated electronic structure methods: Application to liquid water with AFQMC, CCSD, and CCSD(T)](http://arxiv.org/abs/2211.16619v1)** | 2022-11-29 |  |
+| **[Tracking the variation of entanglement Rényi negativity: a quantum Monte Carlo study](http://arxiv.org/abs/2409.10273v3)** | 2025-06-15 | 12 pages, 5 figures |
+| **[Trion formation and ordering in the attractive SU(3) Fermi-Hubbard model](http://arxiv.org/abs/2506.12300v1)** | 2025-06-14 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 5 pages of supplemental material (with 3 supplemental figures)</p></details> |
 
