@@ -27,7 +27,7 @@ keywords = {
     "Hubbard": ["Hubbard",],
     "t-J": ["t-J", "$t$-$J$", "t-t'-J", "$t$-$t'$-$J$"],
     "LaNiO": ["LaNiO", "La3Ni2O7", "La4Ni3O10", "La_3Ni_2O_7", "La_4Ni_3O_\{10\}", "Ni$_2$O", "Ni$_3$O"],
-    "LC": ["loop current",]
+    "LC": ["loop current", "loop-current"]
     "Tensor Network": ["tensor network", "tensor-network", "dmrg"],
     "QMC": ["quantum monte carlo", "AFQMC", "CPQMC", "CPMC", "DQMC"],
 }
