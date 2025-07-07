@@ -20,14 +20,15 @@ with open("DailyPapers.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keyword_groups = ["Superconductivity", "Hubbard", "t-J", "LaNiO", "LC", "Tensor Network", "QMC"]
+keyword_groups = ["Superconductivity", "Hubbard", "t-J", "LaNiO", "UTe2", "LC", "Tensor Network", "QMC"]
 keywords = {
     "Superconductivity": ["superconduct",],
     # "Superconductivity": ["superconductivity", "superconductor", "superconduction", "superconducting"],
     "Hubbard": ["Hubbard",],
     "t-J": ["t-J", "$t$-$J$", "t-t'-J", "$t$-$t'$-$J$"],
     "LaNiO": ["LaNiO", "La3Ni2O7", "La4Ni3O10", "La_3Ni_2O_7", "La_4Ni_3O_\{10\}", "Ni$_2$O", "Ni$_3$O"],
-    "LC": ["loop current", "loop-current"]
+    "UTe2": ["UTe2", "UTe$_2$", "UTe_2"],
+    "LC": ["loop current", "loop-current"],
     "Tensor Network": ["tensor network", "tensor-network", "dmrg"],
     "QMC": ["quantum monte carlo", "AFQMC", "CPQMC", "CPMC", "DQMC"],
 }
