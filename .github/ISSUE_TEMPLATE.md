@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 24, 2025
+title: Latest 20 Papers - July 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Superconductivity from dual-surface carriers in rhombohedral graphene](http://arxiv.org/abs/2507.18598v1)** | 2025-07-24 |  |
+| **[Scalable Parameter Design for Superconducting Quantum Circuits with Graph Neural Networks](http://arxiv.org/abs/2411.16354v3)** | 2025-07-24 |  |
 | **[A Parameter-Efficient Quantum Anomaly Detection Method on a Superconducting Quantum Processor](http://arxiv.org/abs/2412.16867v4)** | 2025-07-22 | 23 pages, 10 figures |
 | **[On-chip stencil lithography for superconducting qubits](http://arxiv.org/abs/2507.17005v1)** | 2025-07-22 | 14 pages, 13 figures |
 | **[Superconductivity in kagome metals due to soft loop-current fluctuations](http://arxiv.org/abs/2507.16892v1)** | 2025-07-22 | <details><summary>13 + ...</summary><p>13 + 4 pages; 6+3 figures</p></details> |
@@ -25,12 +27,11 @@ labels: documentation
 | **[Enhancement of superconductivity outside Abrikosov vortex core in a tightly bound Cooper pair superconductor](http://arxiv.org/abs/2507.09849v2)** | 2025-07-19 | 10 pages, 2 figures |
 | **[Superconducting order parameter manifested in quasicrystals](http://arxiv.org/abs/2507.14671v1)** | 2025-07-19 | <details><summary>19 pa...</summary><p>19 pages, 16 figures; Comments are welcome</p></details> |
 | **[Analysis of a 3D Integrated Superconducting Quantum Chip Structure](http://arxiv.org/abs/2505.02263v2)** | 2025-07-19 | 10 |
-| **[Reviving the Search for Indium-Based Superconductors: First-Principles Prediction of Semimetallic Superconductivity in Cubic Nd$_3$In](http://arxiv.org/abs/2507.11123v3)** | 2025-07-19 |  |
-| **[Spectator Leakage Elimination in CZ Gates via Tunable Coupler Interference on a Superconducting Quantum Processor](http://arxiv.org/abs/2507.14531v1)** | 2025-07-19 | <details><summary>6 pag...</summary><p>6 pages, 4 figures in main text</p></details> |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Orbital-rotated Fermi-Hubbard model as a benchmarking problem for quantum chemistry with the exact solution](http://arxiv.org/abs/2402.11869v2)** | 2025-07-24 | 10 pages |
 | **[Quantum Monte Carlo simulation of light and superlight bipolarons in extended Hubbard-Holstein models on face- and body-centered-cubic lattices](http://arxiv.org/abs/2507.17398v1)** | 2025-07-23 | 12 pages, 8 figures |
 | **[Particle pairing causes subdiffusion of heavy particles in the imbalanced Hubbard model](http://arxiv.org/abs/2503.15409v2)** | 2025-07-22 | 5 pages, 3 figures |
 | **[Non-Local Correlation Effects in DC and Optical Conductivity of the Hubbard Model](http://arxiv.org/abs/2507.16673v1)** | 2025-07-22 | 11 pages, 4 figures |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Solving the Hubbard model with Neural Quantum States](http://arxiv.org/abs/2507.02644v2)** | 2025-07-10 |  |
 | **[Combine effect of site dilution and long-range interaction on magnetic and transport properties in the half-filled Hubbard model](http://arxiv.org/abs/2506.24036v2)** | 2025-07-10 | 16 Pages, 11 Figs |
 | **[Bose-Hubbard simulator with long-range hopping](http://arxiv.org/abs/2410.17162v2)** | 2025-07-10 | 11 pages, 10 figures |
-| **[Topological electronic structures of non-collinear magnetic phases in a multi-orbital Hubbard model with spin-orbit interactions](http://arxiv.org/abs/2507.07447v1)** | 2025-07-10 | <details><summary>11 pa...</summary><p>11 pages, 17 figures, submitted to Phys. Rev. B</p></details> |
 
 ## t-J
 | **Title** | **Date** | **Comment** |
@@ -136,21 +136,11 @@ labels: documentation
 | **[Fate of chiral order and impurity self-pinning in flat bands with local symmetry](http://arxiv.org/abs/2410.01780v3)** | 2025-06-10 | 14 pages, 10 figures |
 | **[Nonreciprocal superconducting critical currents with normal state field trainability in kagome superconductor CsV3Sb5](http://arxiv.org/abs/2506.04601v1)** | 2025-06-05 |  |
 | **[Loop current order on the kagome lattice](http://arxiv.org/abs/2506.01648v1)** | 2025-06-02 | 7 pages, 4 figures |
-| **[Josephson diodes induced by the loop current states](http://arxiv.org/abs/2409.09938v3)** | 2025-05-15 | <details><summary>9+3 p...</summary><p>9+3 pages, 10 figures, and 1 table</p></details> |
-| **[Charge-loop current order and Z3 nematicity mediated by bond-order fluctuations in kagome metal AV3Sb5 (A=Cs,Rb,K)](http://arxiv.org/abs/2207.08068v4)** | 2025-05-15 | 12 pages, 12 figures |
-| **[Spin density wave and van Hove singularity in the kagome metal CeTi3Bi4](http://arxiv.org/abs/2412.10286v2)** | 2025-05-12 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, SI not included</p></details> |
-| **[Inter-Layer Correlation of Loop Current Charge Density Wave on the Bilayer Kagomé Lattice](http://arxiv.org/abs/2409.08139v2)** | 2025-05-12 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, 2 tables</p></details> |
-| **[Probing Loop Currents and Collective Modes of Charge Density Waves in Kagome Materials with NV Centers](http://arxiv.org/abs/2504.14166v1)** | 2025-04-19 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, plus Supplementary Material</p></details> |
-| **[Toward the detection of spin-vortex-induced loop currents in a single bilayer Bi$_2$Sr$_2$CaCu$_2$O$_{8+δ}$ thin film and their possible use as qubits: Model calculations for three nano-island architecture](http://arxiv.org/abs/2503.23842v1)** | 2025-03-31 |  |
-| **[Quasiparticle Spectroscopy of Chiral Charge Order](http://arxiv.org/abs/2503.19032v1)** | 2025-03-24 |  |
-| **[Impact of tiny Fermi pockets with extremely high mobility on the Hall anomaly in the kagome metal CsV$_3$Sb$_5$](http://arxiv.org/abs/2503.15849v1)** | 2025-03-20 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, Supplemental Material</p></details> |
-| **[Origin of switchable quasiparticle-interference chirality in loop-current phase of kagome metals measured by scanning-tunneling-microscopy](http://arxiv.org/abs/2503.07015v1)** | 2025-03-10 | 11 pages, 9 figures |
-| **[Symmetry-Broken Kondo Screening and Zero-Energy Mode in the Kagome Superconductor CsV3Sb5](http://arxiv.org/abs/2502.20733v1)** | 2025-02-28 | 19 pages, 4 figures |
-| **[Anomalous spin-optical helical effect in Ti-based kagome metal](http://arxiv.org/abs/2502.19589v1)** | 2025-02-26 |  |
 
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resource-Efficient Simulations of Particle Scattering on a Digital Quantum Computer](http://arxiv.org/abs/2507.17832v1)** | 2025-07-23 |  |
 | **[Entanglement corner dependence in two-dimensional systems: A tensor network perspective](http://arxiv.org/abs/2502.15467v3)** | 2025-07-23 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, comments are welcome</p></details> |
 | **[Advancing Quantum State Preparation using LimTDD](http://arxiv.org/abs/2507.17170v1)** | 2025-07-23 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2507.14496</p></details> |
 | **[Thermal Hall transport in Kitaev spin liquids](http://arxiv.org/abs/2507.16558v1)** | 2025-07-22 | 25 pages, 24 figures |
@@ -170,11 +160,12 @@ labels: documentation
 | **[QAS-QTNs: Curriculum Reinforcement Learning-Driven Quantum Architecture Search for Quantum Tensor Networks](http://arxiv.org/abs/2507.12013v1)** | 2025-07-16 | <details><summary>9 pag...</summary><p>9 pages, 3 figures. Accepted at QCE 2025</p></details> |
 | **[Fractal Path Strategies for Efficient 2D DMRG Simulations](http://arxiv.org/abs/2507.11820v1)** | 2025-07-16 | 15 pages, 11 figures |
 | **[Polynomial-time Solver of Tridiagonal QUBO, QUDO and Tensor QUDO problems with Tensor Networks](http://arxiv.org/abs/2309.10509v4)** | 2025-07-15 | <details><summary>12 pa...</summary><p>12 pages, 9 figures, extreme improvements, new algorithms, new comparisons, better computational complexity, code provided</p></details> |
-| **[Simulating and Sampling from Quantum Circuits with 2D Tensor Networks](http://arxiv.org/abs/2507.11424v1)** | 2025-07-15 | 13 pages, 9 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Molecular Properties in Quantum-Classical Auxiliary-Field Quantum Monte Carlo: Correlated Sampling with Application to Accurate Nuclear Forces](http://arxiv.org/abs/2507.17992v1)** | 2025-07-23 |  |
+| **[Correlation effects in one-dimensional metallic quantum wires under various confinements](http://arxiv.org/abs/2507.17925v1)** | 2025-07-23 |  |
 | **[Graphene-hBN interlayer interactions from quantum Monte Carlo](http://arxiv.org/abs/2503.13672v2)** | 2025-07-23 |  |
 | **[Quantum Monte Carlo simulation of light and superlight bipolarons in extended Hubbard-Holstein models on face- and body-centered-cubic lattices](http://arxiv.org/abs/2507.17398v1)** | 2025-07-23 | 12 pages, 8 figures |
 | **[Trimer superfluidity of antiparallel dipolar excitons in a bilayer heterostructure](http://arxiv.org/abs/2507.15938v1)** | 2025-07-21 | <details><summary>5 pag...</summary><p>5 pages, 4 figures. Supplemental material: 7 pages, 8 figures, 2 movies</p></details> |
@@ -193,6 +184,4 @@ labels: documentation
 | **[Optimizing the Critical Temperature and Superfluid Density of a Metal-Superconductor Bilayer](http://arxiv.org/abs/2501.15428v3)** | 2025-07-14 |  |
 | **[Mixed-configuration approximation for multi-orbital systems out of equilibrium](http://arxiv.org/abs/2507.10717v1)** | 2025-07-14 | <details><summary>12 pa...</summary><p>12 pages, 7 figures. Comments are welcome</p></details> |
 | **[Magnetic phases of the periodic Anderson model in two dimensions](http://arxiv.org/abs/2501.07541v2)** | 2025-07-14 | 9 pages, 6 figures |
-| **[Spin-triplet pairing instability in a two-dimensional repulsive Hubbard model](http://arxiv.org/abs/2507.09295v1)** | 2025-07-12 |  |
-| **[Enhanced superconductivity via layer differentiation in trilayer Hubbard model](http://arxiv.org/abs/2507.06614v2)** | 2025-07-12 | <details><summary>8 pag...</summary><p>8 pages, 7 figures and appendix</p></details> |
 
