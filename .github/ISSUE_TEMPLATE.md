@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - August 28, 2025
+title: Latest 20 Papers - August 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Distinct Spatiotemporal Dynamics of Thermoelectric Transport Across Superconducting Transition](http://arxiv.org/abs/2508.20792v1)** | 2025-08-28 |  |
+| **[Josephson Diode Effect from Nonequilibrium Current in a Superconducting Interferometer](http://arxiv.org/abs/2505.00085v2)** | 2025-08-28 | 8 pages, 2 figures |
+| **[Interfacing Rydberg atoms with a chip-based superconducting microwave resonator using an ac Stark shifted single-photon transition](http://arxiv.org/abs/2508.20292v1)** | 2025-08-27 | 10 pages, 8 figures |
 | **[Competing color superconductivity and color Kondo effect in quark matter](http://arxiv.org/abs/2507.11617v2)** | 2025-08-27 | <details><summary>13(+1...</summary><p>13(+19 pages appendix), 4 figures</p></details> |
 | **[On-demand analog space-time in superconducting networks: grey holes, dynamical instability and exceptional points](http://arxiv.org/abs/2406.01261v4)** | 2025-08-27 | <details><summary>50 pa...</summary><p>50 pages, 9 figures, Submission to SciPost</p></details> |
 | **[Search for thermodynamically stable ambient-pressure superconducting hydrides in GNoME database](http://arxiv.org/abs/2508.19781v1)** | 2025-08-27 | <details><summary>10 pa...</summary><p>10 pages, 5 figures in main text</p></details> |
@@ -24,17 +27,17 @@ labels: documentation
 | **[Anomalous narrow-band correlation in a natural superconducting heterostructure](http://arxiv.org/abs/2508.18099v1)** | 2025-08-25 | under review |
 | **[Automated, physics-guided, multi-parameter design optimization for superconducting quantum devices](http://arxiv.org/abs/2508.18027v1)** | 2025-08-25 | 11 pages, 7 figures |
 | **[Optimization of superconducting properties of F-doped SmFeAsO by cubic anvil high-pressure technique](http://arxiv.org/abs/2508.17929v1)** | 2025-08-25 | 44 pages, 15 figures |
-| **[Unveiling the landscape of Mottness and its proximity to superconductivity in 4Hb-TaS$_2$](http://arxiv.org/abs/2508.17861v1)** | 2025-08-25 | 15 pages, 4 figures |
-| **[Mechanisms of superconductivity and inhomogeneous states in metallic hydrogen and electron systems with attraction](http://arxiv.org/abs/2508.17487v1)** | 2025-08-24 | 14 pages, 6 figures |
-| **[Ambient-Pressure Superconductivity from Boron Icosahedral Superatoms](http://arxiv.org/abs/2508.17422v1)** | 2025-08-24 | 9 pages, 7 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Evolution of quasiparticle edge states with Hubbard interaction in Rice-Mele chain](http://arxiv.org/abs/2508.21008v1)** | 2025-08-28 | <details><summary>7 pag...</summary><p>7 pages and 10 figures</p></details> |
 | **[Self-consistent dynamical Hubbard functional for correlated solids](http://arxiv.org/abs/2508.18194v1)** | 2025-08-25 |  |
 | **[Numerical validation of an ultracold Hubbard quantum simluator](http://arxiv.org/abs/2508.18041v1)** | 2025-08-25 | 6 pages, 4 figures |
+| **[Experimental observation of multimode quantum phase transitions in a superconducting Bose-Hubbard simulator](http://arxiv.org/abs/2508.20116v1)** | 2025-08-21 | 14 pages, 9 figures |
 | **[Engineering Hubbard models with gated two-dimensional moiré systems](http://arxiv.org/abs/2508.13314v1)** | 2025-08-18 | 11 pages, 12 figures |
 | **[Hubbard energy dependence of electronic structures in rare-earth monoxides](http://arxiv.org/abs/2508.12635v1)** | 2025-08-18 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, accepted for publication in Jpn. J. Appl. Phys (https://orcid.org/0000-0002-5706-8909)</p></details> |
+| **[Qubit parametrization of the variational discrete action theory for the multiorbital Hubbard model](http://arxiv.org/abs/2508.20111v1)** | 2025-08-18 |  |
 | **[A neutral-atom Hubbard quantum simulator in the cryogenic regime](http://arxiv.org/abs/2502.00095v2)** | 2025-08-17 | <details><summary>7+20 ...</summary><p>7+20 pages, 5+9 figures, comments welcome</p></details> |
 | **[Quantum Path-integral Method for Fictitious Particle Hubbard Model](http://arxiv.org/abs/2508.01760v2)** | 2025-08-17 |  |
 | **[Excitation Gaps of Ground and Excited State Energy of the Fermi-Hubbard Model Using Variational Quantum Eigensolver](http://arxiv.org/abs/2508.12307v1)** | 2025-08-17 |  |
@@ -48,9 +51,6 @@ labels: documentation
 | **[Robust d-wave superconductivity from the Su-Schrieffer-Heeger-Hubbard model: possible route to high-temperature superconductivity](http://arxiv.org/abs/2211.09143v2)** | 2025-08-09 | <details><summary>4.5 p...</summary><p>4.5 pages + Supplemental Materials, 4 figures, published version in Science Bulletin</p></details> |
 | **[Magnetization-induced reordering of ground states phase diagram in a two-component Bose-Hubbard model](http://arxiv.org/abs/2508.06442v1)** | 2025-08-08 | 9 pages, 4 figures |
 | **[Single-Particle Dispersion and Density of States of the Half-Filled 2D Hubbard Model](http://arxiv.org/abs/2504.02614v3)** | 2025-08-07 | 9 pages, 7 figures |
-| **[Absence of nontrivial local conserved quantities in the Hubbard model on the two or higher dimensional hypercubic lattice](http://arxiv.org/abs/2507.20106v2)** | 2025-08-07 | <details><summary>24 pa...</summary><p>24 pages, 8 figures. Minor corrections in version 2</p></details> |
-| **[Intertwined Electron pairing in the Bilayer Two-orbital Kanamori-Hubbard Model: a Unified Picture of Two Superconductivities in $\mathrm{La_3Ni_2O_7}$](http://arxiv.org/abs/2508.04554v1)** | 2025-08-06 | 6 pages, 5 figures |
-| **[Stochastic systems with Bose-Hubbard interactions: Effects of bias on particles on a 1D lattice and random comb](http://arxiv.org/abs/2508.03344v1)** | 2025-08-05 | 14 pages, 15 figures |
 
 ## t-J
 | **Title** | **Date** | **Comment** |
