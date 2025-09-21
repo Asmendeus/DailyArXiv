@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 18, 2025
+title: Latest 20 Papers - September 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Superconductivity in W3Re2C with chiral structure](http://arxiv.org/abs/2509.15078v1)** | 2025-09-18 | <details><summary>7 pag...</summary><p>7 pages and 5 figures</p></details> |
+| **[Superconducting bistability in floating Al islands of hybrid Al/InAs nanowires](http://arxiv.org/abs/2506.20408v2)** | 2025-09-18 | revised |
+| **[Oxygen-driven altermagnetic symmetry inducing d-wave superconductivity in the cuprates and nickelates](http://arxiv.org/abs/2509.06814v2)** | 2025-09-18 |  |
+| **[The superconducting grid-states qubit](http://arxiv.org/abs/2509.14656v1)** | 2025-09-18 | 30 pages, 22 figures |
+| **[Non-Abelian Gauge Theory of Spin Triplet Superconductivity and Spin Triplet Magnon Spintronics](http://arxiv.org/abs/2509.12988v2)** | 2025-09-18 |  |
 | **[Quantum Utility in Simulating the Real-time Dynamics of the Fermi-Hubbard Model using Superconducting Quantum Computers](http://arxiv.org/abs/2509.14196v1)** | 2025-09-17 | 18 pages, 10 figures |
 | **[Characterization of superconducting germanide and germanosilicide films of Pd, Pt, Rh and Ir formed by solid-phase epitaxy](http://arxiv.org/abs/2509.14173v1)** | 2025-09-17 | 25 pages, 9 figures |
 | **[AC Josephson Signatures of the Superconducting Higgs Mode](http://arxiv.org/abs/2402.13074v6)** | 2025-09-17 |  |
@@ -15,7 +20,6 @@ labels: documentation
 | **[Nematic Enhancement of Superconductivity in Multilayer Graphene via Quantum Geometry](http://arxiv.org/abs/2509.13407v1)** | 2025-09-16 | 6 pages, 4 figures |
 | **[Mixed Triplet-Singlet Order Parameter in Decoupled Superconducting 1H Monolayers of Transition-Metal Dichalcogenides](http://arxiv.org/abs/2509.13303v1)** | 2025-09-16 |  |
 | **[Low-energy spin waves as potential driving force for superconductivity in electron-doped cuprates](http://arxiv.org/abs/2509.13180v1)** | 2025-09-16 | 9 pages, 7 figures |
-| **[Non-Abelian Gauge Theory of Spin Triplet Superconductivity and Spin Triplet Magnon Spintronics](http://arxiv.org/abs/2509.12988v1)** | 2025-09-16 |  |
 | **[First Practical Experiences Integrating Quantum Computers with HPC Resources: A Case Study With a 20-qubit Superconducting Quantum Computer](http://arxiv.org/abs/2509.12949v1)** | 2025-09-16 | <details><summary>submi...</summary><p>submitted and accepted to SFWM workshop at SC25, St Louis, USA</p></details> |
 | **[Field-Free Superconducting Diode Enabled by Geometric Asymmetry and Perpendicular Magnetization](http://arxiv.org/abs/2506.17651v3)** | 2025-09-16 |  |
 | **[Dynamically Optimized Super-Robust Nonadiabatic Holonomic Quantum Gates Based on Superconducting Circuits](http://arxiv.org/abs/2409.15665v2)** | 2025-09-16 | 19 pages, 9 figures |
@@ -23,10 +27,6 @@ labels: documentation
 | **[Revealing superconducting gap in La$_3$Ni$_2$O$_7$-$δ$ by Andreev reflection spectroscopy under high pressure](http://arxiv.org/abs/2509.12601v1)** | 2025-09-16 | 27 pages, 15 pages |
 | **[Leveraging Machine Learning Force Fields (MLFFs) to Simulate Large Atomistic Systems for Fidelity Improvement of Superconducting Qubits and Sensors](http://arxiv.org/abs/2509.12509v1)** | 2025-09-15 | <details><summary>Publi...</summary><p>Published at GoMACTech 2025</p></details> |
 | **[Putting a new spin on the incommensurate Kekulé spiral: from spin-valley locking and collective modes to fermiology and implications for superconductivity](http://arxiv.org/abs/2509.12320v1)** | 2025-09-15 | 22 + 9 pages |
-| **[Interfacial spin-orbit coupling in superconducting hybrid systems](http://arxiv.org/abs/2502.10911v2)** | 2025-09-15 | 21 pages, 3 figures |
-| **[Axionic $p + is$ superconductivity from two pairing channels](http://arxiv.org/abs/2506.05550v3)** | 2025-09-15 | 8 pages, 2 figures |
-| **[Orbital-selective spin-triplet superconductivity in infinite-layer LaNiO$_2$](http://arxiv.org/abs/2403.19617v3)** | 2025-09-15 |  |
-| **[High-performance multiplexed readout of superconducting qubits with a tunable broadband Purcell filter](http://arxiv.org/abs/2509.11822v1)** | 2025-09-15 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 5 tables</p></details> |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -151,13 +151,14 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Quantum Photonic Integrated Circuits using Differentiable Tensor Networks](http://arxiv.org/abs/2509.11861v2)** | 2025-09-18 |  |
+| **[Anomalous matrix product operator symmetries and 1D mixed-state phases](http://arxiv.org/abs/2504.16985v3)** | 2025-09-17 |  |
 | **[Simple Hamiltonians for Matrix Product State models](http://arxiv.org/abs/2503.10767v2)** | 2025-09-16 | v2: Added appendices |
 | **[From higher-order moments to time correlation functions in strongly correlated systems: A DMRG-based memory kernel coupling theory](http://arxiv.org/abs/2509.13140v1)** | 2025-09-16 | 10 pages, 6 figures |
 | **[RandomMeas.jl: A Julia Package for Randomized Measurements in Quantum Devices](http://arxiv.org/abs/2509.12749v1)** | 2025-09-16 | <details><summary>15 pa...</summary><p>15 pages, code available at https://github.com/bvermersch/RandomMeas.jl</p></details> |
 | **[A graphical diagnostic of topological order using ZX calculus](http://arxiv.org/abs/2509.12355v1)** | 2025-09-15 | <details><summary>5 pag...</summary><p>5 pages, 26 pages of supplemental material</p></details> |
 | **[Non-Markovian dynamics of generation of bound states in the continuum via single-photon scattering](http://arxiv.org/abs/2501.04691v2)** | 2025-09-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. For associated video, see http://drive.google.com/file/d/1DJSWkWYcf8sV5oVKmoLxkNXZ-26SuPhJ/view</p></details> |
 | **[Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models](http://arxiv.org/abs/2509.11980v1)** | 2025-09-15 | <details><summary>6 pag...</summary><p>6 pages with 10 figures</p></details> |
-| **[Optimizing Quantum Photonic Integrated Circuits using Differentiable Tensor Networks](http://arxiv.org/abs/2509.11861v1)** | 2025-09-15 |  |
 | **[Anticoncentration in Clifford Circuits and Beyond: From Random Tensor Networks to Pseudo-Magic States](http://arxiv.org/abs/2502.20455v2)** | 2025-09-15 | 14 pages |
 | **[Simulating and Sampling from Quantum Circuits with 2D Tensor Networks](http://arxiv.org/abs/2507.11424v2)** | 2025-09-14 | 13 pages, 9 figures |
 | **[Forestalled Phase Separation as the Precursor to Stripe Order](http://arxiv.org/abs/2411.15158v2)** | 2025-09-12 |  |
@@ -170,7 +171,6 @@ labels: documentation
 | **[A Tensor Network Framework for Lindbladian Spectra and Steady States](http://arxiv.org/abs/2509.07709v1)** | 2025-09-09 | <details><summary>12 pa...</summary><p>12 pages main text + 9 pages supplementary information, 7 figures main text + 4 figures supplementary information</p></details> |
 | **[Process Tensor Approaches to Non-Markovian Quantum Dynamics](http://arxiv.org/abs/2509.07661v1)** | 2025-09-09 | Invited perspective |
 | **[A Further Comparison of TD-DMRG and ML-MCTDH for Nonadiabatic Dynamics of Exciton Dissociation](http://arxiv.org/abs/2509.00456v2)** | 2025-09-09 |  |
-| **[Computing excited eigenstates using inexact Lanczos methods and tree tensor network states](http://arxiv.org/abs/2506.22574v2)** | 2025-09-08 |  |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
