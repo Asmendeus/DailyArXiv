@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 21, 2025
+title: Latest 20 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nonequilibrium Quasiparticles in Superconducting Circuits: Energy Relaxation, Charge and Flux Noise](http://arxiv.org/abs/2407.21177v5)** | 2025-09-18 | <details><summary>14 pa...</summary><p>14 pages, 7 figures. To appear in Phys. Rev. Appl</p></details> |
+| **[Higgs mode in superconducting Titanium nanostructures](http://arxiv.org/abs/2509.15327v1)** | 2025-09-18 |  |
 | **[Superconductivity in W3Re2C with chiral structure](http://arxiv.org/abs/2509.15078v1)** | 2025-09-18 | <details><summary>7 pag...</summary><p>7 pages and 5 figures</p></details> |
 | **[Superconducting bistability in floating Al islands of hybrid Al/InAs nanowires](http://arxiv.org/abs/2506.20408v2)** | 2025-09-18 | revised |
 | **[Oxygen-driven altermagnetic symmetry inducing d-wave superconductivity in the cuprates and nickelates](http://arxiv.org/abs/2509.06814v2)** | 2025-09-18 |  |
@@ -25,12 +27,11 @@ labels: documentation
 | **[Dynamically Optimized Super-Robust Nonadiabatic Holonomic Quantum Gates Based on Superconducting Circuits](http://arxiv.org/abs/2409.15665v2)** | 2025-09-16 | 19 pages, 9 figures |
 | **[Direct Observation of d-Wave Superconducting Gap Symmetry in Pressurized La3Ni2O7-delta Single Crystals](http://arxiv.org/abs/2509.12606v1)** | 2025-09-16 | <details><summary>20 pa...</summary><p>20 pages, 4 figures, 4 supplementary figures</p></details> |
 | **[Revealing superconducting gap in La$_3$Ni$_2$O$_7$-$δ$ by Andreev reflection spectroscopy under high pressure](http://arxiv.org/abs/2509.12601v1)** | 2025-09-16 | 27 pages, 15 pages |
-| **[Leveraging Machine Learning Force Fields (MLFFs) to Simulate Large Atomistic Systems for Fidelity Improvement of Superconducting Qubits and Sensors](http://arxiv.org/abs/2509.12509v1)** | 2025-09-15 | <details><summary>Publi...</summary><p>Published at GoMACTech 2025</p></details> |
-| **[Putting a new spin on the incommensurate Kekulé spiral: from spin-valley locking and collective modes to fermiology and implications for superconductivity](http://arxiv.org/abs/2509.12320v1)** | 2025-09-15 | 22 + 9 pages |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Integrable 3-Site, Tilted, Extended Bose-Hubbard Model with Nearest-Neighbour Interactions](http://arxiv.org/abs/2506.21789v2)** | 2025-09-19 |  |
 | **[Quantum Utility in Simulating the Real-time Dynamics of the Fermi-Hubbard Model using Superconducting Quantum Computers](http://arxiv.org/abs/2509.14196v1)** | 2025-09-17 | 18 pages, 10 figures |
 | **[Bosonic Quantum Breakdown Hubbard Model](http://arxiv.org/abs/2401.04309v3)** | 2025-09-17 | <details><summary>7+8 p...</summary><p>7+8 pages, 4+5 figures</p></details> |
 | **[From hidden order to skyrmions: Quantum Hall states in an extended Hofstadter-Fermi-Hubbard model](http://arxiv.org/abs/2509.12184v1)** | 2025-09-15 | 15 pages, 15 figures |
@@ -50,7 +51,6 @@ labels: documentation
 | **[Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints](http://arxiv.org/abs/2506.05031v2)** | 2025-09-05 | 15 pages, 10 figures |
 | **[Hubbard dimer physics and the magnetostructural transition in the correlated cluster material Nb$_3$Cl$_8$](http://arxiv.org/abs/2509.03988v1)** | 2025-09-04 |  |
 | **[Anyon Superconductivity from Topological Criticality in a Hofstadter-Hubbard Model](http://arxiv.org/abs/2410.18175v3)** | 2025-09-03 | <details><summary>15+17...</summary><p>15+17 pages, 3+3 figures. v3: final version published in PNAS</p></details> |
-| **[Topological Chiral Superconductivity in the Triangular-Lattice Hofstadter-Hubbard Model](http://arxiv.org/abs/2509.02757v1)** | 2025-09-02 |  |
 
 ## t-J
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,9 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Algorithms for variational Monte Carlo calculations of fermion projected entangled pair states in the swap gates formulation and the detailed balance of tensor network sequential sampling](http://arxiv.org/abs/2506.20106v2)** | 2025-09-19 |  |
+| **[Dispersion Relations in Two- and Three-Dimensional Quantum Systems](http://arxiv.org/abs/2509.15483v1)** | 2025-09-18 | 7 pages, 4 figures |
+| **[Living on the edge: a non-perturbative resolution to the negativity of bulk entropies](http://arxiv.org/abs/2509.15295v1)** | 2025-09-18 | <details><summary>65 pa...</summary><p>65 pages + appendices</p></details> |
 | **[Optimizing Quantum Photonic Integrated Circuits using Differentiable Tensor Networks](http://arxiv.org/abs/2509.11861v2)** | 2025-09-18 |  |
 | **[Anomalous matrix product operator symmetries and 1D mixed-state phases](http://arxiv.org/abs/2504.16985v3)** | 2025-09-17 |  |
 | **[Simple Hamiltonians for Matrix Product State models](http://arxiv.org/abs/2503.10767v2)** | 2025-09-16 | v2: Added appendices |
@@ -168,9 +171,6 @@ labels: documentation
 | **[Kitaev-derived Gapless Spin Liquid in the $K$-$J$-$Γ$-$Γ'$ Quantum Magnet Na$_2$Co$_2$TeO$_6$](http://arxiv.org/abs/2509.08821v1)** | 2025-09-10 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, Supplementary materials</p></details> |
 | **[Real-Time String Dynamics in a $2+1$D Non-Abelian Lattice Gauge Theory: String Breaking, Glueball Formation, Baryon Blockade, and Tension Reduction](http://arxiv.org/abs/2509.08868v1)** | 2025-09-10 | <details><summary>$10+5...</summary><p>$10+5$ pages, $5+3$ figures</p></details> |
 | **[Loschmidt echo, emerging dual unitarity and scaling of generalized temporal entropies after quenches to the critical point](http://arxiv.org/abs/2405.14706v5)** | 2025-09-09 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, v4: accepted version</p></details> |
-| **[A Tensor Network Framework for Lindbladian Spectra and Steady States](http://arxiv.org/abs/2509.07709v1)** | 2025-09-09 | <details><summary>12 pa...</summary><p>12 pages main text + 9 pages supplementary information, 7 figures main text + 4 figures supplementary information</p></details> |
-| **[Process Tensor Approaches to Non-Markovian Quantum Dynamics](http://arxiv.org/abs/2509.07661v1)** | 2025-09-09 | Invited perspective |
-| **[A Further Comparison of TD-DMRG and ML-MCTDH for Nonadiabatic Dynamics of Exciton Dissociation](http://arxiv.org/abs/2509.00456v2)** | 2025-09-09 |  |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
