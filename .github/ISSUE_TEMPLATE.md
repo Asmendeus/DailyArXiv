@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - September 25, 2025
+title: Latest 20 Papers - September 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Preformed Cooper Pairing and the Uncondensed Normal-State Component in Phase-Fluctuating Cuprate Superconductivity](http://arxiv.org/abs/2509.21133v1)** | 2025-09-25 |  |
+| **[Room-temperature superconductivity in ultra-thin carbon nanotube zeolite composites: a conventional or unconventional superconductor?](http://arxiv.org/abs/2509.21120v1)** | 2025-09-25 |  |
+| **[Field-resilient superconducting coplanar waveguide resonators made of Nb, NbTi, and NbTiN](http://arxiv.org/abs/2509.20782v1)** | 2025-09-25 | 18 pages, 5 figures |
+| **[Ambient-pressure superconductivity above 22 K in hole-doped YB2](http://arxiv.org/abs/2509.20742v1)** | 2025-09-25 |  |
+| **[Robust Ferrimagnetic Ground State and Suppressed Superconductivity in Two-Dimensional HC6](http://arxiv.org/abs/2509.20672v1)** | 2025-09-25 |  |
+| **[Effect of C additives with 0.5% in weight on structural, optical and superconducting properties of Ta-Nb-Hf-Zr-Ti high entropy alloy films](http://arxiv.org/abs/2509.20650v1)** | 2025-09-25 | 27 pages, 7 figures |
 | **[What causes the variation in superconducting properties of UTe$_{2}$?](http://arxiv.org/abs/2509.20298v1)** | 2025-09-24 | 8 pages, 4 figures |
 | **[High temperature superconductivity with giant pressure effect in 3D networks of boron doped ultra-thin carbon nanotubes in the pores of ZSM-5 zeolite](http://arxiv.org/abs/2509.19255v2)** | 2025-09-24 |  |
 | **[Phase Stability and Superconductivity in Hydrogenated and Lithiated Janus GaXS2 (X = Ga, In) Monolayers](http://arxiv.org/abs/2509.19922v1)** | 2025-09-24 | 15 pages, 9 figures |
@@ -21,16 +27,14 @@ labels: documentation
 | **[Signature of chiral superconducting order parameter evidenced in mesoscopic superconductors](http://arxiv.org/abs/2509.18781v1)** | 2025-09-23 |  |
 | **[Characterizing Noise in Controlling Superconducting Qubits](http://arxiv.org/abs/2509.18482v1)** | 2025-09-23 | 5 pages, 4 figures |
 | **[Analysis of polymerized superconducting circuits](http://arxiv.org/abs/2509.18016v1)** | 2025-09-22 |  |
-| **[Opposite-Mirror-Parity Scattering as the Origin of Superconductivity in Strained Bilayer Nickelates](http://arxiv.org/abs/2501.14665v3)** | 2025-09-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures+SM</p></details> |
-| **[Noise Protected Logical Qubit in a Open Chain of Superconducting Qubits with Ultrastrong Interactions](http://arxiv.org/abs/2509.17903v1)** | 2025-09-22 |  |
-| **[Same-group element replacement enhances superconductivity in clathrate-like YH4](http://arxiv.org/abs/2509.17501v1)** | 2025-09-22 |  |
-| **[THz electrodynamics and superconducting energy scales of ZrN thin films](http://arxiv.org/abs/2509.17272v1)** | 2025-09-21 | 7 pages, 5 figures |
-| **[Dark counts in optical superconducting transition-edge sensors for rare-event searches](http://arxiv.org/abs/2402.03073v5)** | 2025-09-20 |  |
-| **[Strong-coupling quantum thermodynamics using a superconducting flux qubit](http://arxiv.org/abs/2411.10774v3)** | 2025-09-20 | 18 pages, 12 Figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Pseudogap in the lightly hole-doped triangular-lattice moiré Hubbard model](http://arxiv.org/abs/2507.09586v2)** | 2025-09-25 |  |
+| **[Anomalous Quantum Relaxation in the Infinite Temperature Hubbard Chain](http://arxiv.org/abs/2509.20759v1)** | 2025-09-25 | 5 pages, 3 figures |
+| **[Hot but Coherent: Doublons at Infinite Temperature in the Hubbard chain](http://arxiv.org/abs/2509.20504v1)** | 2025-09-24 |  |
+| **[Quantum Coherence in a Maximally Hot Hubbard Chain](http://arxiv.org/abs/2509.20498v1)** | 2025-09-24 |  |
 | **[Interaction dependence of the Hall response for the Bose-Hubbard triangular ladder](http://arxiv.org/abs/2409.15276v2)** | 2025-09-24 |  |
 | **[Superconductivity and Low Energy Excitations in an Attractive Hubbard Model](http://arxiv.org/abs/2509.19780v1)** | 2025-09-24 | 23 pages |
 | **[$\mathrm{SU}(3)$ Fermi-Hubbard gas with three-body losses: symmetries and dark states](http://arxiv.org/abs/2503.17217v2)** | 2025-09-23 | 24 pages, 11 figures |
@@ -47,10 +51,6 @@ labels: documentation
 | **[Pseudogap-induced change in the nature of the Lifshitz transition in the two-dimensional Hubbard model](http://arxiv.org/abs/2509.09783v1)** | 2025-09-11 | 9 pages, 7 figures |
 | **[Flux-driven charge and spin transport in a dimerized Hubbard ring with Fibonacci modulation](http://arxiv.org/abs/2509.09542v1)** | 2025-09-11 | 12 pages, 13 figures |
 | **[Quenched disorder and the BCS-BEC crossover in the Hubbard model](http://arxiv.org/abs/2509.09399v1)** | 2025-09-11 | <details><summary>12 pa...</summary><p>12 pages with 1 figure</p></details> |
-| **[Single-band square lattice Hubbard model from twisted bilayer C568](http://arxiv.org/abs/2502.19483v2)** | 2025-09-10 | <details><summary>v2, 9...</summary><p>v2, 9 pages, 9 figures</p></details> |
-| **[An integrable Anderson-impurity problem embedded in the one-dimensional Hubbard model](http://arxiv.org/abs/2509.07799v1)** | 2025-09-09 |  |
-| **[Low-energy structure and topology of the two-band Hubbard-Kanamori model](http://arxiv.org/abs/2504.01269v2)** | 2025-09-09 |  |
-| **[Quantum Mpemba effect in a four-site Bose-Hubbard model](http://arxiv.org/abs/2509.06937v1)** | 2025-09-08 | 11 pages, 4 figures |
 
 ## t-J
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## UTe2
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-reconstruction of order parameter in spin-triplet superconductor UTe$_2$](http://arxiv.org/abs/2210.11769v3)** | 2025-09-25 |  |
 | **[Nodal superconducting gap structure and topological surface states of UTe$_2$](http://arxiv.org/abs/2503.11603v2)** | 2025-09-24 | 15 pages, 9 figures |
 | **[Magnetic penetration depth in topological superconductors: Effect of Majorana surface states and application for UTe$_2$](http://arxiv.org/abs/2509.18441v1)** | 2025-09-22 | 11 pages, 8 figures |
 | **[UTe$_2$: a narrow band superconductor](http://arxiv.org/abs/2509.07915v1)** | 2025-09-09 | <details><summary>12 pa...</summary><p>12 pages, 11 figures, submitted as regular article</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Topological Origin of Andreev Flatland in UTe$_2$: Implication for Josephson STM Measurements](http://arxiv.org/abs/2504.16166v1)** | 2025-04-22 | 5 pages + 9 pages |
 | **[Electronic dimensionality of UTe2](http://arxiv.org/abs/2504.15435v1)** | 2025-04-21 |  |
 | **[Surface charge density wave in UTe2](http://arxiv.org/abs/2504.12505v1)** | 2025-04-16 |  |
-| **[Observation of Persistent Zero Modes and Superconducting Vortex Doublets in UTe$_2$](http://arxiv.org/abs/2503.17450v2)** | 2025-04-08 | <details><summary>11+17...</summary><p>11+17 pages, 4+14 figures. v2: Discussions added with minor changes in the acknowledgement</p></details> |
 
 ## LC
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,12 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Operator entanglement in $\mathrm{SU}(2)$-symmetric dissipative quantum many-body dynamics](http://arxiv.org/abs/2410.18468v3)** | 2025-09-25 | <details><summary>Autho...</summary><p>Author's accepted manuscript</p></details> |
+| **[Anomalous Quantum Relaxation in the Infinite Temperature Hubbard Chain](http://arxiv.org/abs/2509.20759v1)** | 2025-09-25 | 5 pages, 3 figures |
+| **[Numerically exact quantum dynamics with tensor networks: Predicting the decoherence of interacting spin systems](http://arxiv.org/abs/2509.20604v1)** | 2025-09-24 |  |
+| **[Quantum Coherence in a Maximally Hot Hubbard Chain](http://arxiv.org/abs/2509.20498v1)** | 2025-09-24 |  |
+| **[Superdiffusive transport in chaotic quantum systems with nodal interactions](http://arxiv.org/abs/2501.08381v3)** | 2025-09-24 | 10 pages, 2 figures |
+| **[Multicriticality between Purely Gapless SPT Phases with Unitary Symmetry](http://arxiv.org/abs/2509.20431v1)** | 2025-09-24 | <details><summary>17 pa...</summary><p>17 pages + 5 page appendix, 7 figures</p></details> |
 | **[Characterizing Translation-Invariant Bell Inequalities using Tropical Algebra and Graph Polytopes](http://arxiv.org/abs/2407.08783v2)** | 2025-09-24 | 27 pages, 10 figures |
 | **[BatchTNMC: Efficient sampling of two-dimensional spin glasses using tensor network Monte Carlo](http://arxiv.org/abs/2509.19006v1)** | 2025-09-23 | 10 pages, 4 figures |
 | **[Universal Scaling Functions of the Gr{ü}neisen Ratio near Quantum Critical Points](http://arxiv.org/abs/2509.17362v1)** | 2025-09-22 | 12 pages, 6 figures |
@@ -165,16 +171,11 @@ labels: documentation
 | **[Simple Hamiltonians for Matrix Product State models](http://arxiv.org/abs/2503.10767v2)** | 2025-09-16 | v2: Added appendices |
 | **[From higher-order moments to time correlation functions in strongly correlated systems: A DMRG-based memory kernel coupling theory](http://arxiv.org/abs/2509.13140v1)** | 2025-09-16 | 10 pages, 6 figures |
 | **[RandomMeas.jl: A Julia Package for Randomized Measurements in Quantum Devices](http://arxiv.org/abs/2509.12749v1)** | 2025-09-16 | <details><summary>15 pa...</summary><p>15 pages, code available at https://github.com/bvermersch/RandomMeas.jl</p></details> |
-| **[A graphical diagnostic of topological order using ZX calculus](http://arxiv.org/abs/2509.12355v1)** | 2025-09-15 | <details><summary>5 pag...</summary><p>5 pages, 26 pages of supplemental material</p></details> |
-| **[Non-Markovian dynamics of generation of bound states in the continuum via single-photon scattering](http://arxiv.org/abs/2501.04691v2)** | 2025-09-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures. For associated video, see http://drive.google.com/file/d/1DJSWkWYcf8sV5oVKmoLxkNXZ-26SuPhJ/view</p></details> |
-| **[Characterizing Scaling Trends of Post-Compilation Circuit Resources for NISQ-era QML Models](http://arxiv.org/abs/2509.11980v1)** | 2025-09-15 | <details><summary>6 pag...</summary><p>6 pages with 10 figures</p></details> |
-| **[Anticoncentration in Clifford Circuits and Beyond: From Random Tensor Networks to Pseudo-Magic States](http://arxiv.org/abs/2502.20455v2)** | 2025-09-15 | 14 pages |
-| **[Simulating and Sampling from Quantum Circuits with 2D Tensor Networks](http://arxiv.org/abs/2507.11424v2)** | 2025-09-14 | 13 pages, 9 figures |
-| **[Forestalled Phase Separation as the Precursor to Stripe Order](http://arxiv.org/abs/2411.15158v2)** | 2025-09-12 |  |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Phases and phase transitions of an $S=3/2$ chain on metallic and semi-metallic surfaces](http://arxiv.org/abs/2509.11392v2)** | 2025-09-24 | 21 pages, 27 figures |
 | **[A scalable route to first-order response properties with correlated sampling phaseless auxiliary-field quantum Monte Carlo](http://arxiv.org/abs/2509.18500v1)** | 2025-09-23 | <details><summary>24 pa...</summary><p>24 pages, 4 figures, 5 tables</p></details> |
 | **[Itinerant ferromagnetism in an SU(3) Fermi-Hubbard model at finite temperatures: A dynamical mean-field theory study](http://arxiv.org/abs/2505.12704v2)** | 2025-09-22 | 10 pages, 10 figures |
 | **[Exploring molecular supersolidity via exact and mean-field theories: single microwave shielding](http://arxiv.org/abs/2509.18051v1)** | 2025-09-22 | 16 pages, 10 figures |
@@ -186,7 +187,6 @@ labels: documentation
 | **[Antiferromagnetism and Stripe Channel Order in the $\mathrm{SU}(N)$-Symmetric Two-Channel Kondo Lattice Model](http://arxiv.org/abs/2509.12311v1)** | 2025-09-15 | 13 pages, 11 figures |
 | **[Helical Luttinger liquid on a space-time lattice](http://arxiv.org/abs/2401.10828v5)** | 2025-09-15 | 13 pages, 6 figures |
 | **[Strong antibunching photons/photon pairs emission in two atoms cavity QED system with the Van der Waals interaction](http://arxiv.org/abs/2509.11585v1)** | 2025-09-15 |  |
-| **[Phases and phase transitions of an $S=3/2$ chain on metallic and semi-metallic surfaces](http://arxiv.org/abs/2509.11392v1)** | 2025-09-14 | 21 pages, 27 figures |
 | **[Interplay between Hubbard interaction and charge transfer energy in three-orbital Emery model](http://arxiv.org/abs/2509.11028v1)** | 2025-09-14 | 10 pages, 8 figures |
 | **[Localization and Wetting of 4He Inside Pre-plated Nanopores](http://arxiv.org/abs/2509.10690v1)** | 2025-09-12 | <details><summary>11 pa...</summary><p>11 pages, 10 figures. For associated data and code repository see: https://github.com/DelMaestroGroup/papers-code-NanoporesWetting/</p></details> |
 | **[Entanglement architecture of beyond-Landau quantum criticality](http://arxiv.org/abs/2509.09983v1)** | 2025-09-12 | 10 pages, 9 figures |
