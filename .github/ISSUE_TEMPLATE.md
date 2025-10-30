@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - October 29, 2025
+title: Latest 20 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Superconductivity in overdoped cuprates can be understood from a BCS perspective!](http://arxiv.org/abs/2510.25767v1)** | 2025-10-29 | 3 figures |
 | **[Enhanced Superconductivity in 2H-TaS2 Devices Through in-situ Molecular Intercalation](http://arxiv.org/abs/2510.24627v1)** | 2025-10-28 |  |
 | **[Charge stripe and superconductivity tuned by interlayer interaction in a sign-problem-free bilayer extended Hubbard model](http://arxiv.org/abs/2510.24405v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages and 6 figures</p></details> |
 | **[Enhanced superconducting properties of Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ films with sub-50-nm thickness](http://arxiv.org/abs/2412.17367v2)** | 2025-10-28 | 16 pages, 7 figures |
@@ -26,11 +27,13 @@ labels: documentation
 | **[Quantum Coherence in Superconducting Vortex States](http://arxiv.org/abs/2510.19769v2)** | 2025-10-23 |  |
 | **[Parametric Phase Modulation in Superconducting Circuits](http://arxiv.org/abs/2510.20192v1)** | 2025-10-23 | 15 pages,12 figures |
 | **[Variational quantum simulation of many-body dissipative dynamics on a superconducting quantum processor](http://arxiv.org/abs/2510.20118v1)** | 2025-10-23 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 1 tables</p></details> |
-| **[Soft Mode Origin of Charge Ordering in Superconducting Kagome CsV$_3$Sb$_5$](http://arxiv.org/abs/2510.19790v1)** | 2025-10-22 | 25 pages, 5 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Many-body localization and particle multioccupancy in the disordered Bose-Hubbard model](http://arxiv.org/abs/2503.03712v2)** | 2025-10-29 | 9 pages + 4 figures |
+| **[Entanglement-enhanced correlation propagation in the one-dimensional SU($N$) Fermi-Hubbard model](http://arxiv.org/abs/2510.25358v1)** | 2025-10-29 | <details><summary>6 pag...</summary><p>6 pages, 2 figures (Supplemental Material: 7 pages, 1 figure)</p></details> |
+| **[Finite-Temperature Study of the Hubbard Model via Enhanced Exponential Tensor Renormalization Group](http://arxiv.org/abs/2510.25022v1)** | 2025-10-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures for numerical results</p></details> |
 | **[Charge stripe and superconductivity tuned by interlayer interaction in a sign-problem-free bilayer extended Hubbard model](http://arxiv.org/abs/2510.24405v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages and 6 figures</p></details> |
 | **[Signatures of superconducting pairing driven by electron-electron interactions in moiré WSe$_2$/WSe$_2$ homobilayer modelled by Hubbard Hamiltonian](http://arxiv.org/abs/2510.24270v1)** | 2025-10-28 |  |
 | **[Engineering 2D square lattice Hubbard models in 90$^\circ$ twisted Ge/SnX (X=S, Se) moiré supperlattices](http://arxiv.org/abs/2406.05626v2)** | 2025-10-28 | 16 pages, 12 figures |
@@ -48,9 +51,6 @@ labels: documentation
 | **[Hybrid Brownian SYK-Hubbard Model: from Spectral Function to Quantum Chaos](http://arxiv.org/abs/2510.16401v1)** | 2025-10-18 | 16 pages, 4 figures |
 | **[A recipe for local simulation of strongly-correlated fermionic matter on quantum computers: the 2D Fermi-Hubbard model](http://arxiv.org/abs/2408.14543v3)** | 2025-10-17 | <details><summary>15 pa...</summary><p>15 pages, 7 figures (+6 pages appendices)</p></details> |
 | **[Pseudogap-induced change in the nature of the Lifshitz transition in the two-dimensional Hubbard model](http://arxiv.org/abs/2509.09783v2)** | 2025-10-17 | 9 pages, 8 figures |
-| **[Real-space Hubbard-corrected density functional theory](http://arxiv.org/abs/2507.23612v2)** | 2025-10-17 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 2 tables</p></details> |
-| **[Particle-Hole Asymmetry and Pinball Liquid in a Triangular-Lattice Extended Hubbard Model within Mean-Field Approximation](http://arxiv.org/abs/2504.20719v2)** | 2025-10-16 | <details><summary>12 pa...</summary><p>12 pages, 6 figures, 80 references; RevTeX class, double-column formatting, includes also Supplemental Material (5 pages, 3 figures, 9 multimedia filies); minor additions with respect to previous version</p></details> |
-| **[Excitonic correlations in the equilibrium and voltage-biased bilayer Hubbard model: multi-orbital two-particle self-consistent approach](http://arxiv.org/abs/2510.13667v1)** | 2025-10-15 | 14 pages, 5 figures |
 
 ## t-J
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,7 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neuralized Fermionic Tensor Networks for Quantum Many-Body Systems](http://arxiv.org/abs/2506.08329v3)** | 2025-10-29 | <details><summary>6 pag...</summary><p>6 pages, 5 figures + 7 pages, 5 figures</p></details> |
 | **[Pilot-Wave Simulator: Exact Classical Sampling from Ideal and Noisy Quantum Circuits up to Hundreds of Qubits](http://arxiv.org/abs/2510.24218v1)** | 2025-10-28 |  |
 | **[Seeding neural network quantum states with tensor network states](http://arxiv.org/abs/2506.23550v3)** | 2025-10-28 | <details><summary>15 pa...</summary><p>15 pages, 15 figures, All codes and data used in this manuscript are available at https://github.com/ryuikaneko/mps2rbm</p></details> |
 | **[Approximate maximum likelihood decoding with $K$ minimum weight matchings](http://arxiv.org/abs/2510.06531v2)** | 2025-10-27 | <details><summary>Corre...</summary><p>Corrected Fig. 2d. 33.4 pages, 10 figures, comments are welcome!</p></details> |
@@ -170,7 +171,6 @@ labels: documentation
 | **[Spectral Small-Incremental-Entangling: Breaking Quasi-Polynomial Complexity Barriers in Long-Range Interacting Systems](http://arxiv.org/abs/2509.12014v2)** | 2025-10-23 | <details><summary>7 pag...</summary><p>7 pages + 49 pages, 5 figures. [v.2] typos corrected</p></details> |
 | **[Computing excited eigenstates using inexact Lanczos methods and tree tensor network states](http://arxiv.org/abs/2506.22574v4)** | 2025-10-22 |  |
 | **[KARIPAP: Quantum-Inspired Tensor Network Compression of Large Language Models Using Infinite Projected Entangled Pair States and Tensor Renormalization Group](http://arxiv.org/abs/2510.21844v1)** | 2025-10-22 | 28 pages |
-| **[Lattice-reflection symmetry in tensor-network renormalization group with entanglement filtering in two and three dimensions](http://arxiv.org/abs/2510.19428v1)** | 2025-10-22 | <details><summary>35 pa...</summary><p>35 pages, 5 figures and 4 tables</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
