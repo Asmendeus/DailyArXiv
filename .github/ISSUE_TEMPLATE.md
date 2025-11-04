@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 03, 2025
+title: Latest 20 Papers - November 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spin correlations in La$_3$Ni$_2$O$_7$ superconducting thin films](http://arxiv.org/abs/2502.03178v3)** | 2025-11-03 | <details><summary>7 pag...</summary><p>7 pages, 4 figures. Supplementary is available upon reasonable request</p></details> |
+| **[Theoretical Study of Impurity Effects on Superconductivity in UTe2](http://arxiv.org/abs/2508.15147v2)** | 2025-11-03 |  |
+| **[Finsler geometry in anisotropic superconductivity: a Ginzburg-Landau approach](http://arxiv.org/abs/2510.19720v2)** | 2025-10-31 | 18 pages, 0 figures |
 | **[Reducing the strain required for ambient-pressure superconductivity in bilayer nickelates](http://arxiv.org/abs/2510.27613v1)** | 2025-10-31 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 1 table, 42 references, 6 supplementary figures, 1 supplementary table</p></details> |
 | **[Theory of Topological Superconductivity and Antiferromagnetic Correlated Insulators in Twisted Bilayer WSe$_2$](http://arxiv.org/abs/2409.06779v2)** | 2025-10-31 | <details><summary>22 pa...</summary><p>22 pages, 12 figures, 2 tables</p></details> |
 | **[Characterizing and Mitigating Flux Crosstalk in Superconducting Qubits-Couplers System](http://arxiv.org/abs/2508.03434v2)** | 2025-10-31 | <details><summary>v2: 2...</summary><p>v2: 25 pages, 11 figures, 6 tables. Major revisions include: updated author list; revised key arguments in main text and supplemental material, key results unchanged; added references in main text and SI; added figures, tables, and sections IV to VII in SM; minor typographical corrections</p></details> |
@@ -24,9 +27,6 @@ labels: documentation
 | **[Nonlinear quantum evolution of a dissipative superconducting qubit](http://arxiv.org/abs/2510.25836v1)** | 2025-10-29 | 8 pages, 5 figures |
 | **[Superconductivity in overdoped cuprates can be understood from a BCS perspective!](http://arxiv.org/abs/2510.25767v1)** | 2025-10-29 | 3 figures |
 | **[Enhanced Superconductivity in 2H-TaS2 Devices Through in-situ Molecular Intercalation](http://arxiv.org/abs/2510.24627v1)** | 2025-10-28 |  |
-| **[Charge stripe and superconductivity tuned by interlayer interaction in a sign-problem-free bilayer extended Hubbard model](http://arxiv.org/abs/2510.24405v1)** | 2025-10-28 | <details><summary>6 pag...</summary><p>6 pages and 6 figures</p></details> |
-| **[Enhanced superconducting properties of Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ films with sub-50-nm thickness](http://arxiv.org/abs/2412.17367v2)** | 2025-10-28 | 16 pages, 7 figures |
-| **[Quantum geometric magnetic monopole and two-phase superconductivity in CeRh$_2$As$_2$](http://arxiv.org/abs/2510.24289v1)** | 2025-10-28 | 10 pages, 5 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -103,13 +103,13 @@ labels: documentation
 ## UTe2
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Theoretical Study of Impurity Effects on Superconductivity in UTe2](http://arxiv.org/abs/2508.15147v2)** | 2025-11-03 |  |
 | **[Magnetic fluctuations and anisotropy in UTe2: a multi-orbital study based on GGA+U and RPA](http://arxiv.org/abs/2510.15322v1)** | 2025-10-17 |  |
 | **[Superconductivity in UTe$_2$ from local noncentrosymmetricity](http://arxiv.org/abs/2510.14259v1)** | 2025-10-16 | 10 pages, 7 figures, |
 | **[Self-reconstruction of order parameter in spin-triplet superconductor UTe$_2$](http://arxiv.org/abs/2210.11769v3)** | 2025-09-25 |  |
 | **[Nodal superconducting gap structure and topological surface states of UTe$_2$](http://arxiv.org/abs/2503.11603v2)** | 2025-09-24 | 15 pages, 9 figures |
 | **[Magnetic penetration depth in topological superconductors: Effect of Majorana surface states and application for UTe$_2$](http://arxiv.org/abs/2509.18441v1)** | 2025-09-22 | 11 pages, 8 figures |
 | **[UTe$_2$: a narrow band superconductor](http://arxiv.org/abs/2509.07915v1)** | 2025-09-09 | <details><summary>12 pa...</summary><p>12 pages, 11 figures, submitted as regular article</p></details> |
-| **[Theoretical Study of Impurity Effects on Superconductivity in UTe2](http://arxiv.org/abs/2508.15147v1)** | 2025-08-21 |  |
 | **[Quasiparticle Interference of Spin-Triplet Superconductors: Application to UTe$_2$](http://arxiv.org/abs/2505.01404v2)** | 2025-08-08 | 21 pages. 17 figures |
 | **[Slow magnetic quantum oscillations in the c-axis magnetoresistance of UTe$_2$](http://arxiv.org/abs/2503.11525v2)** | 2025-07-10 |  |
 | **[Spectroscopic evidence of symmetry breaking in the superconducting vortices of UTe2](http://arxiv.org/abs/2503.13143v3)** | 2025-07-07 | 13 pages, 4 figures |
@@ -151,6 +151,7 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning the non-Markovian features of subsystem dynamics](http://arxiv.org/abs/2507.14133v2)** | 2025-11-03 | 25 pages, 11 figures |
 | **[Typical Machine Learning Datasets as Low-Depth Quantum Circuits](http://arxiv.org/abs/2505.03399v2)** | 2025-10-31 |  |
 | **[Observation of a Fault Tolerance Threshold with Concatenated Codes](http://arxiv.org/abs/2506.00579v2)** | 2025-10-30 | <details><summary>v2: 7...</summary><p>v2: 7.5 pages, 6 figures + 26 pages, 17 figures, includes added section on code switching. Close to accepted version</p></details> |
 | **[Interpretable Artificial Intelligence (AI) Analysis of Strongly Correlated Electrons](http://arxiv.org/abs/2510.26864v1)** | 2025-10-30 | 34 pages, 23 figures |
@@ -170,7 +171,6 @@ labels: documentation
 | **[Tensor Network Loop Cluster Expansions for Quantum Many-Body Problems](http://arxiv.org/abs/2510.05647v2)** | 2025-10-25 | 6 pages, 6 figures |
 | **[Observation of Unprecedented Fractional Magnetization Plateaus in a New Shastry-Sutherland Ising Compound](http://arxiv.org/abs/2405.12405v4)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for publication in Physical Review X</p></details> |
 | **[Fermionic tensor network contraction for arbitrary geometries](http://arxiv.org/abs/2410.02215v3)** | 2025-10-24 | 9 pages, 9 figures |
-| **[Temporal Complexity Hierarchies in Solvable Quantum Many-Body Dynamics](http://arxiv.org/abs/2510.21927v1)** | 2025-10-24 | 24 pages, 8 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
