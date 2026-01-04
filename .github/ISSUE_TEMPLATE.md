@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - January 01, 2026
+title: Latest 20 Papers - January 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
