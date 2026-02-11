@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 09, 2026
+title: Latest 20 Papers - February 11, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,36 +7,39 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Hybrid Coupling Topology with Dynamic ZZ Suppression for Optimizing Circuit Depth during Runtime in Superconducting Quantum Processor](https://arxiv.org/abs/2602.06812v1)** | 2026-02-06 | 6 pages, 8 figures |
-| **[Current precision in interacting hybrid Normal-Superconducting systems](https://arxiv.org/abs/2602.06781v1)** | 2026-02-06 | 18 pages, 12 figures |
-| **[Superconductivity in Isolated Single Copper Oxygen Plane](https://arxiv.org/abs/2602.06389v1)** | 2026-02-06 | 7 pages, 4 figures |
-| **[Superconductivity of 30.4 K and its Reemergence under Pressure in Fe1.11Se Synthesized via Ion-exchange and De-intercalation Reaction](https://arxiv.org/abs/2602.06312v1)** | 2026-02-06 | <details><summary>9 pag...</summary><p>9 pages, 4 figures,Accepted in J. Am. Chem. Soc</p></details> |
-| **[Magnon-Mediated Superconductivity in the Infinite-$U$ Triangular Lattice](https://arxiv.org/abs/2602.06231v1)** | 2026-02-05 | <details><summary>15 pa...</summary><p>15 pages, 13 figures (including Supplementary Material).Submitted to Physical Review Letters</p></details> |
-| **[Assessing the Sensitivity of Niobium- and Tantalum-Based Superconducting Qubits to Infrared Radiation](https://arxiv.org/abs/2602.05806v1)** | 2026-02-05 | <details><summary>14 pa...</summary><p>14 pages, 4 main figures</p></details> |
-| **[Niobium Air Bridges as Low-Loss Components for Superconducting Quantum Hardware](https://arxiv.org/abs/2503.12076v2)** | 2026-02-05 | 10 pages, 9 figures |
-| **[Electronic Structure and Superconducting Gap of HgBa$_2$Ca$_2$Cu$_3$O$_{8+δ}$ Revealed by Laser-Based Angle-Resolved Photoemission Spectroscopy](https://arxiv.org/abs/2602.05624v1)** | 2026-02-05 | 14 pages, 5 figures |
-| **[Higher-Order Topological Superconductivity and Electrically Tunable Majorana Corner Modes in Monolayer MnXPb$_2$ (X=Se, Te)-Pb Heterostructure](https://arxiv.org/abs/2602.05505v1)** | 2026-02-05 | <details><summary>7 pag...</summary><p>7 pages, 5 figures. Comments are welcome</p></details> |
-| **[Single-site dissipation stabilizes a superconducting nonequilibrium steady state in a strongly correlated system](https://arxiv.org/abs/2602.00452v2)** | 2026-02-05 | 15 pages, 11 figures |
-| **[Superconducting Dome in Ionic Liquid Gated Homoepitaxial Strontium Titanate Thin Films](https://arxiv.org/abs/2509.16408v2)** | 2026-02-04 |  |
-| **[Review of Superconducting Qubit Devices and Their Large-Scale Integration](https://arxiv.org/abs/2602.04831v1)** | 2026-02-04 |  |
-| **[Enabling large-scale digital quantum simulations with superconducting qubits](https://arxiv.org/abs/2602.04719v1)** | 2026-02-04 | 187 pages |
-| **[Exact Multimode Quantization of Superconducting Circuits via Boundary Admittance and Continued Fractions](https://arxiv.org/abs/2601.04407v3)** | 2026-02-04 |  |
-| **[Unconventional superconductivity in monolayer transition metal dichalcogenides](https://arxiv.org/abs/2509.03907v2)** | 2026-02-04 | 15 pages, 14 figures |
-| **[Crossed surface flat bands in three-dimensional superconducting altermagnets](https://arxiv.org/abs/2510.14724v3)** | 2026-02-04 | <details><summary>10 pa...</summary><p>10 pages, 8 figures for the main text + 21 pages, 13 figures for Supplementary Materials</p></details> |
-| **[Revealing THz optical signatures of Shiba-state-induced gapped and gapless superconductivity](https://arxiv.org/abs/2507.05516v2)** | 2026-02-04 |  |
-| **[Theory of quasiparticle generation by microwave drives in superconducting qubits](https://arxiv.org/abs/2505.00773v2)** | 2026-02-03 | <details><summary>Updat...</summary><p>Updated to the final version published as an Editors' Suggestion in Physical Review Applied. Minor edits to the text and also includes a new supplementary note deriving the Josephson Hamiltonian of a superconducting qubit directly from BCS theory</p></details> |
-| **[Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures](https://arxiv.org/abs/2412.01749v2)** | 2026-02-03 |  |
-| **[Primary charge-4e superconductivity from doping a featureless Mott insulator](https://arxiv.org/abs/2602.03925v1)** | 2026-02-03 | <details><summary>4.5+7...</summary><p>4.5+7 pages, 4+4 figures</p></details> |
+| **[Simulating superconductivity in mixed-dimensional $t_\parallel$-${J}_\parallel$-${J}_\perp$ bilayers with neural quantum states](https://arxiv.org/abs/2602.10091v1)** | 2026-02-10 | <details><summary>7 pag...</summary><p>7 pages + Supplementary Materials</p></details> |
+| **[Magneto-optical study of Nb thin films for superconducting qubits](https://arxiv.org/abs/2602.10010v1)** | 2026-02-10 |  |
+| **[Superconducting Dome in $\mathrm{La}_{3-x}\mathrm{Sr}_{x}\mathrm{Ni}_{2}\mathrm{O}_{7-δ}$ Thin Films](https://arxiv.org/abs/2508.15284v2)** | 2026-02-10 | 33 pages, 15 figures |
+| **[Pressure dependent topological, superconducting, optoelectronic and thermophysical properties of Ta2Se chalcogenide: Theoretical insights](https://arxiv.org/abs/2602.09727v1)** | 2026-02-10 |  |
+| **[Pressure-induced superconductivity beyond magnetic quantum criticality in a Kondo ferromagnet](https://arxiv.org/abs/2602.09654v1)** | 2026-02-10 |  |
+| **[Optical conductivity signatures of strong correlations and multiband superconductivity in infinite-layer nickelates](https://arxiv.org/abs/2602.09567v1)** | 2026-02-10 | <details><summary>19 pa...</summary><p>19 pages, 3 figures, 45 references</p></details> |
+| **[Fluorine-substitution-dependent phase diagram and superconducting properties of Sm-based oxypnictides synthesized by a high-pressure growth technique](https://arxiv.org/abs/2512.05177v2)** | 2026-02-09 | <details><summary>31 pa...</summary><p>31 pages, 8 figures Accepted for publication in "Journal of Materials Science: Materials in Electronics"</p></details> |
+| **[A cavity-mediated reconfigurable coupling scheme for superconducting qubits](https://arxiv.org/abs/2602.08869v1)** | 2026-02-09 |  |
+| **[Josephson tunneling through a Yu-Shiba-Rusinov state: Interplay of $π$-shifts in Josephson current and local superconducting order parameter](https://arxiv.org/abs/2602.08827v1)** | 2026-02-09 | 11 pages, 4 figures |
+| **[Superconducting Spin-Singlet QuBit in a Triangulene Spin Chain](https://arxiv.org/abs/2503.23928v2)** | 2026-02-09 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 1 table</p></details> |
+| **[Quantum Charging Advantage in Superconducting Solid-State Batteries](https://arxiv.org/abs/2602.08610v1)** | 2026-02-09 |  |
+| **[Superconducting Cloud Chamber](https://arxiv.org/abs/2502.16437v3)** | 2026-02-09 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Published in PRL</p></details> |
+| **[Pressure induced electronic band evolution and observation of superconductivity in the Dirac semimetal ZrTe5](https://arxiv.org/abs/2602.08547v1)** | 2026-02-09 | 14 Pages, 16 Figures |
+| **[Intimate relationship between spin configuration in the triplet pair and superconductivity in UTe$_2$](https://arxiv.org/abs/2602.08358v1)** | 2026-02-09 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, to be published in Phys. Rev. B</p></details> |
+| **[Fermi-liquid transport beyond the upper critical field in superconducting La$_2$PrNi$_2$O$_7$ thin films](https://arxiv.org/abs/2505.19011v2)** | 2026-02-09 |  |
+| **[Closed-Loop Phase-Coherence Compensation for Superconducting Qubits Integrated Computational and Hardware Validation of the Aurora Method](https://arxiv.org/abs/2511.20741v2)** | 2026-02-09 | <details><summary>12 pa...</summary><p>12 pages, 3 figures Version 2. Clarified scope and limitations of Aurora-DD. Added explicit discussion of non-advantage regimes and stability-oriented positioning following editorial feedback</p></details> |
+| **[Spin responses of a disordered helical superconducting edge under Zeeman field](https://arxiv.org/abs/2511.04263v2)** | 2026-02-08 | 20 pages, 8 figures |
+| **[Coexistence of Antiferromagnetic Spin Fluctuations and Superconductivity in La2SmNi2O7 Thin Films](https://arxiv.org/abs/2602.07994v1)** | 2026-02-08 |  |
+| **[Mutual Inductance Sensing SQUID: Cryogenic microcalorimeter based on mutual inductance readout of superconducting temperature sensors](https://arxiv.org/abs/2602.07917v1)** | 2026-02-08 | <details><summary>submi...</summary><p>submitted to Applied Physics Letters</p></details> |
+| **[Effect of metal encapsulation on bulk superconducting properties of niobium thin films used in qubits](https://arxiv.org/abs/2602.07617v1)** | 2026-02-07 |  |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Resolving Quantum Criticality in the Honeycomb Hubbard Model](https://arxiv.org/abs/2602.03656v2)** | 2026-02-09 | <details><summary>12+20...</summary><p>12+20 pages, 6+16 figures</p></details> |
+| **[Super-Tonks-Girardeau Quench in the Extended Bose-Hubbard Model](https://arxiv.org/abs/2306.10910v4)** | 2026-02-08 | Comments welcome! |
+| **[One-dimensional extended Hubbard model coupled with an optical cavity](https://arxiv.org/abs/2505.09311v2)** | 2026-02-08 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. v2: Final version as accepted by Physical Review B</p></details> |
+| **[Quantum Hall to Chiral Spin Liquid transition in a Triangular Lattice Hofstadter-Hubbard Model](https://arxiv.org/abs/2510.19907v2)** | 2026-02-06 | <details><summary>12+4 ...</summary><p>12+4 pages, 12+7 figures, minor changes, accepted version</p></details> |
 | **[Dynamical correlations and nonequilibrium sum rules in photodoped Hubbard ladders](https://arxiv.org/abs/2410.13664v3)** | 2026-02-06 | 21 pages, 19 figures |
 | **[Pseudogap, Fermi liquid, Van Hove singularity and maxima of the compressibility and of the Knight shift as a function of doping in the two-dimensional Hubbard model](https://arxiv.org/abs/2602.06298v1)** | 2026-02-06 |  |
 | **[Mobile impurity interacting with a Hubbard chain and the role of Friedel oscillations](https://arxiv.org/abs/2602.06169v1)** | 2026-02-05 | 15 pages, 14 figures |
 | **[Dimensional crossover of bound complexes in a two-species Bose-Hubbard lattice: correlations and dynamics](https://arxiv.org/abs/2602.04741v1)** | 2026-02-04 | 15 pages, 8 figures |
 | **[Spin and Charge Conductivity in the Square Lattice Fermi-Hubbard Model](https://arxiv.org/abs/2602.03771v1)** | 2026-02-03 | 11 pages, 11 figures |
-| **[Resolving Quantum Criticality in the Honeycomb Hubbard Model](https://arxiv.org/abs/2602.03656v1)** | 2026-02-03 | <details><summary>12+20...</summary><p>12+20 pages, 6+16 figures</p></details> |
 | **[Dynamical witnesses and universal behavior across chaos and non-ergodicity in the tilted Bose-Hubbard model](https://arxiv.org/abs/2602.00369v1)** | 2026-01-30 | 12 pages, 11 figure |
 | **[Analysis of self-thermalization dynamics in the Bose-Hubbard model by using the pseudoclassical approach](https://arxiv.org/abs/2601.22553v1)** | 2026-01-30 | 7 pages, 6 figures |
 | **[Emergent Spatial Textures from Interaction Quenches in the Hubbard Model](https://arxiv.org/abs/2601.22053v1)** | 2026-01-29 | 9 pages, 5+4 Figures |
@@ -48,9 +51,6 @@ labels: documentation
 | **[Two-site entanglement in the two-dimensional Hubbard model](https://arxiv.org/abs/2506.09780v2)** | 2026-01-27 | 21 pages, 12 figures |
 | **[SmoQyDQMC.jl: A flexible implementation of determinant quantum Monte Carlo for Hubbard and electron-phonon interactions (version 2.0 release)](https://arxiv.org/abs/2311.09395v4)** | 2026-01-26 |  |
 | **[Toward Scalable Normalizing Flows for the Hubbard Model](https://arxiv.org/abs/2601.18273v1)** | 2026-01-26 | <details><summary>10 pa...</summary><p>10 pages, 5 figues, The 42nd International Symposium on Lattice Field Theory</p></details> |
-| **[Engineering Hubbard models with gated two-dimensional moiré systems](https://arxiv.org/abs/2508.13314v2)** | 2026-01-24 | 13 pages, 13 figures |
-| **[Ionization energy and electron affinity of fullerene C60 in the Hubbard model in the static fluctuation approximation](https://arxiv.org/abs/2601.14817v1)** | 2026-01-21 | 7 |
-| **[Altermagnetic phases and phase transitions in Lieb-$5$ Hubbard model](https://arxiv.org/abs/2601.14200v1)** | 2026-01-20 | <details><summary>9+5 p...</summary><p>9+5 pages; 5+8 figures; Comments are welcome</p></details> |
 
 ## t-J
 | **Title** | **Date** | **Comment** |
@@ -79,6 +79,7 @@ labels: documentation
 ## LaNiO
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Anisotropic Electronic Correlations in the Spin Density Wave State of La$_3$Ni$_2$O$_7$](https://arxiv.org/abs/2602.07998v1)** | 2026-02-08 | 10 pages, 4 figures |
 | **[Spectroscopic Evidence of Competing Diagonal Spin Interactions and Spin Disproportionation in the Bilayer Nickelate La$_3$Ni$_2$O$_7$](https://arxiv.org/abs/2602.05365v1)** | 2026-02-05 | <details><summary>30 pa...</summary><p>30 pages, 14 figures, 2 tables</p></details> |
 | **[Direct Observation of Unidirectional Density Wave and Band splitting in a Single-Domain Trilayer Nickelate Pr$_4$Ni$_3$O$_{10}$](https://arxiv.org/abs/2602.02127v1)** | 2026-02-02 | 10 pages,5 figures |
 | **[Intertwined Charge and Spin Density Waves in Trilayer Nickelate La$_4$Ni$_3$O$_{10}$ Revealed by $^{139}$La NQR](https://arxiv.org/abs/2601.17663v1)** | 2026-01-25 | 18 pages, 5 figures |
@@ -98,11 +99,11 @@ labels: documentation
 | **[Compressive Strain Turns $s^{\pm}$ into $d$-Wave Pairing in One-unit-cell La$_3$Ni$_2$O$_7$ Thin Film Via Substrate-Induced Hole Doping](https://arxiv.org/abs/2512.19520v1)** | 2025-12-22 | 9 pages, 5 figures |
 | **[Theoretical study on the electronic properties and multiorbital models of La$_3$Ni$_2$O$_7$ thin films on SrLaAlO$_4$ (001)](https://arxiv.org/abs/2512.17625v1)** | 2025-12-19 | 18 pages, 6 figures |
 | **[Magnetically Mediated Cross-Layer Pairing in Pressurized Trilayer Nickelate La$_4$Ni$_3$O$_{10}$](https://arxiv.org/abs/2508.06802v2)** | 2025-12-17 | 12 pages, 8 figures |
-| **[Uncovering origins of heterogeneous superconductivity in La$_3$Ni$_2$O$_7$ using quantum sensors](https://arxiv.org/abs/2510.02429v2)** | 2025-12-16 |  |
 
 ## UTe2
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Intimate relationship between spin configuration in the triplet pair and superconductivity in UTe$_2$](https://arxiv.org/abs/2602.08358v1)** | 2026-02-09 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, to be published in Phys. Rev. B</p></details> |
 | **[Vanishing Phase Stiffness and Fluctuation-Dominated Superconductivity: Evidence for Inter-Band Pairing in UTe$_2$](https://arxiv.org/abs/2601.09138v1)** | 2026-01-14 | 7 figures |
 | **[Two-dimensional flat band on the (011) surface of UTe$_2$: Implication for STM measurements with a superconducting tip](https://arxiv.org/abs/2504.16166v2)** | 2026-01-14 | 15 pages |
 | **[Nodal Superconductivity of UTe$_2$ Probed by Field-Angle-Resolved Specific Heat on a Crystal with $T_{\rm c}=2.1$ K](https://arxiv.org/abs/2601.08201v1)** | 2026-01-13 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, accepted for publication in J. Phys. Soc. Jpn</p></details> |
@@ -122,7 +123,6 @@ labels: documentation
 | **[Nodal superconducting gap structure and topological surface states of UTe$_2$](https://arxiv.org/abs/2503.11603v2)** | 2025-09-24 | 15 pages, 9 figures |
 | **[Magnetic penetration depth in topological superconductors: Effect of Majorana surface states and application for UTe$_2$](https://arxiv.org/abs/2509.18441v1)** | 2025-09-22 | 11 pages, 8 figures |
 | **[Quasiparticle Interference of Spin-Triplet Superconductors: Application to UTe$_2$](https://arxiv.org/abs/2505.01404v2)** | 2025-08-08 | 21 pages. 17 figures |
-| **[Slow magnetic quantum oscillations in the c-axis magnetoresistance of UTe$_2$](https://arxiv.org/abs/2503.11525v2)** | 2025-07-10 |  |
 
 ## LC
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,12 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Preventing Barren Plateaus in Continuous Quantum Generative Models](https://arxiv.org/abs/2602.10049v1)** | 2026-02-10 |  |
+| **[Pre-training Tensor-Train Networks Facilitates Machine Learning with Variational Quantum Circuits](https://arxiv.org/abs/2306.03741v5)** | 2026-02-10 | <details><summary>The p...</summary><p>The paper has been accepted by ICASSP 2026</p></details> |
+| **[Nearly tight bounds for testing tree tensor network states](https://arxiv.org/abs/2410.21417v2)** | 2026-02-09 | <details><summary>46 pa...</summary><p>46 pages, 4 figures; v2: typos fixed, Fig. 4 added, minor errors in Sec. 6 corrected</p></details> |
+| **[Tensor network methods for quantum-inspired image processing and classical optics](https://arxiv.org/abs/2510.23089v2)** | 2026-02-08 | paper under review |
+| **[One-dimensional extended Hubbard model coupled with an optical cavity](https://arxiv.org/abs/2505.09311v2)** | 2026-02-08 | <details><summary>14 pa...</summary><p>14 pages, 9 figures. v2: Final version as accepted by Physical Review B</p></details> |
+| **[Statistics-encoded tensor network approach in disordered quantum many-body spin chains](https://arxiv.org/abs/2508.16286v2)** | 2026-02-07 |  |
 | **[On the complexity of estimating ground state entanglement and free energy](https://arxiv.org/abs/2510.06796v2)** | 2026-02-06 | <details><summary>31 pa...</summary><p>31 pages, 1 figure; fixed a small bug and some typos</p></details> |
 | **[Tensor network dynamical message passing for epidemic models](https://arxiv.org/abs/2602.06497v1)** | 2026-02-06 |  |
 | **[Quantum-Inspired Algorithm for Classical Spin Hamiltonians Based on Matrix Product Operators](https://arxiv.org/abs/2602.05224v2)** | 2026-02-06 | <details><summary>15pag...</summary><p>15pages, 3 figures, 1 table</p></details> |
@@ -165,16 +171,17 @@ labels: documentation
 | **[Spiral renormalization group flow and universal entanglement spectrum of the non-Hermitian 5-state Potts model](https://arxiv.org/abs/2507.14732v2)** | 2026-02-04 | 12 pages, 14 figures |
 | **[Characterizing Mott Insulators in the Interacting One-Body Picture](https://arxiv.org/abs/2511.07331v2)** | 2026-02-04 | <details><summary>Submi...</summary><p>Submission to SciPost</p></details> |
 | **[Pre-optimization of quantum circuits, barren plateaus and classical simulability: tensor networks to unlock the variational quantum eigensolver](https://arxiv.org/abs/2602.04676v1)** | 2026-02-04 |  |
-| **[Group-Adapted Irreducible Matrix Units for the Walled Brauer Algebra](https://arxiv.org/abs/2501.13067v2)** | 2026-02-04 | 60 pages, 9 figures |
-| **[Benchmarking Quantum and Classical Algorithms for the 1D Burgers Equation: QTN, HSE, and PINN](https://arxiv.org/abs/2602.04239v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 11 figures, submitted to IEEE CMISI 2026 Conference</p></details> |
-| **[Matrix-product entanglement characterizing the optimality of state-preparation quantum circuits](https://arxiv.org/abs/2507.05989v2)** | 2026-02-04 |  |
-| **[Approximate simulation of complex quantum circuits using sparse tensors](https://arxiv.org/abs/2602.04011v1)** | 2026-02-03 | <details><summary>10 pa...</summary><p>10 pages, 6 figures, Submitted to APL Quantum</p></details> |
-| **[Tensorized orbitals for computational chemistry](https://arxiv.org/abs/2308.03508v3)** | 2026-02-03 | 13 pages, 13 figures |
-| **[Compiling Quantum Regular Language States](https://arxiv.org/abs/2602.02698v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code available at https://github.com/reinisirmejs/RLSComp</p></details> |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Real-space topology and charge order in the Haldane-Holstein Model](https://arxiv.org/abs/2602.09335v1)** | 2026-02-10 |  |
+| **[Arbitrary control of the temporal waveform of photons during spontaneous emission](https://arxiv.org/abs/2511.23462v2)** | 2026-02-09 | 12 pages, 6 figures |
+| **[Resolving Quantum Criticality in the Honeycomb Hubbard Model](https://arxiv.org/abs/2602.03656v2)** | 2026-02-09 | <details><summary>12+20...</summary><p>12+20 pages, 6+16 figures</p></details> |
+| **[Deep learning of spatial densities in inhomogeneous correlated quantum systems](https://arxiv.org/abs/2211.09050v2)** | 2026-02-08 | 7 pages, 3 figures |
+| **[ParaToric 1.0: Continuous-time quantum Monte Carlo for the toric code in a parallel field](https://arxiv.org/abs/2510.14781v2)** | 2026-02-08 | <details><summary>39 pa...</summary><p>39 pages, 4 figures. Live repo: https://github.com/palmbart/ParaToric</p></details> |
+| **[Doubling the size of quantum selected configuration interaction based on seniority-zero space and its application to QC-QSCI-AFQMC](https://arxiv.org/abs/2602.07912v1)** | 2026-02-08 | 8 pages, 5 figures |
+| **[Disorder Suppression of Charge Density Waves in the Honeycomb Holstein Model](https://arxiv.org/abs/2512.01487v3)** | 2026-02-07 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, theoretical study on condensed matter physics (honeycomb lattice Holstein model); no generative AI tools used in research</p></details> |
 | **[Impurity Self-Trapping in Lattice Bose systems](https://arxiv.org/abs/2601.11058v2)** | 2026-02-06 |  |
 | **[Mobile impurity coupled to correlated lattice bosons](https://arxiv.org/abs/2601.11062v2)** | 2026-02-06 |  |
 | **[Fermionic Approach to Elementary Excitations and Magnetization Plateaus in an S=1/2 XX Hybrid Trimer-Dimer Chain](https://arxiv.org/abs/2602.06387v1)** | 2026-02-06 | 20 pages, 8 figures |
@@ -182,17 +189,10 @@ labels: documentation
 | **[On the correlation between entanglement and the negative sign problem](https://arxiv.org/abs/2501.11022v2)** | 2026-02-05 | 5 pages, 2 figures |
 | **[lrux: Fast low-rank updates of determinants and Pfaffians in JAX](https://arxiv.org/abs/2602.05255v1)** | 2026-02-05 |  |
 | **[Detecting underlying symmetry-protected topological phases via strange correlators and edge engineering](https://arxiv.org/abs/2508.04973v2)** | 2026-02-05 | 11 pages, 10 figures |
-| **[Resolving Quantum Criticality in the Honeycomb Hubbard Model](https://arxiv.org/abs/2602.03656v1)** | 2026-02-03 | <details><summary>12+20...</summary><p>12+20 pages, 6+16 figures</p></details> |
 | **[Revealing Short- and Long-range Li-ion diffusion in Li$_2$MnO$_3$ from finite-temperature dynamical mean field theory](https://arxiv.org/abs/2602.02807v1)** | 2026-02-02 | 8 pages, 6 figures |
 | **[Sampling two-dimensional isometric tensor network states](https://arxiv.org/abs/2602.02245v1)** | 2026-02-02 | 24 pages, 5 figures |
 | **[Scalable Quantum Monte Carlo Method for Polariton Chemistry via Mixed Block Sparsity and Tensor Hypercontraction Method](https://arxiv.org/abs/2510.11634v2)** | 2026-02-02 |  |
 | **[Fast Evaluation of Unbiased Atomic Forces in ab initio Variational Monte Carlo via the Lagrangian Technique](https://arxiv.org/abs/2511.05222v2)** | 2026-01-31 | 26 pages, 5 figures |
 | **[Unlocking the Power of Orbital-Free Density Functional Theory to Explore the Electronic Structure Under Extreme Conditions](https://arxiv.org/abs/2601.23002v1)** | 2026-01-30 |  |
 | **[Advanced measurement techniques in quantum Monte Carlo: The permutation matrix representation approach](https://arxiv.org/abs/2504.07295v2)** | 2026-01-29 | <details><summary>publi...</summary><p>published version with minor changes</p></details> |
-| **[A universal black-box quantum Monte Carlo approach to quantum phase transitions](https://arxiv.org/abs/2408.03924v3)** | 2026-01-29 | <details><summary>publi...</summary><p>published version with minor updates</p></details> |
-| **[Two-Point Stabilizer Rényi Entropy: a Computable Magic Proxy of Interacting Fermions](https://arxiv.org/abs/2601.13314v2)** | 2026-01-28 |  |
-| **[High-precision ground state parameters of the two-dimensional spin-1/2 Heisenberg model on the square lattice](https://arxiv.org/abs/2601.20189v1)** | 2026-01-28 | 17 pages, 10 figures |
-| **[Superfluidity in the spin-1/2 XY model with power-law interactions](https://arxiv.org/abs/2601.20058v1)** | 2026-01-27 | 17 pages, 10 figures |
-| **[Observation of emergent scaling of spin-charge correlations at the onset of the pseudogap](https://arxiv.org/abs/2412.17801v2)** | 2026-01-27 | <details><summary>8 + 1...</summary><p>8 + 11 pages, 5 + 10 figures. Accepted version</p></details> |
-| **[Two-site entanglement in the two-dimensional Hubbard model](https://arxiv.org/abs/2506.09780v2)** | 2026-01-27 | 21 pages, 12 figures |
 
