@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - February 15, 2026
+title: Latest 20 Papers - February 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Real-time adaptive tracking of fluctuating relaxation rates in superconducting qubits](https://arxiv.org/abs/2506.09576v2)** | 2026-02-13 | <details><summary>main ...</summary><p>main text 13 pages, 4 figures, plus 22 supplementary pages, 12 supplementary figures</p></details> |
+| **[High-Tc Superconductivity in Functionalized Out-of-Plane Ordered Double Transition Metal MXenes](https://arxiv.org/abs/2602.12960v1)** | 2026-02-13 |  |
+| **[Design and Operation of Wafer-Scale Packages Containing >500 Superconducting Qubits](https://arxiv.org/abs/2602.12773v1)** | 2026-02-13 | <details><summary>12 pa...</summary><p>12 page main text containing 7 figures. 7 page SI with 6 figures</p></details> |
+| **[Introduction to High-Temperature Superconductivity for Solid State Chemists](https://arxiv.org/abs/2602.12608v1)** | 2026-02-13 | <details><summary>81 pa...</summary><p>81 pages, 50 figures, submitted to Progress in Solid State Chemistry</p></details> |
+| **[Reaching the intrinsic performance limits of superconducting strip photon detectors up to 0.1 mm wide](https://arxiv.org/abs/2601.15971v2)** | 2026-02-12 |  |
 | **[Protocols for a many-body phase microscope: From coherences and d-wave superconductivity to Green's functions](https://arxiv.org/abs/2602.12142v1)** | 2026-02-12 | 12 pages, 5 figures |
 | **[Current precision in interacting hybrid Normal-Superconducting systems](https://arxiv.org/abs/2602.06781v2)** | 2026-02-12 | 18 pages, 12 figures |
 | **[Superconductivity in overdoped cuprates can be understood from a BCS perspective!](https://arxiv.org/abs/2510.25767v3)** | 2026-02-12 | 3 figures |
@@ -22,11 +27,6 @@ labels: documentation
 | **[Spatial homogeneity of superconducting order parameter in NbN films grown by atomic layer deposition](https://arxiv.org/abs/2602.10839v1)** | 2026-02-11 | 5 pages, 4 figures |
 | **[Turning non-superconducting elements into superconductors by quantum confinement and proximity](https://arxiv.org/abs/2602.07585v2)** | 2026-02-11 |  |
 | **[Superconductivity in strongly correlated systems for local repulsive interactions](https://arxiv.org/abs/2602.10351v1)** | 2026-02-10 | 8 pages, 7 figures |
-| **[Distilled remote entanglement between superconducting qubits across optical channels](https://arxiv.org/abs/2503.10842v2)** | 2026-02-10 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table, APS March Meeting Conference, SPIE Photonics West</p></details> |
-| **[Simulating superconductivity in mixed-dimensional $t_\parallel$-${J}_\parallel$-${J}_\perp$ bilayers with neural quantum states](https://arxiv.org/abs/2602.10091v1)** | 2026-02-10 | <details><summary>7 pag...</summary><p>7 pages + Supplementary Materials</p></details> |
-| **[Magneto-optical study of Nb thin films for superconducting qubits](https://arxiv.org/abs/2602.10010v1)** | 2026-02-10 |  |
-| **[Superconducting Dome in $\mathrm{La}_{3-x}\mathrm{Sr}_{x}\mathrm{Ni}_{2}\mathrm{O}_{7-δ}$ Thin Films](https://arxiv.org/abs/2508.15284v2)** | 2026-02-10 | 33 pages, 15 figures |
-| **[Pressure dependent topological, superconducting, optoelectronic and thermophysical properties of Ta2Se chalcogenide: Theoretical insights](https://arxiv.org/abs/2602.09727v1)** | 2026-02-10 |  |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,9 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deconfinement from Thermal Tensor Networks: Universal CFT signature in (2+1)-dimensional $\mathbb{Z}_N$ lattice gauge theory](https://arxiv.org/abs/2602.13124v1)** | 2026-02-13 |  |
+| **[Quantum-inspired space-time PDE solver and dynamic mode decomposition](https://arxiv.org/abs/2510.21767v2)** | 2026-02-13 | 21 pages, 7 figures |
+| **[Boundary mutual information in double holography](https://arxiv.org/abs/2602.12627v1)** | 2026-02-13 |  |
 | **[Remarks on non-invertible symmetries on a tensor product Hilbert space in 1+1 dimensions](https://arxiv.org/abs/2602.12053v1)** | 2026-02-12 | 68 pages |
 | **[Thermodynamics of Shastry-Sutherland Model under Magnetic Field](https://arxiv.org/abs/2602.11589v1)** | 2026-02-12 | 8 pages, 6 figures |
 | **[Successive randomized compression: A randomized algorithm for the compressed MPO-MPS product](https://arxiv.org/abs/2504.06475v2)** | 2026-02-11 | 29 pages, 5 figures |
@@ -168,13 +171,13 @@ labels: documentation
 | **[Quantum Error Mitigation at the pre-processing stage](https://arxiv.org/abs/2602.05916v1)** | 2026-02-05 | 20 pages, 10 figures |
 | **[Spontaneous Parity Breaking in Quantum Antiferromagnets on the Triangular Lattice](https://arxiv.org/abs/2602.05901v1)** | 2026-02-05 | 6 pages, 3 figures |
 | **[Reducing the Computational Cost Scaling of Tensor Network Algorithms via Field-Programmable Gate Array Parallelism](https://arxiv.org/abs/2602.05900v1)** | 2026-02-05 | 8 pages, 5 figures |
-| **[A quantum eigenvalue solver based on tensor networks](https://arxiv.org/abs/2404.10223v3)** | 2026-02-05 | 29 pages, 15 figures |
-| **[Branch-and-Bound Tensor Networks for Exact Ground-State Characterization](https://arxiv.org/abs/2602.05470v1)** | 2026-02-05 |  |
-| **[On the correlation between entanglement and the negative sign problem](https://arxiv.org/abs/2501.11022v2)** | 2026-02-05 | 5 pages, 2 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nuclear gradients from auxiliary-field quantum Monte Carlo and their application in geometry optimization and transition state search](https://arxiv.org/abs/2602.13187v1)** | 2026-02-13 |  |
+| **[Coupled dimerized alternating-bond quantum spin chains in the distorted honeycomb-lattice magnet Cu$_5$SbO$_6$](https://arxiv.org/abs/2511.05037v2)** | 2026-02-13 | 17 pages, 8 figures |
+| **[Strain-enhanced edge ferromagnetism and bipolar magnetic semiconducting behavior in Janus graphene nanoribbons](https://arxiv.org/abs/2602.12582v1)** | 2026-02-13 | <details><summary>Accep...</summary><p>Accepted for publication in publication in Physical Review B</p></details> |
 | **[Phaseless auxiliary-field quantum Monte Carlo method with spin-orbit coupling](https://arxiv.org/abs/2602.11866v1)** | 2026-02-12 | <details><summary>12 pa...</summary><p>12 pages, 3 figures, 1 Table</p></details> |
 | **[Gaussian Expansion Method for few-body states in two-dimensional materials](https://arxiv.org/abs/2602.11386v1)** | 2026-02-11 | <details><summary>16 pa...</summary><p>16 pages, 7 figures, Supplementary material (6 pages) included</p></details> |
 | **[Generalizing Deconfined Criticality to 3D $N$-Flavor $\mathrm{SU}(2)$ Quantum Chromodynamics on the Fuzzy Sphere](https://arxiv.org/abs/2602.11255v1)** | 2026-02-11 | 11 pages, 7 figures |
@@ -192,7 +195,4 @@ labels: documentation
 | **[A steady-state study of the nonequilibrium properties of realistic materials: Application of the mixed-configuration approximation](https://arxiv.org/abs/2602.05664v1)** | 2026-02-05 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, comments are welcome</p></details> |
 | **[On the correlation between entanglement and the negative sign problem](https://arxiv.org/abs/2501.11022v2)** | 2026-02-05 | 5 pages, 2 figures |
 | **[lrux: Fast low-rank updates of determinants and Pfaffians in JAX](https://arxiv.org/abs/2602.05255v1)** | 2026-02-05 |  |
-| **[Detecting underlying symmetry-protected topological phases via strange correlators and edge engineering](https://arxiv.org/abs/2508.04973v2)** | 2026-02-05 | 11 pages, 10 figures |
-| **[Revealing Short- and Long-range Li-ion diffusion in Li$_2$MnO$_3$ from finite-temperature dynamical mean field theory](https://arxiv.org/abs/2602.02807v1)** | 2026-02-02 | 8 pages, 6 figures |
-| **[Sampling two-dimensional isometric tensor network states](https://arxiv.org/abs/2602.02245v1)** | 2026-02-02 | 24 pages, 5 figures |
 
