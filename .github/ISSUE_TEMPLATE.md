@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - April 30, 2026
+title: Latest 20 Papers - May 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,26 +7,26 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancement of superconducting stiffness in hybrid superconducting-metallic bilayers](https://arxiv.org/abs/2604.28187v1)** | 2026-04-30 | 11 pages, 6 figures |
+| **[Flux-trapping characterization for superconducting electronics using a cryogenic widefield N-$V$ diamond microscope](https://arxiv.org/abs/2506.01906v3)** | 2026-04-30 | <details><summary>9 pag...</summary><p>9 pages main text (5 figures), 7 pages supplementary information (5 figures)</p></details> |
+| **[Strong coupling between quantized magnon modes in a YIG microstucture and microwaves in a superconducting resonator](https://arxiv.org/abs/2604.28145v1)** | 2026-04-30 |  |
+| **[Programmable superconducting diode from nematic domain control in FeSe](https://arxiv.org/abs/2604.26631v2)** | 2026-04-30 | <details><summary>12 pa...</summary><p>12 pages, 4 main figures, 16 extended data</p></details> |
+| **[Local probing of superconductivity at oxide interfaces with atomic force microscopy](https://arxiv.org/abs/2604.28077v1)** | 2026-04-30 |  |
+| **[Unusual critical currents in quasi-one-dimensional superconducting aluminum two-width structures in a magnetic field](https://arxiv.org/abs/2604.27881v1)** | 2026-04-30 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, 7 tables</p></details> |
+| **[Shift of the maxima of the critical currents of different polarity relative to the zero magnetic flux along the flux axis in a superconducting asymmetric aluminum ring](https://arxiv.org/abs/2604.27848v1)** | 2026-04-30 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 2 tables</p></details> |
+| **[Critical temperatures and critical currents of wide and narrow quasi-one-dimensional superconducting aluminum structures in zero magnetic field](https://arxiv.org/abs/2604.27822v1)** | 2026-04-30 | 8 pages, 4 figures |
+| **[Chern number reversal and emergent superconductivity in rhombohedral graphene induced by in-plane magnetic fields](https://arxiv.org/abs/2604.27788v1)** | 2026-04-30 |  |
+| **[Spin responses of a disordered helical superconducting edge under Zeeman field](https://arxiv.org/abs/2511.04263v3)** | 2026-04-30 | 22 pages, 8 figures |
+| **[Magnetic Quantum Criticality inside the Superconducting State Revealed by Penetration Depth Scaling with Local $T_{\mathrm c}$](https://arxiv.org/abs/2604.27507v1)** | 2026-04-30 | 11 pages, 9 figures |
+| **[Superconductivity-Enabled Conversion of Ferromagnetic Resonance into Standing Spin Waves](https://arxiv.org/abs/2604.27076v1)** | 2026-04-29 |  |
 | **[Non-local Tunneling Spectroscopy of Inelastic Quasiparticle Relaxation in Superconducting 1-D Wires](https://arxiv.org/abs/2604.26862v1)** | 2026-04-29 | 13 pages, 15 figures |
 | **[Engineering superconductivity on the surface of Weyl semimetals](https://arxiv.org/abs/2604.26859v1)** | 2026-04-29 | 8 pages, 8 figures |
 | **[Negative nonlocal and local voltages (resistances) in a quasi-one-dimensional superconducting aluminum structure](https://arxiv.org/abs/2604.26814v1)** | 2026-04-29 | 11 figures |
-| **[Programmable superconducting diode from nematic domain control in FeS](https://arxiv.org/abs/2604.26631v1)** | 2026-04-29 | <details><summary>12 pa...</summary><p>12 pages, 4 main figures, 16 extended data</p></details> |
 | **[Spatially anisotropic Kondo resonance coupled with the superconducting gap in a kagome metal](https://arxiv.org/abs/2502.20735v3)** | 2026-04-29 |  |
 | **[From Wavefunction Collapse to Superconductivity: Evolution of the Electronic State in Compressed GaNb4Se8](https://arxiv.org/abs/2604.26203v1)** | 2026-04-29 |  |
 | **[Thermodynamic Identification of the Internal Superconducting Phase Boundary in UTe$_2$ for $H \parallel b$](https://arxiv.org/abs/2604.25896v1)** | 2026-04-28 | 6 pages, 3 figures |
 | **[Bragg-Williams order competes with superconductivity](https://arxiv.org/abs/2604.25843v1)** | 2026-04-28 | 16 pages, 14 figures |
 | **[Theoretical study on ambient pressure superconductivity in La$_3$Ni$_2$O$_7$ thin films : structural analysis, model construction, and robustness of $s\pm$-wave pairing](https://arxiv.org/abs/2506.20497v3)** | 2026-04-28 | 15 pages, 10 figures |
-| **[Mutual Inductance Sensing SQUID: Cryogenic microcalorimeter based on mutual inductance readout of superconducting temperature sensors](https://arxiv.org/abs/2602.07917v2)** | 2026-04-28 | <details><summary>submi...</summary><p>submitted to Applied Physics Letters</p></details> |
-| **[Elucidating mechanism of optical cavities in superconducting strip single photon detectors using transmission line and impedance models](https://arxiv.org/abs/2604.25425v1)** | 2026-04-28 | 15 pages, 4 figures |
-| **[Extended Hubbard model on fractals: d-Wave superconductivity and competing pairing channels](https://arxiv.org/abs/2603.17362v2)** | 2026-04-28 |  |
-| **[Millikelvin digital-to-analog converter for superconducting quantum processors](https://arxiv.org/abs/2604.25303v1)** | 2026-04-28 |  |
-| **[High-field magneto-optical imaging of superconducting critical states beyond 10 T using a paramagnetic garnet sensor](https://arxiv.org/abs/2604.25274v1)** | 2026-04-28 | 21pages,5figures |
-| **[Data-Driven Hamiltonian Reduction for Superconducting Qubits via Meta-Learning](https://arxiv.org/abs/2604.24912v1)** | 2026-04-27 |  |
-| **[Suppression of Superconductivity and Electrostatic Side Gate Tuning in High Mobility SrTiO$_3$ Surface Electron Gas](https://arxiv.org/abs/2603.22205v2)** | 2026-04-27 |  |
-| **[Experimental high-dimensional multi-qubit Bell non-locality on a superconducting quantum processor](https://arxiv.org/abs/2604.24740v1)** | 2026-04-27 | 12 pages, 5 figures |
-| **[Cosine bands, flat bands and superconductivity in orthorhombic iron selenide](https://arxiv.org/abs/2604.24298v1)** | 2026-04-27 | <details><summary>31 pa...</summary><p>31 pages, 1 Table and 8 Figures</p></details> |
-| **[Third Quantization for Order Parameters (II): Local Field Quantization in Superconducting Quantum Circuits](https://arxiv.org/abs/2604.24092v1)** | 2026-04-27 |  |
-| **[Kinetic instability and superconductivity in Li$_2$AuH$_6$ and Li$_2$AgH$_6$ at ambient pressure](https://arxiv.org/abs/2604.12367v2)** | 2026-04-26 | 7 pages, 4 figures |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -151,7 +151,11 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Neural and Tensor Networks in the Study of Quantum Annealing Processors](https://arxiv.org/abs/2604.26534v1)** | 2026-04-29 |  |
+| **[Neural and Tensor Networks in the Study of Quantum Annealing Processors](https://arxiv.org/abs/2604.26534v2)** | 2026-04-30 |  |
+| **[Prime Factorization Equation from a Tensor Network Perspective](https://arxiv.org/abs/2508.00907v2)** | 2026-04-30 | <details><summary>17 pa...</summary><p>17 pages, 12 figures, improved version with new demonstrations and better computational complexities</p></details> |
+| **[Nonadiabatic Renormalization Group for Strongly Coupled Multiscale Quantum Systems](https://arxiv.org/abs/2604.27381v1)** | 2026-04-30 |  |
+| **[Learning transitions in classical Ising models and deformed toric codes](https://arxiv.org/abs/2504.12385v3)** | 2026-04-30 |  |
+| **[Long-lived local quantum coherences from hydrodynamic large deviations](https://arxiv.org/abs/2604.27074v1)** | 2026-04-29 | 50 pages, 13 figures |
 | **[Task Scheduling Optimization with Direct Constraints from a Tensor Network Perspective](https://arxiv.org/abs/2311.10433v4)** | 2026-04-28 | <details><summary>15 pa...</summary><p>15 pages, 15 figures, improved version, with better theorem demonstrations</p></details> |
 | **[Quantum-Inspired Robust and Scalable SAR Object Classification](https://arxiv.org/abs/2604.25755v1)** | 2026-04-28 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, EUSAR 2026 conference</p></details> |
 | **[Bond-dimension scaling of a local-refinement advantage over hyperoptimized tensor-network contraction on Sycamore like topologies](https://arxiv.org/abs/2604.25532v1)** | 2026-04-28 | 18 pages, 9 figures |
@@ -167,10 +171,6 @@ labels: documentation
 | **[Coherence dynamics in quantum many-body systems with conservation laws](https://arxiv.org/abs/2604.23192v1)** | 2026-04-25 | 36 pages, 13 figures |
 | **[Replica Tensor Train](https://arxiv.org/abs/2604.22718v1)** | 2026-04-24 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 1 table</p></details> |
 | **[Dispersion Relations in Two- and Three-Dimensional Quantum Systems](https://arxiv.org/abs/2509.15483v2)** | 2026-04-23 | 7 pages, 5 figures |
-| **[Tensor Network Estimation of Distribution Algorithms](https://arxiv.org/abs/2412.19780v2)** | 2026-04-23 |  |
-| **[Algorithmic Locality via Provable Convergence in Quantum Tensor Networks](https://arxiv.org/abs/2604.21919v1)** | 2026-04-23 | <details><summary>5.5 p...</summary><p>5.5 pages main text + SM; comments welcome</p></details> |
-| **[Efficient Classical Simulation of Heuristic Peaked Quantum Circuits](https://arxiv.org/abs/2604.21908v1)** | 2026-04-23 |  |
-| **[Hyper-optimized Quantum Lego Contraction Schedules](https://arxiv.org/abs/2510.08210v4)** | 2026-04-23 |  |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
