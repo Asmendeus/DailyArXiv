@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - July 09, 2026
+title: Latest 20 Papers - July 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thermodynamic Discovery of Tetracriticality and Emergent Multicomponent Superconductivity in UTe$_2$](https://arxiv.org/abs/2603.17905v2)** | 2026-07-09 |  |
+| **[Layer-resolved Electronic Structure and Correlation of Low-$n$ Square-planar Nickelates: A DFT+DMFT Prediction of Superconducting Candidates](https://arxiv.org/abs/2607.08474v1)** | 2026-07-09 | <details><summary>8 pag...</summary><p>8 pages, 6 figures, 2 tables</p></details> |
+| **[Superconducting Diode Effect in Weak Localization Regime](https://arxiv.org/abs/2507.21897v3)** | 2026-07-09 | <details><summary>7+14 ...</summary><p>7+14 pages, 6 figures, To be published in Physical Review B</p></details> |
+| **[Readout-Induced Leakage in Superconducting Circuits with Nonlinear Couplings](https://arxiv.org/abs/2606.16055v2)** | 2026-07-08 | 23 pages, 11 figures |
 | **[Pressure-induced Structural Phase Transition, Metallization, and Superconductivity in layered metalloid dichalcogenide 1T-SiTe$_2$](https://arxiv.org/abs/2607.07569v1)** | 2026-07-08 | <details><summary>26 pa...</summary><p>26 pages total; 21 pages of main text with 5 figures, 5 pages of SI with 7 figures</p></details> |
 | **[Stripe antiferromagnetism and chiral superconductivity in tWSe$_2$](https://arxiv.org/abs/2601.20836v2)** | 2026-07-08 | 11 pages, 5 figures |
 | **[Kohn-Luttinger Superconductivity of Weyl Fermi Arcs in PtBi$_2$](https://arxiv.org/abs/2605.31501v2)** | 2026-07-08 | <details><summary>9+20 ...</summary><p>9+20 pages, 4+12 figures</p></details> |
@@ -23,10 +27,6 @@ labels: documentation
 | **[Effect of charge-imbalance potential relaxation on the high-frequency vortex dynamics and kinetic inductance of superconducting circuits](https://arxiv.org/abs/2607.06390v1)** | 2026-07-07 | 10 pages, 1 figure |
 | **[From Valley Filtering to Superconducting Diode Effect in Spin-Orbit Coupled Graphene Junctions](https://arxiv.org/abs/2607.06303v1)** | 2026-07-07 | 20 pages, 14 figures |
 | **[Superconductivity from phonon-mediated retardation in a single-flavor metal](https://arxiv.org/abs/2512.23790v2)** | 2026-07-07 | <details><summary>6+6 p...</summary><p>6+6 pages, 4+2 figures; published version</p></details> |
-| **[Superconducting order parameter in aperiodic binary systems](https://arxiv.org/abs/2507.14671v2)** | 2026-07-07 | <details><summary>21 pa...</summary><p>21 pages, 21 figures; Published version</p></details> |
-| **[Microscopic theory of the lower critical field in superconducting thin-film strips](https://arxiv.org/abs/2607.05890v1)** | 2026-07-07 | 4 pages, 2 figures |
-| **[Magnon-Mediated Superconductivity in a 2D Itinerant Ferromagnet with Weak Easy-plane Magnetic Anisotropy](https://arxiv.org/abs/2607.05754v1)** | 2026-07-07 | <details><summary>10+5 ...</summary><p>10+5 pages, 6 figures</p></details> |
-| **[Superconducting Spiral Inductors for RF Reflectometry: Operation at Elevated Temperatures and Magnetic Fields](https://arxiv.org/abs/2607.00172v2)** | 2026-07-06 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, includes main manuscript and appendices</p></details> |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -103,6 +103,7 @@ labels: documentation
 ## UTe2
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Thermodynamic Discovery of Tetracriticality and Emergent Multicomponent Superconductivity in UTe$_2$](https://arxiv.org/abs/2603.17905v2)** | 2026-07-09 |  |
 | **[Unusual upper critical field in UTe2 revealed by magnetotransport measurements up to 42 T](https://arxiv.org/abs/2606.28904v1)** | 2026-06-27 | 8 pages, 8 figures |
 | **[Evidence of intertwined pair density and charge density wave orders in UTe2](https://arxiv.org/abs/2603.08688v2)** | 2026-06-25 | <details><summary>Accep...</summary><p>Accepted for publication in PNAS</p></details> |
 | **[Reentrant superconductivity enabled by spin-orbit coupling: Application to UTe$_2$](https://arxiv.org/abs/2606.23638v1)** | 2026-06-22 | 9 pages, 3 figures |
@@ -113,7 +114,6 @@ labels: documentation
 | **[Topological surface states revealed by the Zeeman effect in superconducting UTe2](https://arxiv.org/abs/2604.04883v1)** | 2026-04-06 | <details><summary>Main ...</summary><p>Main text: 17 pages, 5 figures; Supplementary Information: 12 pages, 9 figures</p></details> |
 | **[Quantitative thermodynamic study of superconducting and normal states in UTe2 under pressure](https://arxiv.org/abs/2603.29760v1)** | 2026-03-31 |  |
 | **[Magnetic-field-tunable commensurate multi-q charge orders on UTe2 (011) surface](https://arxiv.org/abs/2603.27211v1)** | 2026-03-28 | 25 pages, 15 figures |
-| **[Thermodynamic Discovery of Tetracriticality and Emergent Multicomponent Superconductivity in UTe$_2$](https://arxiv.org/abs/2603.17905v1)** | 2026-03-18 |  |
 | **[Electron-Hole Scattering Dichotomy and Anisotropic Warping in Quasi-Two-Dimensional Fermi Surfaces of UTe2](https://arxiv.org/abs/2603.17710v1)** | 2026-03-18 | 21 pages, 4 figures |
 | **[Field-direction sensitivity of Kondo hybridization in UTe$_2$](https://arxiv.org/abs/2603.17037v1)** | 2026-03-17 | 12 pages, 12 figures |
 | **[Directional Manipulation of a Staggered Charge Density Wave and Kondo Resonance in UTe2](https://arxiv.org/abs/2603.12097v1)** | 2026-03-12 | 40 pages, 15 figures |
@@ -127,6 +127,8 @@ labels: documentation
 ## LC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Influence of electronic correlations on disorder-induced loop currents in high-Tc superconductors](https://arxiv.org/abs/2607.08451v1)** | 2026-07-09 | 11 pages, 14 figures |
+| **[Parity Anomaly of Preformed Pairs Governs the Thermal Hall Effect above $T_c$](https://arxiv.org/abs/2607.07807v1)** | 2026-07-08 | 15 pages, 3 figures |
 | **[Orbital current signature using neutron diffraction](https://arxiv.org/abs/2602.17311v2)** | 2026-06-29 | <details><summary>revie...</summary><p>review article, 6 figures, submitted to Int. Journal of Modern Physics B, special issue 'Chiral Orbital Order in Quantum Materials' International Journal of Modern Physics B, page 2640023, (2026)</p></details> |
 | **[Phase-sensitive evidence for pair density waves in a kagome superconductor](https://arxiv.org/abs/2510.10958v3)** | 2026-06-29 | <details><summary>15 pa...</summary><p>15 pages, 5 figures; Supplementary Material included; updated to match the published version</p></details> |
 | **[NMR evidence for a loop-current state with broken $C_6$ symmetry in the charge-ordered CsV$_3$Sb$_5$](https://arxiv.org/abs/2606.25251v1)** | 2026-06-24 | 19 pages, 7 figures |
@@ -145,12 +147,13 @@ labels: documentation
 | **[Tunable Odd-Parity Spin Splittings in Altermagnets](https://arxiv.org/abs/2605.03026v1)** | 2026-05-04 |  |
 | **[Nonreciprocal superconducting critical currents with normal state field trainability in kagome superconductor CsV3Sb5](https://arxiv.org/abs/2506.04601v2)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted by Nature Communications</p></details> |
 | **[Origin of switchable quasiparticle-interference chirality in loop-current phase of kagome metals measured by scanning-tunneling-microscopy](https://arxiv.org/abs/2503.07015v2)** | 2026-05-01 | 11 pages, 9 figures |
-| **[Hopf symmetry protected topological phases in the vicinity of spin orders](https://arxiv.org/abs/2510.01738v2)** | 2026-04-27 | 17 pages, 5 figures |
-| **[Time-reversal symmetry breaking superconductivity in the presence of loop-current fluctuations](https://arxiv.org/abs/2510.19313v2)** | 2026-04-24 | <details><summary>MAIN ...</summary><p>MAIN TEXT: 8 pages, 5 figures; SUPPLEMENTARY MATERIALS(attached in the end): 4 pages, 5 figures</p></details> |
 
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Efficiently simulable quantum circuits with large entanglement, magic, and non-Gaussianity via code-compiled tensor networks](https://arxiv.org/abs/2607.08396v1)** | 2026-07-09 | 23 pages, 9 figures |
+| **[Efficient Pauli-decomposition and multistage state-refinement for tensor network based differential equation solver](https://arxiv.org/abs/2607.08166v1)** | 2026-07-09 |  |
+| **[Multi-agent Autoformalization of Tensor Network Theory](https://arxiv.org/abs/2607.07857v1)** | 2026-07-08 | <details><summary>5+2+3...</summary><p>5+2+33 pages; 3+3+11 figures; 6 tables; An accompanying blueprint document is available at https://lionsr.github.io/TNLean/blueprint-ch01-12.pdf</p></details> |
 | **[Quantum max-flow in the bridge graph](https://arxiv.org/abs/2212.09794v2)** | 2026-07-08 | <details><summary>27 pa...</summary><p>27 pages, final version</p></details> |
 | **[Tensor network solvers for ultra-large tight-binding Hamiltonians: algorithms and applications](https://arxiv.org/abs/2607.00991v2)** | 2026-07-08 |  |
 | **[Scaling and Luescher Term in a non-Abelian (2+1)d SU$(2)$ Quantum Link Model](https://arxiv.org/abs/2602.23213v3)** | 2026-07-06 | <details><summary>v3: m...</summary><p>v3: minor revisions to match published version</p></details> |
@@ -168,9 +171,6 @@ labels: documentation
 | **[When AI meets quantum information: A comprehensive review](https://arxiv.org/abs/2607.00365v1)** | 2026-07-01 | 62 pages, 4 figures |
 | **[Improved time-translationally invariant tensor network influence functional method for Anderson impurity problems](https://arxiv.org/abs/2510.11459v2)** | 2026-06-30 | 15 pages, 5 figures |
 | **[Complementary quantum and classical records of qubit decoherence](https://arxiv.org/abs/2605.15882v2)** | 2026-06-30 | <details><summary>16 pa...</summary><p>16 pages, 12 figures, 2 tables. Corresponding author: Jun-ichi Shirakashi</p></details> |
-| **[Practical Estimation of Trotter Error for Hamiltonian Simulation](https://arxiv.org/abs/2606.30738v1)** | 2026-06-29 |  |
-| **[Heat rectification through a quantum two-level system](https://arxiv.org/abs/2606.30465v1)** | 2026-06-29 | 15 pages, 8 figures |
-| **[Odd Toric Code in a tilted field: Higgs-confinement multicriticality, spontaneous self-duality symmetry breaking, and valence bond solids](https://arxiv.org/abs/2507.16523v2)** | 2026-06-29 | 15 pages, 15 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
