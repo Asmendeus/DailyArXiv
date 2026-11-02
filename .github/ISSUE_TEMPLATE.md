@@ -1,5 +1,5 @@
 ---
-title: Latest 20 Papers - November 01, 2026
+title: Latest 20 Papers - November 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/Asmendeus/DailyArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Superconductivity
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Millimeter Wave Readout of a Superconducting Qubit](https://arxiv.org/abs/2603.13837v2)** | 2026-10-30 | <details><summary>5 pag...</summary><p>5 pages, 4 figures in main text. 10 pages, 11 figures, 1 table in supplemental materials</p></details> |
+| **[Superconductivity in doped spin multimer systems](https://arxiv.org/abs/2605.22128v3)** | 2026-10-30 | <details><summary>19 pa...</summary><p>19 pages, 9 figures, 3 tables</p></details> |
+| **[Creating functional nanostructures for vortex manipulation in superconducting Bi$_\text{2}$Sr$_\text{2}$CaCu$_\text{2}$O$_\text{8+x}$ thin films via focused He ion beam irradiation](https://arxiv.org/abs/2610.41827v1)** | 2026-10-30 | 11 pages, 7 figures |
+| **[$h/2e$ Flux Trapping without Superconductivity](https://arxiv.org/abs/2610.41058v1)** | 2026-10-29 | 37 pages, 7 figures |
+| **[Preparation of a Laughlin-like fractional Chern insulator on a superconducting quantum processor](https://arxiv.org/abs/2610.41017v1)** | 2026-10-29 | 13 pages, 7 figures |
 | **[Light-Cone Friedel Oscillations: a Window into van Hove Superconductivity](https://arxiv.org/abs/2610.40648v1)** | 2026-10-29 |  |
 | **[Entanglement diagnostics of stochastic-resetting steady states: theory and measurement on superconducting qubits](https://arxiv.org/abs/2610.40638v1)** | 2026-10-29 | <details><summary>21 pa...</summary><p>21 pages (including appendices), 7 figures</p></details> |
 | **[Chiral $p$-Wave Superconductivity Proximate to a Fractional Chern Insulator and a Topological Charge Density Wave in a Moiré Chern Band](https://arxiv.org/abs/2610.40469v1)** | 2026-10-29 | 6 pages, 4 figures |
@@ -22,11 +27,6 @@ labels: documentation
 | **[Tailoring the properties of YBa$_{2}$Cu$_{3}$O$_{7-δ}$ thin films by 30-keV He$^+$ irradiation: An enabling route to superconducting device nanopatterning](https://arxiv.org/abs/2606.14588v2)** | 2026-10-29 | <details><summary>16 pa...</summary><p>16 pages, 6 figures, 1 table</p></details> |
 | **[Thermalization-Controlled Superconducting Diode-Like Transport in Disordered Molybdenum and NbN Thin Films](https://arxiv.org/abs/2610.39523v1)** | 2026-10-29 |  |
 | **[Coexistence of superconductivity and magnetic order in BaFe$_2$S$_3$: evidence for orbital-selective delocalization](https://arxiv.org/abs/2610.38966v1)** | 2026-10-28 |  |
-| **[A First-Order Phase Transition in Spin-Imbalanced BCS Theory of Superconductivity](https://arxiv.org/abs/2610.38961v1)** | 2026-10-28 | 34 pages, 2 figures |
-| **[Separating the Density Wave Phase from Zero-Resistance Superconductivity in La$_4$Ni$_3$O$_{10}$](https://arxiv.org/abs/2610.38959v1)** | 2026-10-28 |  |
-| **[Phonon down-conversion by normal metals for superconducting devices](https://arxiv.org/abs/2607.13870v2)** | 2026-10-28 | 20 pages, 8 figures |
-| **[Quantum Gate Engineering in Superconducting NISQ Platforms: Experimental Methods and Emerging Directions](https://arxiv.org/abs/2610.38635v1)** | 2026-10-28 | 41 pages, 25 figures |
-| **[Excitonic-Superconducting Coexistence and Emergent Nematic Superconductivity Driven by Spontaneous Symmetry Breaking](https://arxiv.org/abs/2606.01785v3)** | 2026-10-28 |  |
 
 ## Hubbard
 | **Title** | **Date** | **Comment** |
@@ -151,6 +151,12 @@ labels: documentation
 ## Tensor Network
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tensor-Network Inference in a Field-Coupled XY Model for Portfolio Allocation](https://arxiv.org/abs/2609.05045v2)** | 2026-10-30 | <details><summary>52 pa...</summary><p>52 pages, 10 figures, 5 tables</p></details> |
+| **[Suzuki-Trotter Decompositions and other Methods for Quantum Time Evolution](https://arxiv.org/abs/2609.19184v2)** | 2026-10-30 | <details><summary>33 + ...</summary><p>33 + 12 pages, 6 figures, 4 tables; v2: corrected typos, added references; topical review, comments welcome!</p></details> |
+| **[Constant-Per-Layer-Depth MPS-Pretrained Ansatz for Noisy Distributed Quantum Processors](https://arxiv.org/abs/2610.01099v2)** | 2026-10-30 | <details><summary>24 pa...</summary><p>24 pages, 8 figures; Supplementary Information (22 pages) appended</p></details> |
+| **[Frustration-Induced $1/6$-Vortex-Paired Phase in a Kagome XY Model](https://arxiv.org/abs/2610.41161v1)** | 2026-10-30 | <details><summary>16 pa...</summary><p>16 pages, 11 figures, including Supplemental Material</p></details> |
+| **[A Universal Approach to Hydrodynamics in Higher Dimensions via Tensor Networks](https://arxiv.org/abs/2610.40776v1)** | 2026-10-29 | <details><summary>4.5 p...</summary><p>4.5 pages, 4 figures; 2 pages, 1 figure; 4 pages, 4 figures</p></details> |
+| **[Gapless and Non-Equilibrium Topology in Blockaded Ladders](https://arxiv.org/abs/2610.40771v1)** | 2026-10-29 | 5+8 pages; 5 figures |
 | **[Classical Simulation and Design Frontiers for IBM's Doped Clifford Sampling Experiment](https://arxiv.org/abs/2608.13110v2)** | 2026-10-29 | 25 pages, 12 figures |
 | **[Spontaneous Parity Breaking in Quantum Antiferromagnets on the Triangular Lattice](https://arxiv.org/abs/2602.05901v3)** | 2026-10-29 | <details><summary>8+14 ...</summary><p>8+14 pages, 6+9 figures</p></details> |
 | **[Reducing the Computational Cost Scaling of Tensor Network Algorithms via Field-Programmable Gate Array Parallelism](https://arxiv.org/abs/2602.05900v2)** | 2026-10-29 | 9 pages, 5 figures |
@@ -165,16 +171,12 @@ labels: documentation
 | **[Tensor-network simulation of quantum phase estimation in the von Neumann measurement formulation with DMRG-prepared initial states](https://arxiv.org/abs/2407.19348v3)** | 2026-10-27 |  |
 | **[The TEMPO network can be made independent of the system size](https://arxiv.org/abs/2610.37012v1)** | 2026-10-27 |  |
 | **[Utilizing Partitioning for Distributed Tensor Network Contraction](https://arxiv.org/abs/2507.20667v2)** | 2026-10-27 | 22 pages, 10 figures |
-| **[Physics-Constrained Conditional Generative Learning for Quantum State and Process Tomography](https://arxiv.org/abs/2608.28035v2)** | 2026-10-27 | 6 figures |
-| **[Extreme competition between stripes and superconductivity in the hole-doped Hubbard model](https://arxiv.org/abs/2610.30321v2)** | 2026-10-26 | 33 pages, 25 figures |
-| **[Quantum circuit simulation with high-order optical tensor processing](https://arxiv.org/abs/2610.36172v1)** | 2026-10-26 | 17 pages, 4 figures |
-| **[Twirled Perfect Tensor Networks: Computationally covariant holographic tensor networks](https://arxiv.org/abs/2605.23670v3)** | 2026-10-26 | <details><summary>50 pa...</summary><p>50 pages + appendices. Watch at 5-minute video abstract at https://youtu.be/AX-cSk-iI6o. v3: corrected an estimate, added clarifications</p></details> |
-| **[Comparing classical and quantum QUBO solvers: optimality, trajectory diagnostics, and limits of solver selection](https://arxiv.org/abs/2610.35126v1)** | 2026-10-26 |  |
-| **[QwaveMPS: An efficient open-source Python package for simulating non-Markovian waveguide-QED using matrix product states](https://arxiv.org/abs/2602.15826v3)** | 2026-10-25 | 29 pages, 14 figures |
 
 ## QMC
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Quantum Monte Carlo for Sovereign Debt Risk: A proof of concept](https://arxiv.org/abs/2610.41831v1)** | 2026-10-30 |  |
+| **[Quantum Monte-Carlo study of spin-valley ferromagnetism in rhombohedral graphene](https://arxiv.org/abs/2610.40864v1)** | 2026-10-29 | <details><summary>6 pag...</summary><p>6 pages, 5 figures, plus 8 pages of appendices with 4 figures. Comments are welcome</p></details> |
 | **[Same-spin correlation screens the exchange peak of the electron gas near 2kF](https://arxiv.org/abs/2610.35896v2)** | 2026-10-29 | <details><summary>13 pa...</summary><p>13 pages, 3 figures, 8 appendices. v2: credits Geldart and Vosko (1966) for the first evaluation of the three diagrams, adds the comparison with the exchange plus ring-diagram energy at q = 0, and cites the two-dimensional evaluation of Das Sarma (2026). The former Supplemental Material is now Appendices A to H</p></details> |
 | **[Excitons in solid molecular hydrogen from quantum Monte Carlo](https://arxiv.org/abs/2610.39894v1)** | 2026-10-29 | <details><summary>Main ...</summary><p>Main document 9 pages, 6 figures, supplementary information 14 pages, 13 figures, to appear on PRB</p></details> |
 | **[A VLSI-Like Design and Verification Flow for Quantum Circuits: A Case Study in PI Estimation](https://arxiv.org/abs/2610.39263v1)** | 2026-10-29 |  |
@@ -193,6 +195,4 @@ labels: documentation
 | **[Benchmarking the accuracy of superconducting pair-pair correlations within Constrained Path Quantum Monte Carlo](https://arxiv.org/abs/2603.25858v2)** | 2026-10-22 | 13 pages, 12 figures |
 | **[Graph-Theoretic Formulation of Hamiltonian and Ground-State Sign Structures in Heisenberg Antiferromagnets](https://arxiv.org/abs/2602.04943v5)** | 2026-10-21 | <details><summary>v5: S...</summary><p>v5: Substantially extended and rewritten version with a new title and two additional authors. Versions v1 to v4 appeared as "Graph-Theoretic Analysis of Phase Optimization Complexity in Variational Wave Functions for Heisenberg Antiferromagnets"</p></details> |
 | **[Acceleration of CTQMC via Denoising Diffusion Models with Auxiliary Spectral Functions](https://arxiv.org/abs/2610.28542v1)** | 2026-10-20 | 12 pages, 9 figures |
-| **[Néel Ordered Magnetic Phases in Bipartite Quasicrystals](https://arxiv.org/abs/2511.22204v2)** | 2026-10-20 | <details><summary>4.2 p...</summary><p>4.2 pages, 4 figures, with supplementary materials</p></details> |
-| **[Good-$Γ$ Numbers: A Shell-Optimized Route to the Thermodynamic Limit in Quantum Monte Carlo Calculations of the High-Density Two-Dimensional Electron Gas](https://arxiv.org/abs/2610.27761v1)** | 2026-10-20 | <details><summary>https...</summary><p>https://journals.aps.org/apsos/accepted/10.1103/2l4w-tl87</p></details> |
 
