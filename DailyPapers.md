@@ -1,5 +1,5 @@
 # Daily Papers
-Last update: 2026-11-11
+Last update: 2026-11-12
 
 ## Superconductivity
 | **Title** | **Date** | **Abstract** | **Comment** |
